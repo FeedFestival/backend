@@ -4,12 +4,12 @@ CREATE TABLE product (
   `Id` int(10) NOT NULL,
   `Name` varchar(250) NOT NULL,
   `Description` varchar(500) NULL,
+  `id_material` int (10) NULL,
+  `id_measure` int (10) NULL,
+  `id_model` int (10) NULL,
   `PicturePath` varchar(500) NULL,
   `SubCategoryId` int(10) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-
--- SELECT `id`, `description`, `id_material`, 
--- `name`, `id_measure`, `id_model` FROM `product` WHERE 1
 
 ALTER TABLE product
   ADD PRIMARY KEY (`Id`);
