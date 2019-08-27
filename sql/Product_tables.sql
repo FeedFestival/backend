@@ -8,6 +8,9 @@ CREATE TABLE product (
   `SubCategoryId` int(10) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
+-- SELECT `id`, `description`, `id_material`, 
+-- `name`, `id_measure`, `id_model` FROM `product` WHERE 1
+
 ALTER TABLE product
   ADD PRIMARY KEY (`Id`);
 
