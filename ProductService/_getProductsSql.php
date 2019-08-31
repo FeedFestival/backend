@@ -11,7 +11,7 @@
                 , product.description
                 , product.picture_path
                 , product.id_subcategory
-                , product.id_material, product.id_measure, product.id_model
+                , product.id_material, product.id_model
                 , cat.description as categoryDescription
                 , scat.description as subCategoryDescription
             FROM product
