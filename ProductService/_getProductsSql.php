@@ -6,23 +6,23 @@
 
     function product_getProducts($subCategoryId = 0){
         $r = "
-            SELECT product.Id
-                , product.Name
-                , product.Description
-                , product.PicturePath
-                , product.SubCategoryId
+            SELECT product.id
+                , product.name
+                , product.description
+                , product.picture_path
+                , product.id_subcategory
                 , product.id_material, product.id_measure, product.id_model
-                , cat.Description as categoryDescription
-                , scat.Description as subCategoryDescription
+                , cat.description as categoryDescription
+                , scat.description as subCategoryDescription
             FROM product
-            INNER JOIN category as cat on product.CategoryId = cat.Id
-            INNER JOIN category as scat on product.SubCategoryId = scat.Id
+            INNER JOIN category as cat on product.id_category = cat.id
+            INNER JOIN category as scat on product.id_subcategory = scat.id
             WHERE 1 = 1
             ";
 
         if ($subCategoryId > 0) {
             $r .= " 
-                AND product.SubCategoryId = ".$subCategoryId."";
+                AND product.id_subcategory = ".$subCategoryId."";
         }
 
         return $r;

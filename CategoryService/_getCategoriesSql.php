@@ -6,17 +6,17 @@
 
     function category_getCategories($categoryId = 0){
         $r = "
-            SELECT category.Id
-                , category.Description
-                , category.Level
+            SELECT category.id
+                , category.description
+                , category.level
             FROM category
             ";
 
         if ($categoryId > 0) {
             $r .= "
                 INNER JOIN categories_subcategories 
-                    ON categories_subcategories.CategoryId = ".$categoryId."
-                    		AND categories_subcategories.SubCategoryId = category.Id";
+                    ON categories_subcategories.id_category = ".$categoryId."
+                    		AND categories_subcategories.id_subcategory = category.id";
         }
 
         $r .= " 
@@ -25,11 +25,11 @@
 
         if ($categoryId > 0) {
             $r .= "
-                AND category.Level = 2
+                AND category.level = 2
                 ";
         } else {
             $r .= " 
-                AND category.Level = 1";
+                AND category.level = 1";
         }
 
         return $r;
