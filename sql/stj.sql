@@ -63,21 +63,7 @@ CREATE TABLE `categories_subcategories` (
   `id_subcategory` int(10) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Dumping data for table `categories_subcategories`
---
 
-INSERT INTO `categories_subcategories` (`id_category`, `id_subcategory`) VALUES
-(1, 5),
-(1, 6),
-(1, 7),
-(2, 5),
-(2, 6),
-(3, 5),
-(3, 6),
-(4, 5),
-(4, 6),
-(4, 8);
 
 -- --------------------------------------------------------
 
@@ -91,19 +77,7 @@ CREATE TABLE `category` (
   `level` int(2) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Dumping data for table `category`
---
 
-INSERT INTO `category` (`id`, `description`, `level`) VALUES
-(1, 'Pentru ea', 1),
-(2, 'Pentru el', 1),
-(3, 'Pentru cuplu', 1),
-(4, 'Pentru copii', 1),
-(5, 'Bratari', 2),
-(6, 'Lanturi', 2),
-(7, 'Coliere cu nume', 2),
-(8, 'Banuti mot', 2);
 
 -- --------------------------------------------------------
 
@@ -193,13 +167,6 @@ CREATE TABLE `model` (
   `price` double DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Dumping data for table `model`
---
-
-INSERT INTO `model` (`id`, `name`, `description`, `price`) VALUES
-(1, 'S-Clase', 'Jmecherie', 2000000);
-
 -- --------------------------------------------------------
 
 --
@@ -233,15 +200,6 @@ CREATE TABLE `product` (
   `id_subcategory` int(10) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
---
--- Dumping data for table `product`
---
-
-INSERT INTO `product` (`id`, `name`, `description`, `id_material`, `id_model`, `picture_path`, `id_category`, `id_subcategory`) VALUES
-(1, 'Bratara 1', '', NULL, NULL, 'Lant1', 1, 5),
-(2, 'Bratara 2', '', NULL, NULL, 'Lant1', 1, 6),
-(3, 'Bratara 3', '', NULL, NULL, 'Lant1', 1, 6),
-(4, 'Colier 1', '', NULL, NULL, 'Lant1', 1, 6);
 
 --
 -- Indexes for dumped tables
@@ -362,38 +320,9 @@ ALTER TABLE `model`
 ALTER TABLE `product`
   MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 
---
--- Constraints for dumped tables
---
-
---
--- Constraints for table `product`
---
-
-ALTER TABLE `cart`
-  ADD CONSTRAINT `cart_invoice` FOREIGN KEY (`id_invoice`) REFERENCES `invoice` (`id`),
-  ADD CONSTRAINT `cart_client` FOREIGN KEY (`id_client`) REFERENCES `client` (`id`);
-
-ALTER TABLE `cart_product`
-  ADD CONSTRAINT `cart_cart` FOREIGN KEY (`id_cart`) REFERENCES `cart` (`id`),
-  ADD CONSTRAINT `cart_product_options` FOREIGN KEY (`id_product_options`) REFERENCES `product_options` (`id`);
-
-ALTER TABLE `categories_subcategories`
-  ADD CONSTRAINT `category_category` FOREIGN KEY (`id_category`) REFERENCES `category` (`id`),
-  ADD CONSTRAINT `category_subcategory` FOREIGN KEY (`id_subcategory`) REFERENCES `category` (`id`);
-
-ALTER TABLE `model`
-  ADD CONSTRAINT `model_measure` FOREIGN KEY (`id_measure`) REFERENCES `measure` (`id`);
-
 ALTER TABLE `product_options`
-  ADD CONSTRAINT `product_options_product` FOREIGN KEY (`id_product`) REFERENCES `product` (`id`),
-  ADD CONSTRAINT `product_options_gravura` FOREIGN KEY (`id_gravura`) REFERENCES `gravura` (`id`);
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 
-ALTER TABLE `product`
-  ADD CONSTRAINT `product_category` FOREIGN KEY (`id_category`) REFERENCES `category` (`id`),
-  ADD CONSTRAINT `product_material` FOREIGN KEY (`id_material`) REFERENCES `material` (`id`),
-  ADD CONSTRAINT `product_model` FOREIGN KEY (`id_model`) REFERENCES `model` (`id`),
-  ADD CONSTRAINT `product_sub_category` FOREIGN KEY (`id_subcategory`) REFERENCES `category` (`id`);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

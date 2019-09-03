@@ -1,0 +1,22 @@
+{
+	"id": "4",
+	"name": "Colier",
+	"material": {
+		"id": "3"
+	},
+	"model": {
+		"id": "1",
+		"measure": {
+			"id": "1"
+		}
+	},
+	"options": {
+		"gravura": {
+			"id": "2"
+		},
+		"file": null,
+		"text": "Am luat licenta!",
+        "nume": null,
+        "id_client": "1"
+	}
+}
