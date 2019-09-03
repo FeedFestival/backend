@@ -18,7 +18,7 @@
 	// 2 => now insert the settings for the user: probably: unique_id, and email;
 	foreach ($data['setting']['settings'] as &$setting) {
 		// => get type by prog_id
-		$type_id = getId(TryQuerry($conn, 
+		$type_id = _getId(TryQuerry($conn, 
 						type_getId($setting['type']['prog_id'], 'user')));
 		if ($type_id < 0)
 		    $type_id = TryQuerry($conn, 
@@ -43,14 +43,14 @@
 
 	// 4 => now connect the current app with the user.
 
-		$app_id = getId(TryQuerry($conn, 
+		$app_id = _getId(TryQuerry($conn, 
 							setting_getColumn("app", $data['current_app']['app_type_prog_id'], $data['current_app']['app_value'])));
 	
 		// => save the settings between the app and the user, probably a connect identifier from facebook, tiwtter or google.
 		$parent_setting_id = TryQuerry($conn, 
 								setting_Create(NULL, "user_con_app_settings", NULL), 
 							true);
-		$type_id = getId(TryQuerry($conn, 
+		$type_id = _getId(TryQuerry($conn, 
 							type_getId($data['current_app']['user_type_prog_id'], 'user_con_app')));
 		TryQuerry($conn, 
 			setting_Create($type_id, $data['current_app']['user_value'], $parent_setting_id));
@@ -76,7 +76,7 @@
 			
 			$friend_id = 0;
 			// => check if we have them in the database, or we lost them.
-			$friend_id = getId(TryQuerry($conn, 
+			$friend_id = _getId(TryQuerry($conn, 
 							setting_getColumn('user_con_app', 'user_scoped_id', $friend['user_scoped_id'], "user_id")
 							));
 

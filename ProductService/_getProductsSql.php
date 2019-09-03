@@ -1,9 +1,5 @@
 <?php
 
-    function IsNullOrEmptyString($question){
-        return (!isset($question) || trim($question)==='');
-    }
-
     function product_getProducts($subCategoryId = 0){
         $r = "
             SELECT product.id

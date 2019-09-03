@@ -1,6 +1,6 @@
 <?php
 
-    function getId($result){
+    function _getId($result){
         if (mysqli_num_rows($result) < 1) {
             return -1;
         } else {

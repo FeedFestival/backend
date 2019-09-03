@@ -113,6 +113,7 @@ INSERT INTO `category` (`id`, `description`, `level`) VALUES
 
 CREATE TABLE `client` (
   `id` int(11) NOT NULL,
+  `id_device` varchar(100) NOT NULL,
   `email` varchar(250) NOT NULL,
   `password` varchar(250) NOT NULL,
   `salt` varchar(50) NOT NULL,

@@ -1,6 +1,6 @@
 <?php
 
-    function IsNullOrEmptyString($question){
+    function _isNullOrEmpty($question){
         return (!isset($question) || trim($question)==='');
     }
 
