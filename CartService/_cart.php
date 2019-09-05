@@ -59,7 +59,30 @@
         INSERT INTO cart_product (id_cart, id_product_options, quantity) VALUES
         (".sqlNr($id_cart).", ".sqlNr($id_product_options).", ".sqlNr($quantity).");
         ";
+        return $r;
+    }
 
+    function _cart_updateProductInCart($id_cart, $id_product_options, $quantity) {
+        $r = "
+        UPDATE cart_product SET quantity = ".sqlNr($quantity)."
+        WHERE id_cart = ".sqlNr($id_cart)." AND id_product_options = ".sqlNr($id_product_options)."
+        ";
+        return $r;
+    }
+
+    function _cart_createEmptyInvoice() {
+        $r = "
+        INSERT INTO invoice (quantity, price, vat_price, total_price) VALUES
+        (0, 0, 0, 0);
+        ";
+        return $r;
+    }
+    
+    function _cart_createCart($id_invoice, $id_client) {
+        $r = "
+        INSERT INTO cart (id_invoice, id_client, is_in_progress) VALUES
+        (".sqlNr($id_invoice).", ".sqlNr($id_client).", 1);
+        ";
         return $r;
     }
 ?>

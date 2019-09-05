@@ -162,7 +162,7 @@ CREATE TABLE `measure` (
 CREATE TABLE `model` (
   `id` int(11) NOT NULL,
   `name` varchar(50) DEFAULT NULL,
-  `description` varchar(5000) DEFAULT NULL,
+  `grams` double DEFAULT NULL,
   `id_measure` int (10) NULL,
   `price` double DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
@@ -289,6 +289,12 @@ ALTER TABLE `product_options`
 --
 -- AUTO_INCREMENT for dumped tables
 --
+
+ALTER TABLE `cart`
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
+
+ALTER TABLE `invoice`
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
 
 --
 -- AUTO_INCREMENT for table `category`

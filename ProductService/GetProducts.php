@@ -7,12 +7,12 @@
     include($dir."/Utils/_ToObject.php");
     include($dir."/ProductService/_getProductsSql.php");
 
-    $subCategoryId = intval($_REQUEST["subCategoryId"]);
+	$id_category = intval($_REQUEST["id_category"]);
+	$id_subcategory = intval($_REQUEST["id_subcategory"]);
 
-    // echo($subCategoryId);
-	
-	// get the user password for GameSparks
-	$result = TryQuerry($conn, product_getProducts($subCategoryId));
+	$sql = product_getProducts($id_category, $id_subcategory);
+	// echo($sql);
+	$result = TryQuerry($conn, $sql);
 
 	$arr = array();
 	
