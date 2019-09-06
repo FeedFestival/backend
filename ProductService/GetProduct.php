@@ -7,21 +7,20 @@
     // include($dir."/Utils/_ToObject.php");
     include($dir."/ProductService/_getProductsSql.php");
 
-	$id_category = intval($_REQUEST["id_category"]);
-	$id_subcategory = intval($_REQUEST["id_subcategory"]);
+	$id_product = intval($_REQUEST["id_product"]);
 
-	$sql = product_getProducts($id_category, $id_subcategory);
-	// echo($sql);
+	$sql = product_getProduct($id_product);
+    // echo($sql);
 	$result = TryQuerry($conn, $sql);
 
-	$arr = array();
-	
+    $product = new stdClass();
+
 	if (mysqli_num_rows($result) > 0) {
 		while($row = $result->fetch_assoc()) {
-			$arr[] = $row;
+			$product = FillProduct($row);
 		}
 	}
 	# JSON-encode the response
-	echo $json_response = json_encode($arr);
+	echo $json_response = json_encode($product);
 
 ?>

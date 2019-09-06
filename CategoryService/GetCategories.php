@@ -4,7 +4,7 @@
     $dir = $_SERVER['DOCUMENT_ROOT']."/StJ";
     include($dir."/_connect.php");
     include($dir."/Utils/_TryQuerry.php");
-    include($dir."/Utils/_ToObject.php");
+    // include($dir."/Utils/_ToObject.php");
     include($dir."/CategoryService/_getCategoriesSql.php");
 
     $categoryId = intval($_REQUEST["categoryId"]);
