@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 06, 2019 at 12:07 AM
+-- Generation Time: Sep 09, 2019 at 05:24 AM
 -- Server version: 10.3.15-MariaDB
 -- PHP Version: 7.3.6
 
@@ -59,9 +59,11 @@ CREATE TABLE `cart_product` (
 --
 
 INSERT INTO `cart_product` (`id_cart`, `id_product_options`, `quantity`) VALUES
-(1, 1, 1),
-(1, 2, 1),
-(1, 3, 2);
+(1, 4, 2),
+(1, 17, 2),
+(1, 18, 2),
+(1, 19, 2),
+(1, 20, 1);
 
 -- --------------------------------------------------------
 
@@ -142,7 +144,7 @@ CREATE TABLE `client` (
 --
 
 INSERT INTO `client` (`id`, `id_device`, `email`, `password`, `salt`, `lastname`, `firstname`, `phone`, `address1`, `address2`, `city`, `county`) VALUES
-(1, '2848b212cd593c31b3628b17d21d0fdcd5a8b2e9', '', '', '', '', '', NULL, NULL, NULL, NULL, NULL);
+(1, '2848b212cd593c31b3628b17d21d0fdcd5a8b2e9', 'laviniafmazilu@gmail.com', 'parola1', '', 'Mazilu', 'Lavinia', '123151123411', 'Gladioleri, 4', NULL, 'Constanta', 'Constanta');
 
 -- --------------------------------------------------------
 
@@ -257,7 +259,8 @@ INSERT INTO `model` (`id`, `name`, `grams`, `id_measure`, `price`) VALUES
 (3, 'Colier 30', 0, 3, 29.9),
 (4, 'Colier 40', 0, 4, 39.9),
 (5, 'Patrat', 2, 5, 15.9),
-(6, 'Inima', 2, 5, 15.9);
+(6, 'Inima', 2, 5, 15.9),
+(7, 'Nume', 3.5, 3, 64.9);
 
 -- --------------------------------------------------------
 
@@ -287,7 +290,8 @@ INSERT INTO `product` (`id`, `name`, `description`, `length`, `id_material`, `id
 (3, 'Bratara Patrata', '', 0, 1, 5, 'Bratara_patrata', 1, 5),
 (4, 'Colier Inox 40mm', '', 0, 2, 4, 'colier_inox_30', 2, 6),
 (5, 'Bratara cu banut, 16.5', '', 0, 1, 1, 'Bratara_banut_16_5', 1, 5),
-(6, 'Bratara cu banut, 18.5', '', 0, 1, 2, 'bratara_banut_18_5', 2, 5);
+(6, 'Bratara cu banut, 18.5', '', 0, 1, 2, 'bratara_banut_18_5', 2, 5),
+(7, 'Colier cu nume', '', 3.5, 1, 7, 'Colier_Nume', 1, 6);
 
 -- --------------------------------------------------------
 
@@ -300,6 +304,7 @@ CREATE TABLE `product_options` (
   `id_product` int(10) NOT NULL,
   `file` varchar(500) DEFAULT NULL,
   `text` varchar(100) DEFAULT NULL,
+  `text_verso` varchar(500) DEFAULT NULL,
   `nume` varchar(50) DEFAULT NULL,
   `id_gravura` int(11) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
@@ -308,10 +313,12 @@ CREATE TABLE `product_options` (
 -- Dumping data for table `product_options`
 --
 
-INSERT INTO `product_options` (`id`, `id_product`, `file`, `text`, `nume`, `id_gravura`) VALUES
-(1, 6, NULL, 'Dani + Lavi', NULL, 1),
-(2, 5, NULL, 'Lavi + Dani', NULL, 3),
-(3, 4, NULL, 'Am luat licenta!', NULL, 2);
+INSERT INTO `product_options` (`id`, `id_product`, `file`, `text`, `text_verso`, `nume`, `id_gravura`) VALUES
+(4, 1, '1_1_cool.jpg', NULL, NULL, NULL, 1),
+(17, 6, NULL, 'Textul meu', 'Verso Text', NULL, 3),
+(18, 7, NULL, NULL, NULL, 'Claudia', 1),
+(19, 7, NULL, NULL, NULL, 'Andreea', 1),
+(20, 7, NULL, NULL, NULL, 'Ana', 1);
 
 --
 -- Indexes for dumped tables
@@ -445,19 +452,19 @@ ALTER TABLE `invoice`
 -- AUTO_INCREMENT for table `model`
 --
 ALTER TABLE `model`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
 
 --
 -- AUTO_INCREMENT for table `product`
 --
 ALTER TABLE `product`
-  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
 
 --
 -- AUTO_INCREMENT for table `product_options`
 --
 ALTER TABLE `product_options`
-  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=21;
 
 --
 -- Constraints for dumped tables
