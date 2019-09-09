@@ -289,13 +289,14 @@ CREATE TABLE `product` (
 --
 
 INSERT INTO `product` (`id`, `name`, `description`, `length`, `id_material`, `id_model`, `picture_path`, `id_category`, `id_subcategory`) VALUES
-(1, 'Bratara Inimioara', '', 0, 1, 6, 'Bratara1', 1, 5),
-(2, 'Colier Inox 30mm', '', 0, 2, 3, 'colier_inox_30', 1, 7),
-(3, 'Bratara Patrata', '', 0, 1, 5, 'Bratara_patrata', 1, 5),
-(4, 'Colier Inox 40mm', '', 0, 2, 4, 'colier_inox_30', 2, 6),
-(5, 'Bratara cu banut, 16.5', '', 0, 1, 1, 'Bratara_banut_16_5', 1, 5),
-(6, 'Bratara cu banut, 18.5', '', 0, 1, 2, 'bratara_banut_18_5', 2, 5),
-(7, 'Colier cu nume', '', 3.5, 1, 7, 'Colier_Nume', 1, 6);
+(1, 'Bratara Inimioara', 'Inimioara este din argint placat cu Rodiu;  Dimensiunea inimioarei este de (la comanda, putem schimba dimensiunea) ;  Bratara este din snur subtire, reglabil.  Pretul este acelasi pentru orice nume, cuvant, simbol, etc.', 0, 1, 6, 'Bratara1', 1, 5),
+(2, 'Colier Inox 30mm', 'Pretul mic, gravura profesionala de exceptie si rezistenta inoxul il fac un bestseller absolut! Ce poti grava? Absolut orice iti doresti.  Pretul este acelasi pentru orice nume, cuvant, simbol, etc.', 0, 2, 3, 'colier_inox_30', 1, 7),
+(3, 'Bratara Patrata', 'De ce sa fie toate bratarile cu banuti rotunzi? Forma patrata a placutei din argint ii da un plus de eleganta si o face sa fie atractiva si pentru barbati. Cati barbati ati vazut cu banuti sau inimioare la mana? Dar patrat... altceva ;) Se poate personaliza prin gravura cu orice doriti dumneavoastra fotografie, text.', 0, 1, 5, 'Bratara_patrata', 1, 5),
+(4, 'Colier Inox 40mm', 'Pretul mic, gravura profesionala de exceptie si rezistenta inoxul il fac un bestseller absolut! Ce poti grava? Absolut orice iti doresti.  Pretul este acelasi pentru orice nume, cuvant, simbol, etc.', 0, 2, 4, 'colier_inox_30', 2, 6),
+(5, 'Bratara cu banut, 16.5', 'Banutul este din argint, placat cu Rodiu;  Dimensiunea banutului este de 16.5mm;  Bratara este din snur subtire, reglabil.  Pretul este acelasi pentru orice nume, cuvant, simbol, etc.', 0, 1, 1, 'Bratara_banut_16_5', 1, 5),
+(6, 'Bratara cu banut, 18.5', 'Bratara cu banut de 18.5mm, din argint 925, placat cu Rodiu. Se poate grava cu absolut orice doresti - fotografie, desen, text. In pretul afisat este inclusa gravura si snurul. Finisare manuala, cu luciu de oglinda, placat cu Rodiu. Gravura este acoperita cu un strat fin, Bright Coating, ce ii ofera stralucire si rezistenta in timp.  Pretul este acelasi pentru orice nume, cuvant, simbol, etc.', 0, 1, 2, 'bratara_banut_18_5', 2, 5),
+(7, 'Colier cu nume', 'Aceasta este o varianta de lantisor cu nume pentru cei care doresc un scris mai simplu, lizibil, cu literele bine definite fara codite.  Dimensiunile sunt acelea ale unei bijuterii clasice si ofera o nota de discretie si atentie la detalii.', 3.5, 1, 7, 'Colier_Nume', 1, 6);
+
 
 -- --------------------------------------------------------
 
