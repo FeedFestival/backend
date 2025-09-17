@@ -1,0 +1,5 @@
+export const data = {
+	'display-ribbon-on-profiles': 'dev, uat, preprod',
+	activeProfiles: 'dev, swagger',
+	version: '3.1.0-SNAPSHOT',
+};
