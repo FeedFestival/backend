@@ -1,0 +1,1572 @@
+[
+    {
+        "categoryId": 43521,
+        "categoryDescription": "Perfumes & Cosmetics",
+        "details": [
+            {
+                "poWindowId": 225,
+                "value": 44568850.8
+            },
+            {
+                "poWindowId": 213,
+                "value": 36735657.9
+            },
+            {
+                "poWindowId": 210,
+                "value": 32950533.7
+            },
+            {
+                "poWindowId": 212,
+                "value": 44430569.1
+            },
+            {
+                "poWindowId": 257,
+                "value": 164821.0
+            },
+            {
+                "poWindowId": 219,
+                "value": 46735055.3
+            },
+            {
+                "poWindowId": 223,
+                "value": 42421165.1
+            },
+            {
+                "poWindowId": 217,
+                "value": 56084541.5
+            },
+            {
+                "poWindowId": 211,
+                "value": 40028995.4
+            },
+            {
+                "poWindowId": 248,
+                "value": 17953.5
+            },
+            {
+                "poWindowId": 218,
+                "value": 59537444.9
+            },
+            {
+                "poWindowId": 252,
+                "value": 9161042.0
+            },
+            {
+                "poWindowId": 246,
+                "value": 1750508.6
+            },
+            {
+                "poWindowId": 230,
+                "value": 54429186.7
+            },
+            {
+                "poWindowId": 247,
+                "value": 1932394.3
+            },
+            {
+                "poWindowId": 250,
+                "value": 6425.4
+            },
+            {
+                "poWindowId": 224,
+                "value": 47250677.6
+            },
+            {
+                "poWindowId": 216,
+                "value": 47793495.2
+            },
+            {
+                "poWindowId": 254,
+                "value": 20453413.4
+            },
+            {
+                "poWindowId": 226,
+                "value": 48214326.2
+            },
+            {
+                "poWindowId": 215,
+                "value": 44486202.7
+            },
+            {
+                "poWindowId": 256,
+                "value": 16955263.3
+            },
+            {
+                "poWindowId": 243,
+                "value": 28764.9
+            },
+            {
+                "poWindowId": 242,
+                "value": 111970.0
+            },
+            {
+                "poWindowId": 228,
+                "value": 48283679.5
+            },
+            {
+                "poWindowId": 231,
+                "value": 68029032.0
+            },
+            {
+                "poWindowId": 222,
+                "value": 43657490.9
+            },
+            {
+                "poWindowId": 221,
+                "value": 35375298.7
+            },
+            {
+                "poWindowId": 244,
+                "value": 2689521.4
+            },
+            {
+                "poWindowId": 255,
+                "value": 6456818230.0
+            },
+            {
+                "poWindowId": 253,
+                "value": 917149.5
+            },
+            {
+                "poWindowId": 229,
+                "value": 41213795.7
+            },
+            {
+                "poWindowId": 258,
+                "value": 50000.0
+            },
+            {
+                "poWindowId": 232,
+                "value": 60409551.0
+            },
+            {
+                "poWindowId": 214,
+                "value": 44819781.7
+            },
+            {
+                "poWindowId": 241,
+                "value": 2776780.2
+            },
+            {
+                "poWindowId": 227,
+                "value": 51964043.0
+            },
+            {
+                "poWindowId": 220,
+                "value": 41834195.3
+            },
+            {
+                "poWindowId": 245,
+                "value": 523269.5
+            }
+        ]
+    },
+    {
+        "categoryId": 43523,
+        "categoryDescription": "Food & Confectionery",
+        "details": [
+            {
+                "poWindowId": 242,
+                "value": 174632.4
+            },
+            {
+                "poWindowId": 229,
+                "value": 12182352.4
+            },
+            {
+                "poWindowId": 243,
+                "value": 61476.5
+            },
+            {
+                "poWindowId": 217,
+                "value": 9834660.3
+            },
+            {
+                "poWindowId": 244,
+                "value": 186744.9
+            },
+            {
+                "poWindowId": 250,
+                "value": 0.0
+            },
+            {
+                "poWindowId": 253,
+                "value": 1436.0
+            },
+            {
+                "poWindowId": 231,
+                "value": 12661046.3
+            },
+            {
+                "poWindowId": 220,
+                "value": 10824790.0
+            },
+            {
+                "poWindowId": 245,
+                "value": 65999.3
+            },
+            {
+                "poWindowId": 228,
+                "value": 13185112.0
+            },
+            {
+                "poWindowId": 232,
+                "value": 11685238.4
+            },
+            {
+                "poWindowId": 219,
+                "value": 10623952.8
+            },
+            {
+                "poWindowId": 215,
+                "value": 8114571.3
+            },
+            {
+                "poWindowId": 213,
+                "value": 6891551.8
+            },
+            {
+                "poWindowId": 211,
+                "value": 8152033.8
+            },
+            {
+                "poWindowId": 216,
+                "value": 7315896.6
+            },
+            {
+                "poWindowId": 221,
+                "value": 10303712.2
+            },
+            {
+                "poWindowId": 252,
+                "value": 489814.0
+            },
+            {
+                "poWindowId": 255,
+                "value": 903290446.0
+            },
+            {
+                "poWindowId": 225,
+                "value": 10730979.2
+            },
+            {
+                "poWindowId": 241,
+                "value": 1344370.0
+            },
+            {
+                "poWindowId": 227,
+                "value": 11695811.9
+            },
+            {
+                "poWindowId": 246,
+                "value": 7493608.3
+            },
+            {
+                "poWindowId": 230,
+                "value": 11952298.0
+            },
+            {
+                "poWindowId": 251,
+                "value": 1000.1
+            },
+            {
+                "poWindowId": 222,
+                "value": 8074713.7
+            },
+            {
+                "poWindowId": 210,
+                "value": 7435190.0
+            },
+            {
+                "poWindowId": 258,
+                "value": 888345660.0
+            },
+            {
+                "poWindowId": 256,
+                "value": 14001.1
+            },
+            {
+                "poWindowId": 224,
+                "value": 10406445.1
+            },
+            {
+                "poWindowId": 233,
+                "value": 11349.3
+            },
+            {
+                "poWindowId": 254,
+                "value": 126712.5
+            },
+            {
+                "poWindowId": 226,
+                "value": 13509218.7
+            },
+            {
+                "poWindowId": 212,
+                "value": 5584794.1
+            },
+            {
+                "poWindowId": 218,
+                "value": 11274086.0
+            },
+            {
+                "poWindowId": 223,
+                "value": 8702235.4
+            },
+            {
+                "poWindowId": 214,
+                "value": 6907892.4
+            },
+            {
+                "poWindowId": 247,
+                "value": 1128749.2
+            },
+            {
+                "poWindowId": 257,
+                "value": 145417525.0
+            }
+        ]
+    },
+    {
+        "categoryId": 43524,
+        "categoryDescription": "Other Goods",
+        "details": [
+            {
+                "poWindowId": 219,
+                "value": 81658.0
+            },
+            {
+                "poWindowId": 211,
+                "value": 113023.2
+            },
+            {
+                "poWindowId": 256,
+                "value": 14469.8
+            },
+            {
+                "poWindowId": 227,
+                "value": 305561.3
+            },
+            {
+                "poWindowId": 228,
+                "value": 174243.2
+            },
+            {
+                "poWindowId": 212,
+                "value": 306753.0
+            },
+            {
+                "poWindowId": 245,
+                "value": 20781.0
+            },
+            {
+                "poWindowId": 218,
+                "value": 163215.4
+            },
+            {
+                "poWindowId": 247,
+                "value": 20781.0
+            },
+            {
+                "poWindowId": 221,
+                "value": 142817.8
+            },
+            {
+                "poWindowId": 217,
+                "value": 179002.7
+            },
+            {
+                "poWindowId": 230,
+                "value": 176902.8
+            },
+            {
+                "poWindowId": 223,
+                "value": 281327.6
+            },
+            {
+                "poWindowId": 216,
+                "value": 73581.3
+            },
+            {
+                "poWindowId": 232,
+                "value": 66965.1
+            },
+            {
+                "poWindowId": 210,
+                "value": 83327.5
+            },
+            {
+                "poWindowId": 225,
+                "value": 84756.4
+            },
+            {
+                "poWindowId": 258,
+                "value": 5010010.0
+            },
+            {
+                "poWindowId": 226,
+                "value": 269543.8
+            },
+            {
+                "poWindowId": 246,
+                "value": 20781.0
+            },
+            {
+                "poWindowId": 241,
+                "value": 50574.1
+            },
+            {
+                "poWindowId": 224,
+                "value": 126293.9
+            },
+            {
+                "poWindowId": 215,
+                "value": 164817.1
+            },
+            {
+                "poWindowId": 231,
+                "value": 118361.7
+            },
+            {
+                "poWindowId": 244,
+                "value": 142485.1
+            },
+            {
+                "poWindowId": 220,
+                "value": 108772.2
+            },
+            {
+                "poWindowId": 222,
+                "value": 186245.9
+            },
+            {
+                "poWindowId": 213,
+                "value": 224721.6
+            },
+            {
+                "poWindowId": 229,
+                "value": 127787.7
+            },
+            {
+                "poWindowId": 214,
+                "value": 95355.1
+            }
+        ]
+    },
+    {
+        "categoryId": 43528,
+        "categoryDescription": "Toys",
+        "details": [
+            {
+                "poWindowId": 231,
+                "value": 156648.8
+            },
+            {
+                "poWindowId": 247,
+                "value": 81599.9
+            },
+            {
+                "poWindowId": 211,
+                "value": 158496.7
+            },
+            {
+                "poWindowId": 212,
+                "value": 197664.4
+            },
+            {
+                "poWindowId": 226,
+                "value": 291576.2
+            },
+            {
+                "poWindowId": 229,
+                "value": 337655.3
+            },
+            {
+                "poWindowId": 221,
+                "value": 130401.0
+            },
+            {
+                "poWindowId": 210,
+                "value": 87296.1
+            },
+            {
+                "poWindowId": 223,
+                "value": 115131.0
+            },
+            {
+                "poWindowId": 246,
+                "value": 8599.9
+            },
+            {
+                "poWindowId": 218,
+                "value": 371430.1
+            },
+            {
+                "poWindowId": 225,
+                "value": 325990.5
+            },
+            {
+                "poWindowId": 228,
+                "value": 376401.6
+            },
+            {
+                "poWindowId": 256,
+                "value": 8599.9
+            },
+            {
+                "poWindowId": 219,
+                "value": 388235.1
+            },
+            {
+                "poWindowId": 216,
+                "value": 110171.6
+            },
+            {
+                "poWindowId": 254,
+                "value": 8599.9
+            },
+            {
+                "poWindowId": 214,
+                "value": 121543.4
+            },
+            {
+                "poWindowId": 241,
+                "value": 43203.0
+            },
+            {
+                "poWindowId": 213,
+                "value": 143833.8
+            },
+            {
+                "poWindowId": 215,
+                "value": 121991.1
+            },
+            {
+                "poWindowId": 217,
+                "value": 256734.2
+            },
+            {
+                "poWindowId": 244,
+                "value": 22819.7
+            },
+            {
+                "poWindowId": 220,
+                "value": 275549.6
+            },
+            {
+                "poWindowId": 258,
+                "value": 3809010.0
+            },
+            {
+                "poWindowId": 222,
+                "value": 116645.9
+            },
+            {
+                "poWindowId": 230,
+                "value": 294453.8
+            },
+            {
+                "poWindowId": 243,
+                "value": 8599.9
+            },
+            {
+                "poWindowId": 232,
+                "value": 262639.3
+            },
+            {
+                "poWindowId": 227,
+                "value": 130708.5
+            },
+            {
+                "poWindowId": 224,
+                "value": 270483.3
+            }
+        ]
+    },
+    {
+        "categoryId": 43530,
+        "categoryDescription": "Literature & Publications",
+        "details": [
+            {
+                "poWindowId": 221,
+                "value": 42619.7
+            },
+            {
+                "poWindowId": 219,
+                "value": 45202.0
+            },
+            {
+                "poWindowId": 244,
+                "value": 3098.2
+            },
+            {
+                "poWindowId": 214,
+                "value": 52331.2
+            },
+            {
+                "poWindowId": 217,
+                "value": 72504.0
+            },
+            {
+                "poWindowId": 210,
+                "value": 96367.2
+            },
+            {
+                "poWindowId": 211,
+                "value": 39584.3
+            },
+            {
+                "poWindowId": 227,
+                "value": 48653.6
+            },
+            {
+                "poWindowId": 232,
+                "value": 92658.0
+            },
+            {
+                "poWindowId": 220,
+                "value": 192487.6
+            },
+            {
+                "poWindowId": 212,
+                "value": 156367.3
+            },
+            {
+                "poWindowId": 247,
+                "value": 878.0
+            },
+            {
+                "poWindowId": 229,
+                "value": 173006.2
+            },
+            {
+                "poWindowId": 243,
+                "value": 3173.9
+            },
+            {
+                "poWindowId": 225,
+                "value": 120925.2
+            },
+            {
+                "poWindowId": 216,
+                "value": 155214.3
+            },
+            {
+                "poWindowId": 213,
+                "value": 90013.9
+            },
+            {
+                "poWindowId": 231,
+                "value": 162679.9
+            },
+            {
+                "poWindowId": 258,
+                "value": 2608010.0
+            },
+            {
+                "poWindowId": 224,
+                "value": 196148.9
+            },
+            {
+                "poWindowId": 215,
+                "value": 62936.2
+            },
+            {
+                "poWindowId": 256,
+                "value": 878.0
+            },
+            {
+                "poWindowId": 228,
+                "value": 60664.0
+            },
+            {
+                "poWindowId": 222,
+                "value": 150299.1
+            },
+            {
+                "poWindowId": 254,
+                "value": 878.0
+            },
+            {
+                "poWindowId": 241,
+                "value": 7330.6
+            },
+            {
+                "poWindowId": 246,
+                "value": 878.0
+            },
+            {
+                "poWindowId": 218,
+                "value": 152441.0
+            },
+            {
+                "poWindowId": 230,
+                "value": 131543.5
+            },
+            {
+                "poWindowId": 223,
+                "value": 81491.6
+            },
+            {
+                "poWindowId": 226,
+                "value": 115728.3
+            }
+        ]
+    },
+    {
+        "categoryId": 43531,
+        "categoryDescription": "Souvenirs (local goods)",
+        "details": [
+            {
+                "poWindowId": 210,
+                "value": 291419.0
+            },
+            {
+                "poWindowId": 217,
+                "value": 418967.9
+            },
+            {
+                "poWindowId": 214,
+                "value": 856123.6
+            },
+            {
+                "poWindowId": 247,
+                "value": 31455.1
+            },
+            {
+                "poWindowId": 229,
+                "value": 1162855.6
+            },
+            {
+                "poWindowId": 227,
+                "value": 862777.8
+            },
+            {
+                "poWindowId": 221,
+                "value": 603508.6
+            },
+            {
+                "poWindowId": 226,
+                "value": 859211.0
+            },
+            {
+                "poWindowId": 220,
+                "value": 871494.1
+            },
+            {
+                "poWindowId": 230,
+                "value": 809557.9
+            },
+            {
+                "poWindowId": 219,
+                "value": 842287.7
+            },
+            {
+                "poWindowId": 231,
+                "value": 1044778.2
+            },
+            {
+                "poWindowId": 256,
+                "value": 16426.6
+            },
+            {
+                "poWindowId": 245,
+                "value": 1374.5
+            },
+            {
+                "poWindowId": 222,
+                "value": 583040.8
+            },
+            {
+                "poWindowId": 225,
+                "value": 740865.8
+            },
+            {
+                "poWindowId": 232,
+                "value": 786278.4
+            },
+            {
+                "poWindowId": 244,
+                "value": 26644.5
+            },
+            {
+                "poWindowId": 223,
+                "value": 1044987.3
+            },
+            {
+                "poWindowId": 228,
+                "value": 749150.0
+            },
+            {
+                "poWindowId": 243,
+                "value": 30080.6
+            },
+            {
+                "poWindowId": 216,
+                "value": 474560.6
+            },
+            {
+                "poWindowId": 246,
+                "value": 16426.6
+            },
+            {
+                "poWindowId": 254,
+                "value": 15052.1
+            },
+            {
+                "poWindowId": 215,
+                "value": 987769.3
+            },
+            {
+                "poWindowId": 242,
+                "value": 3396.9
+            },
+            {
+                "poWindowId": 218,
+                "value": 708020.5
+            },
+            {
+                "poWindowId": 213,
+                "value": 656201.1
+            },
+            {
+                "poWindowId": 224,
+                "value": 1027884.1
+            },
+            {
+                "poWindowId": 241,
+                "value": 90129.9
+            },
+            {
+                "poWindowId": 212,
+                "value": 1279425.4
+            },
+            {
+                "poWindowId": 211,
+                "value": 1024941.0
+            },
+            {
+                "poWindowId": 258,
+                "value": 2667015.0
+            }
+        ]
+    },
+    {
+        "categoryId": 43533,
+        "categoryDescription": "Electronics",
+        "details": [
+            {
+                "poWindowId": 216,
+                "value": 655348.4
+            },
+            {
+                "poWindowId": 256,
+                "value": 0.0
+            },
+            {
+                "poWindowId": 228,
+                "value": 555983.0
+            },
+            {
+                "poWindowId": 230,
+                "value": 1150226.5
+            },
+            {
+                "poWindowId": 225,
+                "value": 1096121.4
+            },
+            {
+                "poWindowId": 219,
+                "value": 588462.1
+            },
+            {
+                "poWindowId": 214,
+                "value": 621947.5
+            },
+            {
+                "poWindowId": 232,
+                "value": 709370.2
+            },
+            {
+                "poWindowId": 226,
+                "value": 833313.9
+            },
+            {
+                "poWindowId": 244,
+                "value": 4990.4
+            },
+            {
+                "poWindowId": 227,
+                "value": 640955.9
+            },
+            {
+                "poWindowId": 210,
+                "value": 316282.1
+            },
+            {
+                "poWindowId": 211,
+                "value": 614822.8
+            },
+            {
+                "poWindowId": 258,
+                "value": 4103020.0
+            },
+            {
+                "poWindowId": 222,
+                "value": 662428.7
+            },
+            {
+                "poWindowId": 231,
+                "value": 723048.5
+            },
+            {
+                "poWindowId": 218,
+                "value": 1171380.7
+            },
+            {
+                "poWindowId": 221,
+                "value": 763817.9
+            },
+            {
+                "poWindowId": 241,
+                "value": 13761.8
+            },
+            {
+                "poWindowId": 212,
+                "value": 853847.3
+            },
+            {
+                "poWindowId": 229,
+                "value": 469950.6
+            },
+            {
+                "poWindowId": 215,
+                "value": 474838.2
+            },
+            {
+                "poWindowId": 213,
+                "value": 337750.7
+            },
+            {
+                "poWindowId": 224,
+                "value": 1107574.2
+            },
+            {
+                "poWindowId": 217,
+                "value": 1194515.5
+            },
+            {
+                "poWindowId": 223,
+                "value": 853896.2
+            },
+            {
+                "poWindowId": 220,
+                "value": 982285.6
+            }
+        ]
+    },
+    {
+        "categoryId": 43534,
+        "categoryDescription": "Textiles, Leather, Luggage",
+        "details": [
+            {
+                "poWindowId": 221,
+                "value": 1372711.5
+            },
+            {
+                "poWindowId": 214,
+                "value": 3736246.2
+            },
+            {
+                "poWindowId": 215,
+                "value": 3189308.8
+            },
+            {
+                "poWindowId": 212,
+                "value": 2662162.4
+            },
+            {
+                "poWindowId": 228,
+                "value": 3275929.3
+            },
+            {
+                "poWindowId": 229,
+                "value": 1510998.5
+            },
+            {
+                "poWindowId": 217,
+                "value": 3071400.7
+            },
+            {
+                "poWindowId": 213,
+                "value": 2155086.0
+            },
+            {
+                "poWindowId": 244,
+                "value": 147229.0
+            },
+            {
+                "poWindowId": 243,
+                "value": 33143.0
+            },
+            {
+                "poWindowId": 245,
+                "value": 36469.1
+            },
+            {
+                "poWindowId": 218,
+                "value": 1079225.6
+            },
+            {
+                "poWindowId": 254,
+                "value": 26.5
+            },
+            {
+                "poWindowId": 232,
+                "value": 1667283.6
+            },
+            {
+                "poWindowId": 247,
+                "value": 36469.1
+            },
+            {
+                "poWindowId": 256,
+                "value": 174271.5
+            },
+            {
+                "poWindowId": 258,
+                "value": 2755015.0
+            },
+            {
+                "poWindowId": 224,
+                "value": 3035332.4
+            },
+            {
+                "poWindowId": 241,
+                "value": 464684.2
+            },
+            {
+                "poWindowId": 219,
+                "value": 578424.6
+            },
+            {
+                "poWindowId": 210,
+                "value": 677572.3
+            },
+            {
+                "poWindowId": 225,
+                "value": 7127338.8
+            },
+            {
+                "poWindowId": 222,
+                "value": 11270260.4
+            },
+            {
+                "poWindowId": 246,
+                "value": 12473.0
+            },
+            {
+                "poWindowId": 220,
+                "value": 1638792.9
+            },
+            {
+                "poWindowId": 223,
+                "value": 1888639.4
+            },
+            {
+                "poWindowId": 231,
+                "value": 1569492.0
+            },
+            {
+                "poWindowId": 230,
+                "value": 2575112.9
+            },
+            {
+                "poWindowId": 216,
+                "value": 1457182.3
+            },
+            {
+                "poWindowId": 211,
+                "value": 2174824.7
+            },
+            {
+                "poWindowId": 227,
+                "value": 2272307.0
+            },
+            {
+                "poWindowId": 226,
+                "value": 2430919.2
+            },
+            {
+                "poWindowId": 248,
+                "value": 12307.6
+            }
+        ]
+    },
+    {
+        "categoryId": 43535,
+        "categoryDescription": "Tobacco",
+        "details": [
+            {
+                "poWindowId": 246,
+                "value": 1485711.2
+            },
+            {
+                "poWindowId": 242,
+                "value": 1570548.0
+            },
+            {
+                "poWindowId": 258,
+                "value": 11287876.0
+            },
+            {
+                "poWindowId": 213,
+                "value": 7513115.9
+            },
+            {
+                "poWindowId": 252,
+                "value": 10822619.6
+            },
+            {
+                "poWindowId": 247,
+                "value": 1990832.8
+            },
+            {
+                "poWindowId": 227,
+                "value": 16965659.0
+            },
+            {
+                "poWindowId": 210,
+                "value": 9904800.7
+            },
+            {
+                "poWindowId": 231,
+                "value": 15591366.5
+            },
+            {
+                "poWindowId": 218,
+                "value": 18406507.5
+            },
+            {
+                "poWindowId": 220,
+                "value": 12494200.9
+            },
+            {
+                "poWindowId": 214,
+                "value": 10942541.8
+            },
+            {
+                "poWindowId": 232,
+                "value": 18805175.8
+            },
+            {
+                "poWindowId": 224,
+                "value": 12796514.7
+            },
+            {
+                "poWindowId": 221,
+                "value": 11730303.3
+            },
+            {
+                "poWindowId": 211,
+                "value": 13039045.1
+            },
+            {
+                "poWindowId": 212,
+                "value": 11600737.3
+            },
+            {
+                "poWindowId": 217,
+                "value": 13411361.9
+            },
+            {
+                "poWindowId": 255,
+                "value": 2600066006.0
+            },
+            {
+                "poWindowId": 225,
+                "value": 13240839.6
+            },
+            {
+                "poWindowId": 241,
+                "value": 5598486.5
+            },
+            {
+                "poWindowId": 228,
+                "value": 21646840.8
+            },
+            {
+                "poWindowId": 230,
+                "value": 17465845.3
+            },
+            {
+                "poWindowId": 219,
+                "value": 14734602.2
+            },
+            {
+                "poWindowId": 254,
+                "value": 4000009996.0
+            },
+            {
+                "poWindowId": 257,
+                "value": 9999.0
+            },
+            {
+                "poWindowId": 226,
+                "value": 18273401.3
+            },
+            {
+                "poWindowId": 223,
+                "value": 11930087.5
+            },
+            {
+                "poWindowId": 244,
+                "value": 2201197.6
+            },
+            {
+                "poWindowId": 229,
+                "value": 17247373.1
+            },
+            {
+                "poWindowId": 222,
+                "value": 12643775.3
+            },
+            {
+                "poWindowId": 216,
+                "value": 9979631.8
+            },
+            {
+                "poWindowId": 250,
+                "value": 4001.0
+            },
+            {
+                "poWindowId": 256,
+                "value": 1992589.0
+            },
+            {
+                "poWindowId": 215,
+                "value": 11597691.2
+            },
+            {
+                "poWindowId": 245,
+                "value": 8437726.3
+            },
+            {
+                "poWindowId": 243,
+                "value": 23769.7
+            }
+        ]
+    },
+    {
+        "categoryId": 43536,
+        "categoryDescription": "Alcoholic Beverages",
+        "details": [
+            {
+                "poWindowId": 232,
+                "value": 14343451.8
+            },
+            {
+                "poWindowId": 222,
+                "value": 11447052.5
+            },
+            {
+                "poWindowId": 226,
+                "value": 12464544.8
+            },
+            {
+                "poWindowId": 212,
+                "value": 10939671.3
+            },
+            {
+                "poWindowId": 221,
+                "value": 12247548.7
+            },
+            {
+                "poWindowId": 220,
+                "value": 14837067.8
+            },
+            {
+                "poWindowId": 210,
+                "value": 12754804.6
+            },
+            {
+                "poWindowId": 252,
+                "value": 1323470.0
+            },
+            {
+                "poWindowId": 217,
+                "value": 13095512.3
+            },
+            {
+                "poWindowId": 257,
+                "value": 68700.0
+            },
+            {
+                "poWindowId": 229,
+                "value": 12602766.1
+            },
+            {
+                "poWindowId": 230,
+                "value": 18094878.3
+            },
+            {
+                "poWindowId": 228,
+                "value": 17034139.5
+            },
+            {
+                "poWindowId": 233,
+                "value": 73.8
+            },
+            {
+                "poWindowId": 247,
+                "value": 1352339.2
+            },
+            {
+                "poWindowId": 241,
+                "value": 2906715.0
+            },
+            {
+                "poWindowId": 246,
+                "value": 1070282.8
+            },
+            {
+                "poWindowId": 216,
+                "value": 13958305.9
+            },
+            {
+                "poWindowId": 245,
+                "value": 559229.0
+            },
+            {
+                "poWindowId": 255,
+                "value": 900646301.0
+            },
+            {
+                "poWindowId": 231,
+                "value": 17543301.4
+            },
+            {
+                "poWindowId": 225,
+                "value": 16109294.5
+            },
+            {
+                "poWindowId": 227,
+                "value": 175621505.6
+            },
+            {
+                "poWindowId": 244,
+                "value": 719172.2
+            },
+            {
+                "poWindowId": 215,
+                "value": 13483433.7
+            },
+            {
+                "poWindowId": 242,
+                "value": 204499.9
+            },
+            {
+                "poWindowId": 254,
+                "value": 112211.8
+            },
+            {
+                "poWindowId": 256,
+                "value": 178607.8
+            },
+            {
+                "poWindowId": 219,
+                "value": 13160826.7
+            },
+            {
+                "poWindowId": 214,
+                "value": 11490321.8
+            },
+            {
+                "poWindowId": 224,
+                "value": 16372519.9
+            },
+            {
+                "poWindowId": 223,
+                "value": 13880435.0
+            },
+            {
+                "poWindowId": 213,
+                "value": 11135351.9
+            },
+            {
+                "poWindowId": 211,
+                "value": 12760008.6
+            },
+            {
+                "poWindowId": 218,
+                "value": 14615426.3
+            },
+            {
+                "poWindowId": 243,
+                "value": 51283.3
+            }
+        ]
+    },
+    {
+        "categoryId": 43539,
+        "categoryDescription": "Watches, Jewelry, Accessories",
+        "details": [
+            {
+                "poWindowId": 217,
+                "value": 1980283.3
+            },
+            {
+                "poWindowId": 226,
+                "value": 3559750.3
+            },
+            {
+                "poWindowId": 218,
+                "value": 2817960.0
+            },
+            {
+                "poWindowId": 251,
+                "value": 10110000.0
+            },
+            {
+                "poWindowId": 221,
+                "value": 2249581.9
+            },
+            {
+                "poWindowId": 257,
+                "value": 59880.0
+            },
+            {
+                "poWindowId": 254,
+                "value": 15001.0
+            },
+            {
+                "poWindowId": 255,
+                "value": 1998038002.0
+            },
+            {
+                "poWindowId": 232,
+                "value": 4958372.7
+            },
+            {
+                "poWindowId": 220,
+                "value": 4292982.2
+            },
+            {
+                "poWindowId": 213,
+                "value": 2055222.4
+            },
+            {
+                "poWindowId": 242,
+                "value": 819833.5
+            },
+            {
+                "poWindowId": 252,
+                "value": 412550.0
+            },
+            {
+                "poWindowId": 222,
+                "value": 3796894.6
+            },
+            {
+                "poWindowId": 248,
+                "value": 48110.4
+            },
+            {
+                "poWindowId": 225,
+                "value": 4391382.5
+            },
+            {
+                "poWindowId": 241,
+                "value": 50909160.9
+            },
+            {
+                "poWindowId": 211,
+                "value": 3112808.3
+            },
+            {
+                "poWindowId": 230,
+                "value": 3688514.0
+            },
+            {
+                "poWindowId": 219,
+                "value": 5616620.7
+            },
+            {
+                "poWindowId": 231,
+                "value": 3774495.5
+            },
+            {
+                "poWindowId": 212,
+                "value": 4245906.3
+            },
+            {
+                "poWindowId": 223,
+                "value": 3030847.9
+            },
+            {
+                "poWindowId": 228,
+                "value": 5935621.3
+            },
+            {
+                "poWindowId": 227,
+                "value": 3181972.8
+            },
+            {
+                "poWindowId": 256,
+                "value": 1000083326.4
+            },
+            {
+                "poWindowId": 216,
+                "value": 3363756.5
+            },
+            {
+                "poWindowId": 258,
+                "value": 1600000.0
+            },
+            {
+                "poWindowId": 214,
+                "value": 1977550.5
+            },
+            {
+                "poWindowId": 243,
+                "value": 34205202.6
+            },
+            {
+                "poWindowId": 229,
+                "value": 3132871.5
+            },
+            {
+                "poWindowId": 215,
+                "value": 3638854.6
+            },
+            {
+                "poWindowId": 244,
+                "value": 11539082.9
+            },
+            {
+                "poWindowId": 250,
+                "value": 9099000.0
+            },
+            {
+                "poWindowId": 246,
+                "value": 26322721.9
+            },
+            {
+                "poWindowId": 210,
+                "value": 1614150.8
+            },
+            {
+                "poWindowId": 247,
+                "value": 26343064.0
+            },
+            {
+                "poWindowId": 245,
+                "value": 10281972.3
+            },
+            {
+                "poWindowId": 224,
+                "value": 3675277.8
+            }
+        ]
+    }
+]

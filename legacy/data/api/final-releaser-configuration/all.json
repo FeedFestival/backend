@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "levelId": 1,
+        "company": {
+            "id": 43540,
+            "hfmCode": "1001",
+            "description": "Dufrital SpA"
+        },
+        "vendor": {
+            "id": 1,
+            "code": "2201111",
+            "description": "The Swatch Group TEST ",
+            "scope": "local"
+        },
+        "category": {
+            "id": 43523,
+            "code": "30",
+            "description": "Food & Confectionery"
+        },
+        "siteCode": "DUF",
+        "scope": "Local",
+        "finalReleaserId": 1,
+        "createdBy": "system",
+        "createdDate": "02/04/2025"
+    },
+    {
+        "id": 2,
+        "levelId": 2,
+        "company": {
+            "id": 43543,
+            "hfmCode": "1008",
+            "description": "A. Italia Srl"
+        },
+        "vendor": {
+            "id": 2,
+            "code": "2202222",
+            "description": "LLC NP Sibirskaya orekhovaya k TEST",
+            "scope": "Global"
+        },
+        "category": {
+            "id": 43524,
+            "code": "90",
+            "description": "Other Goods"
+        },
+        "siteCode": "IT70",
+        "scope": "Global",
+        "finalReleaserId": 2,
+        "createdBy": "system",
+        "createdDate": "02/04/2025"
+    },
+    {
+        "id": 3,
+        "levelId": 1,
+        "company": {
+            "id": 43544,
+            "hfmCode": "1051",
+            "description": "The Nuance Group (Malta)"
+        },
+        "vendor": {
+            "id": 3,
+            "code": "2203333",
+            "description": "BEOKOLP D.O.O. TEST",
+            "scope": "Local"
+        },
+        "category": {
+            "id": 43528,
+            "code": "60",
+            "description": "Toys"
+        },
+        "siteCode": "MT01",
+        "scope": "Local",
+        "finalReleaserId": 1,
+        "createdBy": "system",
+        "createdDate": "02/04/2025"
+    },
+    {
+        "id": 4,
+        "levelId": 2,
+        "company": {
+            "id": 43545,
+            "hfmCode": "1202",
+            "description": "Hellenic Duty Free Shops"
+        },
+        "vendor": {
+            "id": 4,
+            "code": "2216962",
+            "description": "SPAL INDUSTRIA BRASILEIRA DE B",
+            "scope": "Global"
+        },
+        "category": {
+            "id": 43530,
+            "code": "91",
+            "description": "Literature & Publications"
+        },
+        "siteCode": "HDF",
+        "scope": "Global",
+        "finalReleaserId": 2,
+        "createdBy": "system",
+        "createdDate": "02/04/2025"
+    }
+]

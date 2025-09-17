@@ -1,0 +1,4 @@
+{
+    "scenarioFile": "latest",
+    "allScenarioFiles": ["latest", "NOT_AUTHORIZED"]
+}

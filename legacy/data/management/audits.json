@@ -1,0 +1,70 @@
+[
+    {
+        "timestamp": "2024-11-18T10:55:25.360Z",
+        "principal": "admin",
+        "type": "AUTHENTICATION_SUCCESS"
+    },
+    {
+        "timestamp": "2024-11-18T10:55:45.700Z",
+        "principal": "admin",
+        "type": "AUTHENTICATION_SUCCESS"
+    },
+    {
+        "timestamp": "2024-11-18T10:56:21.593Z",
+        "principal": "dasdasd",
+        "type": "AUTHENTICATION_FAILURE",
+        "data": {
+            "message": "Bad credentials",
+            "type": "org.springframework.security.authentication.BadCredentialsException"
+        }
+    },
+    {
+        "timestamp": "2024-11-18T10:56:49.290Z",
+        "principal": "xfasfdas",
+        "type": "AUTHENTICATION_FAILURE",
+        "data": {
+            "message": "Bad credentials",
+            "type": "org.springframework.security.authentication.BadCredentialsException"
+        }
+    },
+    {
+        "timestamp": "2024-11-18T10:57:03.773Z",
+        "principal": "admin",
+        "type": "AUTHENTICATION_SUCCESS"
+    },
+    {
+        "timestamp": "2024-11-18T10:58:28.633Z",
+        "principal": "admin",
+        "type": "AUTHENTICATION_SUCCESS"
+    },
+    {
+        "timestamp": "2024-11-18T12:22:11.913Z",
+        "principal": "test-dev",
+        "type": "AUTHENTICATION_FAILURE",
+        "data": {
+            "message": "Bad credentials",
+            "type": "org.springframework.security.authentication.BadCredentialsException"
+        }
+    },
+    {
+        "timestamp": "2024-11-18T12:22:21.537Z",
+        "principal": "admin",
+        "type": "AUTHENTICATION_SUCCESS"
+    },
+    {
+        "timestamp": "2024-11-18T17:53:00.677Z",
+        "principal": "dipadmin",
+        "type": "AUTHENTICATION_SUCCESS",
+        "data": {
+            "remoteAddress": "172.24.97.1"
+        }
+    },
+    {
+        "timestamp": "2024-11-18T17:54:59.643Z",
+        "principal": "dipadmin",
+        "type": "AUTHENTICATION_SUCCESS",
+        "data": {
+            "remoteAddress": "172.24.97.1"
+        }
+    }
+]

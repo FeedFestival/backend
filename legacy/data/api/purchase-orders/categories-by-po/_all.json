@@ -1,0 +1,42 @@
+[
+    {
+        "id": 43533,
+        "code": "80",
+        "description": "Electronics"
+    },
+    {
+        "id": 43523,
+        "code": "30",
+        "description": "Food & Confectionery"
+    },
+    {
+        "id": 43524,
+        "code": "90",
+        "description": "Other Goods"
+    },
+    {
+        "id": 43521,
+        "code": "40",
+        "description": "Perfumes & Cosmetics"
+    },
+    {
+        "id": 43534,
+        "code": "70",
+        "description": "Textiles, Leather, Luggage"
+    },
+    {
+        "id": 43535,
+        "code": "10",
+        "description": "Tobacco"
+    },
+    {
+        "id": 43528,
+        "code": "60",
+        "description": "Toys"
+    },
+    {
+        "id": 43539,
+        "code": "50",
+        "description": "Watches, Jewelry, Accessories"
+    }
+]

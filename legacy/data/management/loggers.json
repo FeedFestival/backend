@@ -1,0 +1,4287 @@
+{
+    "levels": [
+        "OFF",
+        "ERROR",
+        "WARN",
+        "INFO",
+        "DEBUG",
+        "TRACE"
+    ],
+    "loggers": {
+        "ROOT": {
+            "configuredLevel": "DEBUG",
+            "effectiveLevel": "DEBUG"
+        },
+        "LiquibaseSchemaResolver": {
+            "configuredLevel": "INFO",
+            "effectiveLevel": "INFO"
+        },
+        "SQL dialect": {
+            "effectiveLevel": "DEBUG"
+        },
+        "_org": {
+            "effectiveLevel": "DEBUG"
+        },
+        "_org.springframework": {
+            "effectiveLevel": "DEBUG"
+        },
+        "_org.springframework.web": {
+            "effectiveLevel": "DEBUG"
+        },
+        "_org.springframework.web.servlet": {
+            "effectiveLevel": "DEBUG"
+        },
+        "_org.springframework.web.servlet.HandlerMapping": {
+            "effectiveLevel": "DEBUG"
+        },
+        "_org.springframework.web.servlet.HandlerMapping.Mappings": {
+            "effectiveLevel": "DEBUG"
+        },
+        "ch": {
+            "effectiveLevel": "DEBUG"
+        },
+        "ch.qos": {
+            "effectiveLevel": "DEBUG"
+        },
+        "ch.qos.logback": {
+            "configuredLevel": "OFF",
+            "effectiveLevel": "OFF"
+        },
+        "class org": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.Authority": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.Category": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.ClusterCode": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.Currency": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.CustomerServiceContacts": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.LocalOrdersAutoApproveLock": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.LocalOrdersThresholds": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.Operation": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.OperationContacts": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.PoType": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.PoWindow": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.PortalPurchaseContacts": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.PurchaseOrder": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.PurchaseOrderStatus": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.Region": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.SapPoTypes": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.TargetSpendValue": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.UploadInterfaceErrors": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.User": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.User.authorities": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.User.companies": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.User.regions": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.Vendor": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-com.dufry.hub.domain.VendorClusterMapping": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-usersByEmail": {
+            "effectiveLevel": "DEBUG"
+        },
+        "class org.ehcache.core.Ehcache-usersByLogin": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub": {
+            "configuredLevel": "DEBUG",
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.PoManagementApp": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.config": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.config.AsyncConfiguration": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.config.CacheConfiguration": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.config.DatabaseConfiguration": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.config.LiquibaseConfiguration": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.config.MailConfig": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.config.WebConfigurer": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.custom": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.custom.UploadFileProcessor": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.jhipsterUtils": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.jhipsterUtils.ExceptionHandlingAsyncTaskExecutor": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.security": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.security.DomainUserDetailsService": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.security.jwt": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.security.jwt.JWTFilter": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.security.jwt.TokenProvider": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.AuditEventService": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.MailService": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.PoTypeQueryService": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.PurchaseOrderQueryService": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.UserService": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.VendorClusterMappingQueryService": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl.AutoUploadFileServiceImpl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl.CategoryServiceImpl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl.ClusterCodeServiceImpl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl.CompanyCountryRegionMappingServiceImpl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl.CurrencyServiceImpl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl.LocalOrdersAutoApprovedServiceImpl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl.OperationServiceImpl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl.PoTypeServiceImpl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl.PoWindowServiceImpl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl.PurchaseOrderServiceImpl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl.PurchaseOrderStatusServiceImpl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl.RegionServiceImpl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl.ReleaseRequestServiceImpl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl.TargetSpendValueServiceImpl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl.UploadFileServiceImpl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl.VendorClusterMappingServiceImpl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.impl.VendorServiceImpl": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.mapper": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.mapper.AutoUploadResponseMapper": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.service.mapper.DetailedReleaseRequestMapper": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.AccountResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.AuditResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.CategoryResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.ClusterCodeResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.CompanyCountryRegionMappingResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.CurrencyResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.ErpSourceResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.OperationResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.PoTypeResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.PoWindowResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.PurchaseOrderResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.PurchaseOrderStatusResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.RegionResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.ReleaseStatusResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.TargetSpendValueResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.UploadFileResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.UserJWTController": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.UserResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.VendorClusterMappingResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.dufry.hub.web.rest.VendorResource": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.fasterxml": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.fasterxml.jackson": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.fasterxml.jackson.module": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.fasterxml.jackson.module.afterburner": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.fasterxml.jackson.module.afterburner.util": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.fasterxml.jackson.module.afterburner.util.MyClassLoader": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.microsoft": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.microsoft.sqlserver": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.microsoft.sqlserver.jdbc": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.microsoft.sqlserver.jdbc.Driver": {
+            "effectiveLevel": "DEBUG"
+        },
+        "com.microsoft.sqlserver.jdbc.internals": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "com.netflix": {
+            "configuredLevel": "OFF",
+            "effectiveLevel": "OFF"
+        },
+        "com.netflix.config": {
+            "effectiveLevel": "OFF"
+        },
+        "com.netflix.config.sources": {
+            "effectiveLevel": "OFF"
+        },
+        "com.netflix.config.sources.URLConfigurationSource": {
+            "configuredLevel": "ERROR",
+            "effectiveLevel": "ERROR"
+        },
+        "com.netflix.discovery": {
+            "configuredLevel": "INFO",
+            "effectiveLevel": "INFO"
+        },
+        "com.ryantenney": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "com.sun": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "com.zaxxer": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "com.zaxxer.hikari": {
+            "effectiveLevel": "WARN"
+        },
+        "com.zaxxer.hikari.HikariConfig": {
+            "effectiveLevel": "WARN"
+        },
+        "com.zaxxer.hikari.HikariDataSource": {
+            "effectiveLevel": "WARN"
+        },
+        "com.zaxxer.hikari.pool": {
+            "effectiveLevel": "WARN"
+        },
+        "com.zaxxer.hikari.pool.HikariPool": {
+            "effectiveLevel": "WARN"
+        },
+        "com.zaxxer.hikari.pool.PoolBase": {
+            "effectiveLevel": "WARN"
+        },
+        "com.zaxxer.hikari.pool.PoolEntry": {
+            "effectiveLevel": "WARN"
+        },
+        "com.zaxxer.hikari.pool.ProxyConnection": {
+            "effectiveLevel": "WARN"
+        },
+        "com.zaxxer.hikari.pool.ProxyLeakTask": {
+            "effectiveLevel": "WARN"
+        },
+        "com.zaxxer.hikari.util": {
+            "effectiveLevel": "WARN"
+        },
+        "com.zaxxer.hikari.util.ConcurrentBag": {
+            "effectiveLevel": "WARN"
+        },
+        "com.zaxxer.hikari.util.DriverDataSource": {
+            "effectiveLevel": "WARN"
+        },
+        "io": {
+            "effectiveLevel": "DEBUG"
+        },
+        "io.github": {
+            "effectiveLevel": "DEBUG"
+        },
+        "io.github.jhipster": {
+            "configuredLevel": "DEBUG",
+            "effectiveLevel": "DEBUG"
+        },
+        "io.micrometer": {
+            "effectiveLevel": "DEBUG"
+        },
+        "io.micrometer.common": {
+            "effectiveLevel": "DEBUG"
+        },
+        "io.micrometer.common.util": {
+            "effectiveLevel": "DEBUG"
+        },
+        "io.micrometer.common.util.internal": {
+            "effectiveLevel": "DEBUG"
+        },
+        "io.micrometer.common.util.internal.logging": {
+            "effectiveLevel": "DEBUG"
+        },
+        "io.micrometer.common.util.internal.logging.InternalLoggerFactory": {
+            "effectiveLevel": "DEBUG"
+        },
+        "io.micrometer.core": {
+            "effectiveLevel": "DEBUG"
+        },
+        "io.micrometer.core.instrument": {
+            "effectiveLevel": "DEBUG"
+        },
+        "io.micrometer.core.instrument.binder": {
+            "effectiveLevel": "DEBUG"
+        },
+        "io.micrometer.core.instrument.binder.jvm": {
+            "effectiveLevel": "DEBUG"
+        },
+        "io.micrometer.core.instrument.binder.jvm.ExecutorServiceMetrics": {
+            "effectiveLevel": "DEBUG"
+        },
+        "io.micrometer.core.instrument.binder.jvm.JvmGcMetrics": {
+            "effectiveLevel": "DEBUG"
+        },
+        "io.micrometer.core.instrument.internal": {
+            "effectiveLevel": "DEBUG"
+        },
+        "io.micrometer.core.instrument.internal.DefaultGauge": {
+            "effectiveLevel": "DEBUG"
+        },
+        "io.undertow": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "io.undertow.websockets": {
+            "effectiveLevel": "WARN"
+        },
+        "io.undertow.websockets.jsr": {
+            "configuredLevel": "ERROR",
+            "effectiveLevel": "ERROR"
+        },
+        "jakarta": {
+            "effectiveLevel": "DEBUG"
+        },
+        "jakarta.activation": {
+            "effectiveLevel": "DEBUG"
+        },
+        "javax": {
+            "effectiveLevel": "DEBUG"
+        },
+        "javax.activation": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "javax.mail": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "javax.management": {
+            "effectiveLevel": "DEBUG"
+        },
+        "javax.management.remote": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "javax.xml": {
+            "effectiveLevel": "DEBUG"
+        },
+        "javax.xml.bind": {
+            "configuredLevel": "OFF",
+            "effectiveLevel": "OFF"
+        },
+        "jdk": {
+            "effectiveLevel": "DEBUG"
+        },
+        "jdk.event": {
+            "effectiveLevel": "DEBUG"
+        },
+        "jdk.event.security": {
+            "effectiveLevel": "DEBUG"
+        },
+        "liquibase": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "org": {
+            "effectiveLevel": "DEBUG"
+        },
+        "org.apache": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "org.apache.catalina": {
+            "effectiveLevel": "WARN"
+        },
+        "org.apache.catalina.startup": {
+            "effectiveLevel": "WARN"
+        },
+        "org.apache.catalina.startup.DigesterFactory": {
+            "configuredLevel": "OFF",
+            "effectiveLevel": "OFF"
+        },
+        "org.bson": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.core": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.core.EhcacheManager": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.core.config": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.core.config.ExpiryUtils": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.core.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.core.spi.ServiceLocator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.core.statistics": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.core.statistics.DefaultStatisticsService": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.config": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.config.serializer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.config.serializer.DefaultSerializationProviderConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.events": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.events.CacheEventDispatcherImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.internal.resilience": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.internal.resilience.RobustResilienceStrategy": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.internal.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.internal.spi.copy": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.internal.spi.copy.DefaultCopyProvider": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.internal.spi.serialization": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.internal.store": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.internal.store.heap": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.internal.store.heap.OnHeapStore": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.internal.store.offheap": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.internal.store.offheap.OffHeapStore": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.impl.internal.store.offheap.OffHeapStore$Provider": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.jsr107": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.jsr107.ConfigurationMerger": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.jsr107.Eh107CacheManager": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.shadow": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.shadow.org": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.shadow.org.terracotta": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.shadow.org.terracotta.context": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.shadow.org.terracotta.context.ContextManager": {
+            "effectiveLevel": "WARN"
+        },
+        "org.ehcache.shadow.org.terracotta.context.WeakIdentityHashMap": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.HQL_FUNCTIONS": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.SQL": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.SQL_SLOW": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.Version": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.MetadataSources": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.cfgxml": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.cfgxml.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.cfgxml.internal.ConfigLoader": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.cfgxml.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.cfgxml.spi.LoadedConfig": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.internal.BootstrapContextImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.internal.ClassLoaderAccessImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.internal.IdGeneratorInterpreterImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.internal.InFlightMetadataCollectorImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.internal.MetadataBuilderImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.internal.SessionFactoryOptionsBuilder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.jaxb": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.jaxb.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.jaxb.internal.AbstractBinder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.jaxb.internal.MappingBinder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.jaxb.internal.stax": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.jaxb.internal.stax.LocalSchemaLocator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.jaxb.internal.stax.LocalXmlResourceResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.TypeDefinitionRegistryStandardImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.convert": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.convert.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.convert.internal.AttributeConverterManager": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.process": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.process.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.process.internal.ScanningCoordinator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.process.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.process.spi.MetadataBuildingProcess": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.relational": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.relational.Namespace": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.source": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.source.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.source.internal.annotations": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.source.internal.annotations.AnnotationMetadataSourceProcessorImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.source.internal.hbm": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.source.internal.hbm.EntityHierarchyBuilder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.source.internal.hbm.HbmMetadataSourceProcessorImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.model.source.internal.hbm.ModelBinder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.registry": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.registry.classloading": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.registry.classloading.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.registry.classloading.internal.AggregatedServiceLoader": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.registry.classloading.internal.ClassLoaderServiceImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.registry.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.registry.internal.BootstrapServiceRegistryImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.registry.selector": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.registry.selector.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.registry.selector.internal.StrategySelectorBuilder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.registry.selector.internal.StrategySelectorImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.boot.spi.XmlMappingBinderAccess": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.bytecode": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.bytecode.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.bytecode.internal.bytebuddy": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.bytecode.internal.bytebuddy.ByteBuddyState": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.bytecode.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.bytecode.spi.ClassLoadingStrategyHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cache": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cache.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cache.internal.CollectionCacheInvalidator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cache.internal.EnabledCaching": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cache.internal.RegionFactoryInitiator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cache.internal.StrategyCreatorRegionFactoryImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cache.internal.TimestampsCacheDisabledImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cache.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cache.spi.support": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cache.spi.support.AbstractCachedDomainDataAccess": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cache.spi.support.AbstractDomainDataRegion": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cache.spi.support.AbstractReadWriteAccess": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cache.spi.support.DomainDataRegionTemplate": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.AbstractPropertyHolder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.AnnotatedColumn": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.AnnotationBinder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.BinderHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.CollectionPropertyHolder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.CollectionSecondPass": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.Environment": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.PropertyContainer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.annotations": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.annotations.BasicValueBinder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.annotations.CollectionBinder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.annotations.EntityBinder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.annotations.PropertyBinder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.annotations.QueryBinder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.annotations.TableBinder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.annotations.reflection": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.annotations.reflection.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.annotations.reflection.internal.XMLContext": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.beanvalidation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.beanvalidation.BeanValidationEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.beanvalidation.BeanValidationIntegrator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.cfg.beanvalidation.TypeSafeActivator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.collection": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.collection.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.collection.spi.AbstractPersistentCollection": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.dialect": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.dialect.Dialect": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.ejb": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.ejb.HibernatePersistence": {
+            "configuredLevel": "OFF",
+            "effectiveLevel": "OFF"
+        },
+        "org.hibernate.engine": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.config": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.config.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.config.internal.ConfigurationServiceImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.internal.EntityEntryContext": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.internal.StatefulPersistenceContext": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.internal.Versioning": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.connections": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.connections.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.connections.internal.ConnectionProviderInitiator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.connections.internal.MultiTenantConnectionProviderInitiator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.cursor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.cursor.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.cursor.internal.StandardRefCursorSupport": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.dialect": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.dialect.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.dialect.internal.DialectResolverSet": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.env": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.env.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.env.internal.DefaultSchemaNameResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.env.internal.NormalizingIdentifierHelperImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.env.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.env.spi.IdentifierHelperBuilder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jdbc.spi.SqlExceptionHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jndi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jndi.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.jndi.internal.JndiServiceImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.spi.ActionQueue": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.spi.BatchFetchQueue": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.spi.CascadeStyles": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.spi.CollectionEntry": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.spi.EffectiveEntityGraph": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.spi.IdentifierValue": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.transaction": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.transaction.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.transaction.internal.TransactionImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.transaction.jta": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.transaction.jta.platform": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.transaction.jta.platform.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformResolverInitiator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.envers": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.envers.boot": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.envers.boot.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.envers.boot.internal.AdditionalJaxbMappingProducerImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.envers.boot.internal.EnversIntegrator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.envers.boot.internal.EnversServiceImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.envers.configuration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.envers.configuration.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.envers.configuration.internal.ClassesAuditingData": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.envers.configuration.internal.metadata": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.envers.configuration.internal.metadata.AuditMetadataGenerator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.envers.configuration.internal.metadata.JoinColumnCollectionMetadataGenerator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.envers.configuration.internal.metadata.MiddleTableCollectionMetadataGenerator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.AbstractFlushingEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.AbstractLockUpgradeEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.AbstractReassociateEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.AbstractSaveEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.DefaultAutoFlushEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.DefaultDeleteEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.DefaultDirtyCheckEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.DefaultEvictEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.DefaultFlushEntityEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.DefaultInitializeCollectionEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.DefaultLoadEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.DefaultLockEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.DefaultMergeEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.DefaultPersistEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.DefaultRefreshEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.DefaultReplicateEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.DefaultResolveNaturalIdEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.DefaultSaveOrUpdateEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.internal.EntityCopyObserverFactoryInitiator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.service": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.service.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.service.internal.EventListenerGroupImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.event.service.internal.PostCommitEventListenerGroupImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.graph": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.graph.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.graph.internal.AttributeNodeImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.id": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.id.ForeignGenerator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.id.enhanced": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.id.enhanced.OptimizerFactory": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.id.enhanced.SequenceStructure": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.id.enhanced.SequenceStyleGenerator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.id.enhanced.StandardOptimizerDescriptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.integrator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.integrator.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.integrator.internal.IntegratorServiceImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.internal.SessionFactoryImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.internal.SessionFactoryImpl$SessionBuilderImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.internal.SessionFactoryRegistry": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.internal.SessionImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.internal.util": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.internal.util.ConfigHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.jpa": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.jpa.HibernatePersistenceProvider": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.jpa.boot": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.jpa.boot.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.jpa.event": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.jpa.event.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.jpa.event.internal.CallbackDefinitionResolverLegacyImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.jpa.event.internal.CallbacksFactory": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.jpa.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.jpa.internal.PersistenceUnitUtilImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.jpa.internal.util": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.jpa.internal.util.LogHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.loader": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.loader.BatchFetchStyle": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.loader.ast": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.loader.ast.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.loader.ast.internal.CollectionLoaderBatchKey": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.loader.ast.internal.LoaderSelectBuilder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.loader.ast.internal.MultiIdLoaderStandard": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.loader.entity": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.loader.entity.CacheEntityLoaderHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.mapping": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.mapping.BasicValue": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.mapping.PrimaryKey": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.mapping.RootClass": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.mapping.SimpleValue": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.mapping.Table": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.metamodel": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.metamodel.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.metamodel.internal.AttributeFactory": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.metamodel.internal.EntityInstantiatorPojoStandard": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.metamodel.internal.EntityRepresentationStrategyPojoStandard": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.metamodel.internal.MetadataContext": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.metamodel.internal.PojoInstantiatorImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.metamodel.mapping": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.metamodel.mapping.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.metamodel.mapping.internal.FetchOptionsHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.metamodel.mapping.internal.PluralAttributeMappingImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.metamodel.model": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.metamodel.model.domain": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.metamodel.model.domain.AbstractIdentifiableType": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.metamodel.model.domain.JpaMetamodel": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.metamodel.model.domain.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.metamodel.model.domain.internal.MappingMetamodelImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.cache": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.idgen": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.idgen.factory": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.jdbc": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.jdbc.bind": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.jdbc.extract": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.model": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.model.mapping": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.model.mapping.creation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.query": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.query.hql": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.query.hql.reservedWordAsIdentifier": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.query.plan": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.query.plan.cache": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.query.sqm": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.query.sqm.ast": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.query.sqm.creation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.results": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.results.graph": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.results.graph.AST": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.results.loading": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.results.loading.entity": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.results.loading.org": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.results.loading.org.hibernate": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.results.loading.org.hibernate.orm": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.results.loading.org.hibernate.orm.results": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.results.loading.org.hibernate.orm.results.loading": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.results.loading.org.hibernate.orm.results.loading.collection": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.sql": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.sql.ast": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.sql.ast.create": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.sql.ast.tree": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.orm.sql.exec": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.ormbytecode": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.ormbytecode.interceptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.persister": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.persister.collection": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.persister.collection.AbstractCollectionPersister": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.persister.entity": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.persister.entity.AbstractEntityPersister": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.persister.entity.AbstractPropertyMapping": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.proxy": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.proxy.pojo": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.proxy.pojo.bytebuddy": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.proxy.pojo.bytebuddy.ByteBuddyProxyFactory": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.proxy.pojo.bytebuddy.ByteBuddyProxyHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.hql": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.hql.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.hql.internal.QualifiedJoinPathConsumer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.hql.internal.SemanticQueryBuilder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.named": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.named.NamedObjectRepository": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.spi.AbstractQuery": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sql": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sql.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sql.internal.ResultSetMappingProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.function": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.function.SqmFunctionRegistry": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.internal.QuerySqmImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.internal.SqmCriteriaNodeBuilder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.internal.SqmTreePrinter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.produce": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.produce.function": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.produce.function.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.produce.function.internal.PatternRenderer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.sql": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.sql.BaseSqmToSqlAstConverter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.sql.FromClauseIndex": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.tree": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.tree.SqmNode": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.tree.domain": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.tree.domain.AbstractSqmAttributeJoin": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.tree.select": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.query.sqm.tree.select.SqmDynamicInstantiation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.resource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.resource.beans": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.resource.beans.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.resource.beans.internal.FallbackBeanInstanceProducer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.resource.jdbc": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.resource.jdbc.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.resource.jdbc.internal.AbstractLogicalConnectionImplementor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.resource.jdbc.internal.LogicalConnectionManagedImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.resource.jdbc.internal.ResourceRegistryStandardImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.resource.transaction": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.resource.transaction.backend": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.resource.transaction.backend.jdbc": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.resource.transaction.backend.jdbc.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.resource.transaction.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.resource.transaction.internal.SynchronizationRegistryStandardImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.service": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.service.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.service.internal.AbstractServiceRegistryImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.service.internal.SessionFactoryServiceRegistryImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.service.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.service.spi.ServiceBinding": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.sql": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.sql.results": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.sql.results.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.sql.results.internal.ResultsHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.sql.results.jdbc": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.sql.results.jdbc.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.sql.results.jdbc.internal.DeferredResultSetAccess": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.sql.results.jdbc.internal.JdbcValuesSourceProcessingStateStandardImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.sql.results.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.sql.results.spi.LoadContexts": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.stat": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.stat.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.stat.internal.StatisticsImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.stat.internal.StatisticsInitiator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.tool": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.tool.schema": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.tool.schema.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.tuple": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.tuple.entity": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.tuple.entity.EntityMetamodel": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.BasicTypeRegistry": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.CollectionType": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.descriptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.descriptor.JdbcTypeNameMapper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.descriptor.java": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.descriptor.java.DbTimestampJavaType": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.descriptor.java.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.descriptor.java.spi.JavaTypeRegistry": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.descriptor.jdbc": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.descriptor.jdbc.JdbcTypeJavaClassMappings": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.descriptor.jdbc.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.descriptor.jdbc.spi.JdbcTypeRegistry": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.descriptor.sql": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.descriptor.sql.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.descriptor.sql.spi.DdlTypeRegistry": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.spi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.spi.TypeConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.type.spi.TypeConfiguration$Scope": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.cfg": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.cfg.context": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.cfg.context.DefaultConstraintMapping": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.AbstractConfigurationImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.ValidatorFactoryConfigurationHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.ValidatorFactoryImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.ValidatorImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.constraintvalidation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.constraintvalidation.AbstractConstraintValidatorManagerImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.constraintvalidation.ClassBasedValidatorDescriptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.constraintvalidation.ConstraintValidatorManagerImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.constraintvalidation.SimpleConstraintTree": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.groups": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.groups.Sequence": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.groups.ValidationOrderGenerator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.resolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.resolver.JPATraversableResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.resolver.TraversableResolvers": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.scripting": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.valueextraction": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.valueextraction.ValueExtractorDescriptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.engine.valueextraction.ValueExtractorResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.aggregated": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.aggregated.BeanMetaDataImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.aggregated.CascadingMetaDataBuilder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.aggregated.NonContainerCascadingMetaData": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.aggregated.PropertyMetaData": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.aggregated.rule": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.aggregated.rule.MethodConfigurationRule": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.core": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.core.AnnotationProcessingOptionsImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.core.ConstraintHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.core.MetaConstraints": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.descriptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.descriptor.ConstraintDescriptorImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.provider": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.provider.AnnotationMetaDataProvider": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.provider.ProgrammaticMetaDataProvider": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.raw": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.metadata.raw.ConstrainedExecutable": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.properties": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.properties.DefaultGetterPropertySelectionStrategy": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.properties.javabean": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.properties.javabean.JavaBeanExecutable": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.properties.javabean.JavaBeanParameter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.util": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.util.Contracts": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.util.ExecutableHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.util.ReflectionHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.util.TypeHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.util.TypeVariables": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.util.Version": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.util.annotation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.util.annotation.AnnotationDescriptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.util.privilegedactions": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.util.privilegedactions.GetAnnotationAttributes": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.util.privilegedactions.GetInstancesFromServiceLoader": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.util.privilegedactions.LoadClass": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.util.privilegedactions.NewInstance": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.xml": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.xml.config": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.xml.config.ResourceLoaderHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.xml.config.ValidationBootstrapParameters": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.internal.xml.config.ValidationXmlParser": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.messageinterpolation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.messageinterpolation.AbstractMessageInterpolator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.resourceloading": {
+            "effectiveLevel": "WARN"
+        },
+        "org.hibernate.validator.resourceloading.PlatformResourceBundleLocator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.jboss": {
+            "effectiveLevel": "DEBUG"
+        },
+        "org.jboss.logging": {
+            "effectiveLevel": "DEBUG"
+        },
+        "org.springframework": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.aop": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.aop.aspectj": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.aop.aspectj.annotation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.aop.aspectj.annotation.AnnotationAwareAspectJAutoProxyCreator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.aop.aspectj.annotation.ReflectiveAspectJAdvisorFactory": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.aop.framework": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.aop.framework.CglibAopProxy": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.aop.framework.JdkDynamicAopProxy": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.aop.framework.ObjenesisCglibAopProxy": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.aop.framework.ProxyFactoryBean": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.aop.framework.autoproxy": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.aop.framework.autoproxy.BeanFactoryAdvisorRetrievalHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.aop.target": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.aop.target.LazyInitTargetSource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.aop.target.SimpleBeanTargetSource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.AbstractNestablePropertyAccessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.CachedIntrospectionResults": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.TypeConverterDelegate": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.factory": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.factory.annotation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.factory.config": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.factory.config.ObjectFactoryCreatingFactoryBean": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.factory.parsing": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.factory.parsing.FailFastProblemReporter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.factory.support": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.factory.support.DefaultListableBeanFactory": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.factory.support.DisposableBeanAdapter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.factory.wiring": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.factory.wiring.BeanConfigurerSupport": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.factory.xml": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.factory.xml.DefaultDocumentLoader": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.beans.factory.xml.XmlBeanDefinitionReader": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.BeanDefinitionLoader": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.BeanDefinitionLoader$ClassExcludeFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.DefaultApplicationArguments": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.DefaultApplicationArguments$Source": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.DefaultPropertiesPropertySource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.ResourceBanner": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.SpringApplication": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.SpringApplicationShutdownHook": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.availability": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.availability.AvailabilityProbesAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.availability.AvailabilityProbesAutoConfiguration$ProbesCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.endpoint": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.endpoint.condition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.endpoint.condition.OnAvailableEndpointCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.health": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.health.OnEnabledHealthIndicatorCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.info": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.info.OnEnabledInfoContributorCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.logging": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.logging.LogFileWebEndpointAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.logging.LogFileWebEndpointAutoConfiguration$LogFileCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.logging.LoggersEndpointAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.logging.LoggersEndpointAutoConfiguration$OnEnabledLoggingSystemCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.metrics": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.metrics.CompositeMeterRegistryConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.metrics.CompositeMeterRegistryConfiguration$MultipleNonPrimaryMeterRegistriesCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.metrics.Log4J2MetricsAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.metrics.Log4J2MetricsAutoConfiguration$Log4JCoreLoggerContextCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.metrics.LogbackMetricsAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.metrics.LogbackMetricsAutoConfiguration$LogbackLoggingCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.metrics.MeterRegistryCustomizer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.metrics.MeterRegistryPostProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.metrics.OnlyOnceLoggingDenyMeterFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.metrics.export": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.metrics.export.OnMetricsExportEnabledCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.metrics.jdbc": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.metrics.jdbc.DataSourcePoolMetricsAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.metrics.jdbc.DataSourcePoolMetricsAutoConfiguration$HikariDataSourceMetricsConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.metrics.jdbc.DataSourcePoolMetricsAutoConfiguration$HikariDataSourceMetricsConfiguration$HikariDataSourceMeterBinder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.observation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.observation.ObservationRegistryConfigurer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.observation.ObservationRegistryCustomizer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.startup": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.startup.StartupEndpointAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.startup.StartupEndpointAutoConfiguration$ApplicationStartupCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.web": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.web.server": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.web.server.ManagementContextAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.web.server.ManagementContextAutoConfiguration$SameManagementContextConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.web.server.ManagementContextAutoConfiguration$SameManagementContextConfiguration$1": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.autoconfigure.web.server.OnManagementPortCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.context": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.context.properties": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.context.properties.ConfigurationPropertiesReportEndpoint": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.context.properties.ConfigurationPropertiesReportEndpoint$ConfigurationPropertiesPropertyFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.endpoint": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.endpoint.EndpointFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.endpoint.EndpointId": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.endpoint.annotation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.endpoint.annotation.EndpointDiscoverer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.endpoint.web": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.endpoint.web.ServletEndpointRegistrar": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.endpoint.web.servlet": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.endpoint.web.servlet.AdditionalHealthEndpointPathsWebMvcHandlerMapping": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.endpoint.web.servlet.ControllerEndpointHandlerMapping": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.endpoint.web.servlet.WebMvcEndpointHandlerMapping": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.health": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.health.HealthEndpointSupport": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.health.PingHealthIndicator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.jdbc": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.jdbc.DataSourceHealthIndicator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.metrics": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.metrics.cache": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.metrics.cache.CacheMeterBinderProvider": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.metrics.cache.CacheMetricsRegistrar": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.system": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.actuate.system.DiskSpaceHealthIndicator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.ansi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.ansi.AnsiPropertySource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.AutoConfigurationImportSelector": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.AutoConfigurationPackages": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.cache": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.cache.CacheCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.cache.CacheManagerCustomizer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.cache.CacheManagerCustomizers": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.cache.JCacheCacheConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.cache.JCacheCacheConfiguration$JCacheAvailableCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.cache.JCacheCacheConfiguration$JCacheProviderAvailableCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.condition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.condition.OnBeanCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.condition.OnClassCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.condition.OnCloudPlatformCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.condition.OnJndiCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.condition.OnPropertyCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.condition.OnResourceCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.condition.OnWebApplicationCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.context": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.context.MessageSourceAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.context.MessageSourceAutoConfiguration$ResourceBundleCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.http": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.http.GsonHttpMessageConvertersConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.http.GsonHttpMessageConvertersConfiguration$JacksonAndJsonbUnavailableCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.http.GsonHttpMessageConvertersConfiguration$PreferGsonOrJacksonAndJsonbUnavailableCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration$NotReactiveWebApplicationCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.info": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.info.ProjectInfoAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.info.ProjectInfoAutoConfiguration$GitResourceAvailableCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.jdbc": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration$EmbeddedDatabaseCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration$PooledDataSourceAvailableCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration$PooledDataSourceCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.liquibase": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.liquibase.LiquibaseAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.liquibase.LiquibaseAutoConfiguration$LiquibaseDataSourceCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.logging": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.mail": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.mail.MailSenderAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.mail.MailSenderAutoConfiguration$MailSenderCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.orm": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.orm.jpa": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.security": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.security.DefaultWebSecurityCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.security.reactive": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.security.reactive.ReactiveUserDetailsServiceAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.security.reactive.ReactiveUserDetailsServiceAutoConfiguration$ReactiveUserDetailsServiceCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.sql": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.sql.init": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.sql.init.SqlInitializationAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.sql.init.SqlInitializationAutoConfiguration$SqlInitializationModeCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.thymeleaf": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.transaction": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.transaction.PlatformTransactionManagerCustomizer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.transaction.TransactionManagerCustomizers": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.web": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.web.OnEnabledResourceChainCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.web.client": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration$NotReactiveWebApplicationCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.web.servlet": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration$DefaultDispatcherServletCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration$DispatcherServletRegistrationCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.web.servlet.error": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration$ErrorTemplateMissingCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.availability": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.availability.ApplicationAvailabilityBean": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.cloud": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.cloud.CloudFoundryVcapEnvironmentPostProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context.ConfigurationWarningsApplicationContextInitializer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context.FileEncodingApplicationListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context.config": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context.config.ConfigDataEnvironment": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context.config.ConfigDataEnvironmentContributors": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context.config.ConfigDataEnvironmentPostProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context.config.ConfigDataImporter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context.config.ConfigDataLoaders": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context.config.StandardConfigDataLocationResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context.logging": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context.logging.LoggingApplicationListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context.properties": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context.properties.PropertySourcesDeducer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context.properties.source": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertyResolver$DefaultResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.context.properties.source.ConfigurationPropertySourcesPropertySource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.devtools": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.devtools.autoconfigure": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.devtools.autoconfigure.DevToolsDataSourceAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.devtools.autoconfigure.DevToolsDataSourceAutoConfiguration$DevToolsDataSourceCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.devtools.autoconfigure.OnEnabledDevToolsCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.devtools.env": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.devtools.restart": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.devtools.restart.ChangeableUrls": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.devtools.restart.OnInitializedRestarterCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.devtools.restart.RestartApplicationListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.devtools.restart.Restarter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.devtools.settings": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.devtools.settings.DevToolsSettings": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.env": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.env.OriginTrackedMapPropertySource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.env.OriginTrackedYamlLoader": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.env.RandomValuePropertySource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.env.RandomValuePropertySourceEnvironmentPostProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor$OriginAwareSystemEnvironmentPropertySource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.jackson": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.jackson.JsonMixinModuleEntries": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.jackson.JsonMixinModuleEntries$JsonMixinComponentScanner": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.jdbc": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.jdbc.init": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.embedded": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.embedded.tomcat": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.embedded.tomcat.TomcatEmbeddedWebappClassLoader": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.embedded.tomcat.TomcatProtocolHandlerCustomizer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.embedded.tomcat.TomcatStarter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.embedded.tomcat.TomcatWebServer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.server": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.server.WebServerFactoryCustomizer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.server.WebServerFactoryCustomizerBeanPostProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.servlet": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.servlet.DelegatingFilterProxyRegistrationBean": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.servlet.DelegatingFilterProxyRegistrationBean$1": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.servlet.RegistrationBean": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.servlet.ServletContextInitializerBeans": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.servlet.context": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.servlet.context.ApplicationServletEnvironment": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.servlet.filter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.servlet.filter.OrderedCharacterEncodingFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.servlet.filter.OrderedFormContentFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.boot.web.servlet.filter.OrderedRequestContextFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cache": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cache.annotation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cache.annotation.AnnotationCacheOperationSource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cache.interceptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cache.interceptor.CacheInterceptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cache.jcache": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cache.jcache.interceptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cache.jcache.interceptor.CachePutInterceptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cache.jcache.interceptor.CacheRemoveAllInterceptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cache.jcache.interceptor.CacheRemoveEntryInterceptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cache.jcache.interceptor.CacheResultInterceptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cache.jcache.interceptor.DefaultJCacheOperationSource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cache.jcache.interceptor.JCacheInterceptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.bootstrap": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.bootstrap.BootstrapApplicationListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.bootstrap.BootstrapApplicationListener$1": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.bootstrap.BootstrapApplicationListener$ExtendedDefaultPropertySource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.bootstrap.BootstrapConfigFileApplicationListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.bootstrap.BootstrapConfigFileApplicationListener$FilteredPropertySource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.bootstrap.config": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.bootstrap.config.PropertySourceBootstrapConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.bootstrap.encrypt": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.bootstrap.encrypt.DecryptEnvironmentPostProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.bootstrap.encrypt.EncryptionBootstrapConfiguration$KeyCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.bootstrap.encrypt.EnvironmentDecryptApplicationInitializer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.bootstrap.support": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.bootstrap.support.OriginTrackedCompositePropertySource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.client": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.client.discovery": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.client.discovery.health": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.client.discovery.health.DiscoveryClientHealthIndicator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.client.loadbalancer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.client.loadbalancer.LoadBalancerAutoConfiguration$RetryMissingOrDisabledCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.client.loadbalancer.reactive": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.client.loadbalancer.reactive.LoadBalancerBeanPostProcessorAutoConfiguration$OnAnyLoadBalancerImplementationPresentCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.commons": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.commons.ConfigDataMissingEnvironmentPostProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.commons.util": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.commons.util.InetUtils": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.config": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.config.client": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.config.client.ConfigServerConfigDataLoader": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.config.client.ConfigServerConfigDataLocationResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.config.client.ConfigServerHealthIndicator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.configuration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.configuration.CompositeCompatibilityVerifier": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.configuration.SpringBootVersionVerifier": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.context": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.context.refresh": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.context.refresh.LegacyContextRefresher": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.context.scope": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.context.scope.GenericScope": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.endpoint": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.endpoint.event": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.endpoint.event.RefreshEventListener": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.health": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.health.RefreshScopeHealthIndicator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.loadbalancer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.loadbalancer.config": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$OnCaffeineCacheMissingCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.loadbalancer.core": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.loadbalancer.core.CachingServiceInstanceListSupplier": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.loadbalancer.support": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.loadbalancer.support.LoadBalancerClientFactory": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.logging": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.logging.LoggingRebinder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.netflix": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.netflix.eureka": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.netflix.eureka.config": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.netflix.eureka.config.EurekaConfigServerBootstrapConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.netflix.eureka.config.EurekaConfigServerBootstrapConfiguration$EurekaConfigServerBootstrapCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.util": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.util.ConditionalOnBootstrapDisabled": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.util.ConditionalOnBootstrapDisabled$OnBootstrapDisabledCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.util.ConditionalOnBootstrapEnabled": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.util.ConditionalOnBootstrapEnabled$OnBootstrapEnabledCondition": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.util.random": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.util.random.CachedRandomPropertySource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.cloud.util.random.CachedRandomPropertySourceEnvironmentPostProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.annotation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.annotation.AnnotationConfigApplicationContext": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.annotation.AutoProxyRegistrar": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.annotation.ClassPathBeanDefinitionScanner": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.annotation.CommonAnnotationBeanPostProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.annotation.ComponentScanAnnotationParser": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.annotation.ComponentScanAnnotationParser$1": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.annotation.ConfigurationClassEnhancer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.annotation.ConfigurationClassParser": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.annotation.ConfigurationClassPostProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.annotation.ConfigurationClassUtils": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.event": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.event.EventListenerMethodProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.index": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.index.CandidateComponentsIndexLoader": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.support": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.support.ApplicationListenerDetector": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.support.DefaultLifecycleProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.support.DelegatingMessageSource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.support.PostProcessorRegistrationDelegate": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.support.PropertySourcesPlaceholderConfigurer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.support.PropertySourcesPlaceholderConfigurer$1": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.context.support.ReloadableResourceBundleMessageSource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.LocalVariableTableParameterNameDiscoverer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.annotation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.annotation.AnnotationTypeMapping": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.env": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.env.MapPropertySource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.env.PropertiesPropertySource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.env.PropertySource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.env.PropertySource$ComparisonPropertySource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.env.PropertySource$StubPropertySource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.env.PropertySourcesPropertyResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.env.StandardEnvironment": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.env.SystemEnvironmentPropertySource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.io": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.io.support": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.io.support.PathMatchingResourcePatternResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.io.support.PropertySourceProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.io.support.ResourceArrayPropertyEditor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.io.support.SpringFactoriesLoader": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.task": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.task.SimpleAsyncTaskExecutor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.task.SimpleAsyncTaskExecutor$ConcurrencyThrottleAdapter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.type": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.type.filter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.type.filter.AnnotationTypeFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.core.type.filter.AssignableTypeFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.auditing": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.auditing.AuditingHandler": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.auditing.AuditingHandlerSupport": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.jpa": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.jpa.repository": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.jpa.repository.config": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.jpa.repository.config.JpaMetamodelMappingContextFactoryBean": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.jpa.repository.config.JpaRepositoryConfigExtension": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.jpa.repository.config.JpaRepositoryConfigExtension$JpaRepositoryRegistrationAotProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.jpa.repository.query": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.jpa.repository.query.JpaQueryLookupStrategy": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.jpa.repository.query.NamedQuery": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.jpa.repository.query.QueryEnhancerFactory": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.jpa.repository.query.QueryParameterSetter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.jpa.repository.query.QueryParameterSetter$ErrorHandling": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.mapping": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.mapping.context": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.mapping.context.MappingContext": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.mapping.model": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.mapping.model.ClassGeneratingEntityInstantiator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.projection": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.projection.DefaultProjectionInformation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.projection.DefaultProjectionInformation$PropertyDescriptorSource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.repository": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.repository.config": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.repository.config.PropertiesBasedNamedQueriesFactoryBean": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.repository.config.RepositoryBeanDefinitionBuilder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.repository.config.RepositoryComponentProvider": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.repository.config.RepositoryComponentProvider$InterfaceTypeFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.repository.config.RepositoryConfigurationDelegate": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.repository.config.RepositoryConfigurationExtensionSupport": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.repository.core": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.repository.core.support": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.repository.core.support.RepositoryFactorySupport": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.repository.core.support.TransactionalRepositoryProxyPostProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.repository.core.support.TransactionalRepositoryProxyPostProcessor$RepositoryAnnotationTransactionAttributeSource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.web": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.data.web.ProxyingHandlerMethodArgumentResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.http": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.http.converter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.http.converter.ByteArrayHttpMessageConverter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.http.converter.ResourceHttpMessageConverter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.http.converter.ResourceRegionHttpMessageConverter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.http.converter.StringHttpMessageConverter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.http.converter.json": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.http.converter.json.MappingJackson2HttpMessageConverter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.http.converter.xml": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.http.converter.xml.Jaxb2RootElementHttpMessageConverter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.jdbc": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.jdbc.core": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.jdbc.core.JdbcTemplate": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.jdbc.datasource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.jdbc.datasource.DataSourceUtils": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.jdbc.datasource.JdbcTransactionObjectSupport": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.jdbc.datasource.lookup": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.jdbc.datasource.lookup.JndiDataSourceLookup": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.jndi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.jndi.JndiTemplate": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.jndi.support": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.jndi.support.SimpleJndiBeanFactory": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.orm": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.orm.hibernate5": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.orm.hibernate5.SpringBeanContainer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.orm.jpa": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.orm.jpa.EntityManagerFactoryUtils": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.orm.jpa.ExtendedEntityManagerCreator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.orm.jpa.ExtendedEntityManagerCreator$ExtendedEntityManagerInvocationHandler": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.orm.jpa.JpaTransactionManager": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.orm.jpa.SharedEntityManagerCreator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.orm.jpa.SharedEntityManagerCreator$SharedEntityManagerInvocationHandler": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.orm.jpa.persistenceunit": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.orm.jpa.persistenceunit.DefaultPersistenceUnitManager": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.orm.jpa.persistenceunit.PersistenceUnitReader": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.scheduling": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.scheduling.annotation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.scheduling.annotation.AnnotationAsyncExecutionInterceptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.scheduling.annotation.AsyncAnnotationBeanPostProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.scheduling.annotation.ScheduledAnnotationBeanPostProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.scheduling.concurrent": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.scheduling.support": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.scheduling.support.TaskUtils": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.scheduling.support.TaskUtils$LoggingErrorHandler": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.annotation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.annotation.SecuredAnnotationSecurityMetadataSource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.expression": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.expression.DenyAllPermissionEvaluator": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.expression.method": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.expression.method.ExpressionBasedPostInvocationAdvice": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.intercept": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.intercept.AfterInvocationProviderManager": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.intercept.aopalliance": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.intercept.aopalliance.MethodSecurityInterceptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.method": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.prepost": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.prepost.PostInvocationAdviceProvider": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.prepost.PreInvocationAuthorizationAdviceVoter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.prepost.PrePostAnnotationSecurityMetadataSource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.vote": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.access.vote.AffirmativeBased": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.authentication": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.authentication.DefaultAuthenticationEventPublisher": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.authentication.ProviderManager": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.authentication.dao": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.authentication.dao.DaoAuthenticationProvider": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.authentication": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.authentication.builders": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.authentication.configuration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration$DefaultPasswordEncoderAuthenticationManagerBuilder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.authentication.configuration.AuthenticationConfiguration$EnableGlobalAuthenticationAutowiredConfigurer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.configuration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.method": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.method.configuration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.web": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.web.builders": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.web.builders.HttpSecurity": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.web.builders.WebSecurity": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.web.configuration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.web.configuration.HttpSecurityConfiguration": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.config.annotation.web.configuration.HttpSecurityConfiguration$DefaultPasswordEncoderAuthenticationManagerBuilder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.core": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.core.SpringSecurityMessageSource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.core.userdetails": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.core.userdetails.User": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.crypto": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.crypto.argon2": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.crypto.argon2.Argon2PasswordEncoder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.crypto.bcrypt": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.crypto.scrypt": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.crypto.scrypt.SCryptPasswordEncoder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.DefaultRedirectStrategy": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.DefaultSecurityFilterChain": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.FilterChainProxy": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.access": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.access.AccessDeniedHandlerImpl": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.access.ExceptionTranslationFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.access.intercept": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.access.intercept.AuthorizationFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.access.intercept.RequestMatcherDelegatingAuthorizationManager": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.authentication": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.authentication.AnonymousAuthenticationFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.authentication.DelegatingAuthenticationEntryPoint": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.authentication.SimpleUrlAuthenticationFailureHandler": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.authentication.logout": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.authentication.logout.LogoutFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.authentication.logout.SecurityContextLogoutHandler": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.authentication.logout.SimpleUrlLogoutSuccessHandler": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.authentication.session": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.authentication.session.ChangeSessionIdAuthenticationStrategy": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.authentication.session.CompositeSessionAuthenticationStrategy": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.authentication.ui": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.authentication.www": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.authentication.www.BasicAuthenticationFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.context": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.context.HttpSessionSecurityContextRepository": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.context.SecurityContextHolderFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.context.SupplierDeferredSecurityContext": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.context.request": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.context.request.async": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.firewall": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.firewall.HttpStatusRequestRejectedHandler": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.header": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.header.HeaderWriterFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.header.writers": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.header.writers.HstsHeaderWriter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.savedrequest": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.savedrequest.HttpSessionRequestCache": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.savedrequest.RequestCacheAwareFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.servletapi": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.servletapi.HttpServlet3RequestFactory": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.session": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.session.DisableEncodeUrlFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.session.SessionManagementFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.util": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.util.matcher": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.util.matcher.AndRequestMatcher": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.util.matcher.MediaTypeRequestMatcher": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.security.web.util.matcher.NegatedRequestMatcher": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.transaction": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.transaction.annotation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.transaction.annotation.AnnotationTransactionAttributeSource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.transaction.interceptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.transaction.interceptor.TransactionInterceptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.transaction.support": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.transaction.support.TransactionSynchronizationUtils": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.transaction.support.TransactionTemplate": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.ui": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.ui.context": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.ui.context.support": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.ui.context.support.ResourceBundleThemeSource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.ui.context.support.UiApplicationContextUtils": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.util": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.util.PropertyPlaceholderHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.validation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.validation.DataBinder": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.HttpLogging": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.context": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.context.request": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.context.request.async": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.context.request.async.WebAsyncManager": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.context.support": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.context.support.ServletContextPropertySource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.context.support.ServletContextResourcePatternResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.context.support.StandardServletEnvironment": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.cors": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.cors.DefaultCorsProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.filter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.filter.CorsFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.filter.ServerHttpObservationFilter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.method": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.method.HandlerMethod": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.method.annotation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.method.annotation.ModelFactory": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.DispatcherServlet": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.HandlerExecutionChain": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.PageNotFound": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.config": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.config.annotation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.config.annotation.WebMvcConfigurer": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.function": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.function.support": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.function.support.HandlerFunctionAdapter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.function.support.RouterFunctionMapping": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.handler": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.handler.SimpleUrlHandlerMapping": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.i18n": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.i18n.CookieLocaleResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.i18n.LocaleChangeInterceptor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.mvc": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.mvc.annotation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.mvc.annotation.ResponseStatusExceptionResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.mvc.method": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.mvc.method.annotation": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.mvc.method.annotation.ReactiveTypeHandler": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.mvc.method.annotation.RequestPartMethodArgumentResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.mvc.method.annotation.ServletModelAttributeMethodProcessor": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.mvc.support": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.resource": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.resource.PathResourceResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.resource.ResourceHttpRequestHandler": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.resource.ResourceUrlProvider": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.support": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.support.SessionFlashMapManager": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.view": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.view.ContentNegotiatingViewResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.servlet.view.InternalResourceViewResolver": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.util": {
+            "effectiveLevel": "WARN"
+        },
+        "org.springframework.web.util.UrlPathHelper": {
+            "effectiveLevel": "WARN"
+        },
+        "org.thymeleaf": {
+            "configuredLevel": "OFF",
+            "effectiveLevel": "OFF"
+        },
+        "org.thymeleaf.TemplateEngine": {
+            "effectiveLevel": "OFF"
+        },
+        "org.thymeleaf.TemplateEngine.TIMER": {
+            "effectiveLevel": "OFF"
+        },
+        "org.thymeleaf.linkbuilder": {
+            "effectiveLevel": "OFF"
+        },
+        "org.thymeleaf.linkbuilder.AbstractLinkBuilder": {
+            "effectiveLevel": "OFF"
+        },
+        "org.thymeleaf.messageresolver": {
+            "effectiveLevel": "OFF"
+        },
+        "org.thymeleaf.messageresolver.AbstractMessageResolver": {
+            "effectiveLevel": "OFF"
+        },
+        "org.thymeleaf.spring6": {
+            "effectiveLevel": "OFF"
+        },
+        "org.thymeleaf.spring6.view": {
+            "effectiveLevel": "OFF"
+        },
+        "org.thymeleaf.spring6.view.ThymeleafViewResolver": {
+            "effectiveLevel": "OFF"
+        },
+        "org.thymeleaf.templatemode": {
+            "effectiveLevel": "OFF"
+        },
+        "org.thymeleaf.templatemode.TemplateMode": {
+            "effectiveLevel": "OFF"
+        },
+        "org.xnio": {
+            "configuredLevel": "OFF",
+            "effectiveLevel": "OFF"
+        },
+        "org.zalando": {
+            "effectiveLevel": "DEBUG"
+        },
+        "org.zalando.problem": {
+            "effectiveLevel": "DEBUG"
+        },
+        "org.zalando.problem.spring": {
+            "effectiveLevel": "DEBUG"
+        },
+        "org.zalando.problem.spring.common": {
+            "effectiveLevel": "DEBUG"
+        },
+        "org.zalando.problem.spring.common.AdviceTraits": {
+            "effectiveLevel": "DEBUG"
+        },
+        "springfox": {
+            "configuredLevel": "OFF",
+            "effectiveLevel": "OFF"
+        },
+        "springfox.documentation": {
+            "effectiveLevel": "OFF"
+        },
+        "springfox.documentation.schema": {
+            "effectiveLevel": "OFF"
+        },
+        "springfox.documentation.schema.property": {
+            "configuredLevel": "ERROR",
+            "effectiveLevel": "ERROR"
+        },
+        "sun": {
+            "effectiveLevel": "DEBUG"
+        },
+        "sun.rmi": {
+            "configuredLevel": "OFF",
+            "effectiveLevel": "OFF"
+        },
+        "sun.rmi.transport": {
+            "configuredLevel": "WARN",
+            "effectiveLevel": "WARN"
+        }
+    },
+    "groups": {
+        "web": {
+            "members": [
+                "org.springframework.core.codec",
+                "org.springframework.http",
+                "org.springframework.web",
+                "org.springframework.boot.actuate.endpoint.web",
+                "org.springframework.boot.web.servlet.ServletContextInitializerBeans"
+            ]
+        },
+        "sql": {
+            "members": [
+                "org.springframework.jdbc.core",
+                "org.hibernate.SQL",
+                "org.jooq.tools.LoggerListener"
+            ]
+        }
+    }
+}

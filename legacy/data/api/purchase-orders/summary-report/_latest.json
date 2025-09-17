@@ -1,0 +1,98 @@
+[
+    {
+        "header": "TOTAL",
+        "budget": 10000000.00,
+        "requested": 2651535025.16,
+        "approved": 679393.09,
+        "released": 603726.91,
+        "poNumber": 333,
+        "requestedVsBudget": 26515.35,
+        "approvedVsBudget": 6.79,
+        "approvedVsRequested": 0.03,
+        "releaseVsApproved": 88.86
+    },
+    {
+        "header": "Global Orders",
+        "budget": 5000000.00,
+        "requested": 25449870.07,
+        "approved": 0,
+        "released": 0,
+        "poNumber": 48,
+        "requestedVsBudget": 509.00,
+        "approvedVsBudget": 0,
+        "approvedVsRequested": 0,
+        "releaseVsApproved": null
+    },
+    {
+        "header": "Local Orders",
+        "budget": 5000000.00,
+        "requested": 2626083505.09,
+        "approved": 677743.09,
+        "released": 603726.91,
+        "poNumber": 282,
+        "requestedVsBudget": 52521.67,
+        "approvedVsBudget": 13.55,
+        "approvedVsRequested": 0.03,
+        "releaseVsApproved": 89.08
+    },
+    {
+        "header": "Local PO",
+        "budget": null,
+        "requested": 2625479278.18,
+        "approved": 74016.18,
+        "released": 0,
+        "poNumber": 206,
+        "requestedVsBudget": 52509.59,
+        "approvedVsBudget": 1.48,
+        "approvedVsRequested": 0.00,
+        "releaseVsApproved": 0
+    },
+    {
+        "header": "CON",
+        "budget": null,
+        "requested": 53320.00,
+        "approved": 53320.00,
+        "released": 53320.00,
+        "poNumber": 29,
+        "requestedVsBudget": null,
+        "approvedVsBudget": null,
+        "approvedVsRequested": 100.00,
+        "releaseVsApproved": 100.00
+    },
+    {
+        "header": "HUD + FMG",
+        "budget": null,
+        "requested": 550906.91,
+        "approved": 550406.91,
+        "released": 550406.91,
+        "poNumber": 47,
+        "requestedVsBudget": 11.02,
+        "approvedVsBudget": 11.01,
+        "approvedVsRequested": 99.91,
+        "releaseVsApproved": 100.00
+    },
+    {
+        "header": "Forecast AW",
+        "budget": null,
+        "requested": 0,
+        "approved": 0,
+        "released": 0,
+        "poNumber": 0,
+        "requestedVsBudget": null,
+        "approvedVsBudget": null,
+        "approvedVsRequested": null,
+        "releaseVsApproved": null
+    },
+    {
+        "header": "Forecast PW",
+        "budget": null,
+        "requested": 0,
+        "approved": 0,
+        "released": 0,
+        "poNumber": 0,
+        "requestedVsBudget": null,
+        "approvedVsBudget": null,
+        "approvedVsRequested": null,
+        "releaseVsApproved": null
+    }
+]

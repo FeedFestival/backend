@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "code": "Cluster 1"
+    },
+    {
+        "id": 2,
+        "code": "Cluster 2"
+    },
+    {
+        "id": 3,
+        "code": "Cluster 3"
+    },
+    {
+        "id": 4,
+        "code": "Cluster 4"
+    },
+    {
+        "id": 5,
+        "code": "Cluster 5"
+    },
+    {
+        "id": 9,
+        "code": "Pending"
+    }
+]

@@ -1,0 +1,28 @@
+{
+    "id": 1,
+    "login": "natbat",
+    "firstName": "21211",
+    "lastName": "System21",
+    "email": "system@localhost1.com",
+    "imageUrl": "",
+    "activated": false,
+    "langKey": "en",
+    "createdBy": "system",
+    "createdDate": null,
+    "lastModifiedBy": "testroles",
+    "lastModifiedDate": "2024-10-09T08:57:06.793+00:00",
+    "authorities": ["ROLE_PO_PLANNER", "ROLE_REPORTING", "ROLE_USER", "ROLE_PO_UPLOAD"],
+    "companies": [43540],
+    "regions": [],
+    "companyRegionAccess": [
+        {
+            "accessType": "company",
+            "accesses": [
+                {
+                    "label": "Dufrital SpA",
+                    "value": "1001"
+                }
+            ]
+        }
+    ]
+}

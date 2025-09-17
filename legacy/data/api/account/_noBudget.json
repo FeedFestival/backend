@@ -1,0 +1,26 @@
+{
+    "id": 277427597,
+    "login": "t-daisim",
+    "firstName": "Daniel",
+    "lastName": "Simionescu",
+    "email": "t-daniel.simionescu@dufry.com",
+    "imageUrl": null,
+    "activated": true,
+    "langKey": "en",
+    "createdBy": "anonymousUser",
+    "createdDate": "2024-07-12T12:58:09.333+00:00",
+    "lastModifiedBy": "andrei.carindatoiu",
+    "lastModifiedDate": "2024-07-12T13:41:44.327+00:00",
+    "authorities": [
+        "ROLE_PO_PLANNER",
+        "ROLE_REPORTING",
+        "ROLE_USER",
+        "ROLE_LOCK_WEEK",
+        "ROLE_GUEST",
+        "ROLE_PO_UPLOAD",
+        "ROLE_PO_APPROVAL",
+        "ROLE_PO_APPROVAL_REGIONAL"
+    ],
+    "companies": [],
+    "regions": [43888, 43889, 43890, 43891, 57479, 43886, 43887]
+}

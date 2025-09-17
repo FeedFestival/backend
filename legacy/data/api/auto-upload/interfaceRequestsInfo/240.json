@@ -1,0 +1,2613 @@
+{
+    "autoUploadSchedule": [
+        {
+            "erpSource": "SAP",
+            "weekdayExecutions": {
+                "sunday": [],
+                "saturday": [],
+                "tuesday": [],
+                "wednesday": [
+                    {
+                        "status": "Partial",
+                        "creationDate": "2024-08-28T15:25:11.413Z",
+                        "numberOfPOs": 284
+                    },
+                    {
+                        "status": "Partial",
+                        "creationDate": "2024-08-28T15:27:02.120Z",
+                        "numberOfPOs": 283
+                    },
+                    {
+                        "status": "Executed successfully",
+                        "creationDate": "2024-08-28T16:00:02.107Z",
+                        "numberOfPOs": 1
+                    },
+                    {
+                        "status": "Executed successfully",
+                        "creationDate": "2024-08-28T18:00:01.953Z",
+                        "numberOfPOs": 1
+                    }
+                ],
+                "thursday": [
+                    {
+                        "status": "System Error",
+                        "creationDate": "2024-08-29T08:00:05.533Z",
+                        "numberOfPOs": 0
+                    },
+                    {
+                        "status": "System Error",
+                        "creationDate": "2024-08-29T09:04:02.410Z",
+                        "numberOfPOs": 0
+                    },
+                    {
+                        "status": "System Error",
+                        "creationDate": "2024-08-29T11:00:12.820Z",
+                        "numberOfPOs": 0
+                    },
+                    {
+                        "status": "System Error",
+                        "creationDate": "2024-08-29T13:00:05.840Z",
+                        "numberOfPOs": 0
+                    },
+                    {
+                        "status": "System Error",
+                        "creationDate": "2024-08-29T15:00:01.170Z",
+                        "numberOfPOs": 0
+                    }
+                ],
+                "friday": [],
+                "monday": []
+            }
+        },
+        {
+            "erpSource": "GAMMA",
+            "weekdayExecutions": {
+                "sunday": [],
+                "saturday": [],
+                "tuesday": [],
+                "wednesday": [],
+                "thursday": [],
+                "friday": [],
+                "monday": []
+            }
+        }
+    ],
+    "detailedRequestInfo": [
+        {
+            "processedPoNumber": 284,
+            "result": [
+                {
+                    "poCode": "4501200884",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501200885",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501276044",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501280959",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501282859",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501285554",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501289722",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501297199",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501346490",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501435058",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501491179",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501493871",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501508765",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501513192",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501514089",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501529483",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501530662",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501539749",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501541218",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501549681",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501563791",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501568935",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501569182",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501577098",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501577667",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501580012",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501588435",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501596038",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501596870",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501602892",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501604708",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501607270",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501607447",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501608404",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501609115",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501609305",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501609306",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501611067",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501611093",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501611094",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501622484",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501629932",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501636132",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501638617",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501642822",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501648953",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501649940",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501652315",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501658801",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501663402",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501665520",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501675318",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501675460",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501675466",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501681505",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501684807",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501686087",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501692163",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501693518",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501693869",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501707412",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501709336",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501712161",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501714140",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501719016",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501719232",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501719233",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501719234",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501725005",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501730050",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501733966",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501737505",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501759306",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501788716",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501788717",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501794023",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501794029",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501797301",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501798107",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501802721",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501808613",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501808642",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501813770",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501813776",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501820730",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501824282",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501828917",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501829042",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501832136",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501835299",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501835313",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501837672",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501839714",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501842260",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501846260",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501846261",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501846262",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501848645",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501852538",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501852539",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501852553",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501852554",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501872573",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501872655",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501907700",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501913216",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501925329",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501925331",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501946811",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501948459",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501965840",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501994032",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502017549",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502027824",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502057196",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502058459",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502058470",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502060185",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502061444",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502079862",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502079878",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502079879",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502083958",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502102455",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502111334",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502113283",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502113292",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502117089",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502117090",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502121498",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502121499",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502121502",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502121503",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502129101",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502133273",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502134475",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502138834",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "operationCode",
+                            "error": "Invalid HFM code: 6934"
+                        },
+                        {
+                            "field": "regionCode",
+                            "error": "Invalid region code is empty"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502138835",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "operationCode",
+                            "error": "Invalid HFM code: 6934"
+                        },
+                        {
+                            "field": "regionCode",
+                            "error": "Invalid region code is empty"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502138966",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "regionCode",
+                            "error": "Invalid region code is empty"
+                        },
+                        {
+                            "field": "operationCode",
+                            "error": "Invalid HFM code: 6023"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502138977",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "regionCode",
+                            "error": "Invalid region code is empty"
+                        },
+                        {
+                            "field": "operationCode",
+                            "error": "Invalid HFM code: 6023"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502148311",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502166827",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502178805",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "operationCode",
+                            "error": "Invalid HFM code: 6934"
+                        },
+                        {
+                            "field": "regionCode",
+                            "error": "Invalid region code is empty"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502188055",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502188788",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502189396",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502190958",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502197195",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502208554",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502220467",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502229175",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502239922",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502244394",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502244395",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502244402",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502244404",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502244411",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502244414",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502244424",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502244646",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502252241",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502252433",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502282436",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502286966",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502345190",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "operationCode",
+                            "error": "Invalid HFM code: 6356"
+                        },
+                        {
+                            "field": "regionCode",
+                            "error": "Invalid region code is empty"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502345601",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502355138",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502403316",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502403317",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502403320",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502411502",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502418870",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502418881",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502419030",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502419145",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502419152",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502419229",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502419311",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502419411",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502428794",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502428795",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502428801",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502430780",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502432844",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502432869",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502432871",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502439928",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502440084",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502440130",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502442377",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502447909",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502459750",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502459751",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502459754",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502459759",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502469548",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "operationCode",
+                            "error": "Invalid HFM code: 6934"
+                        },
+                        {
+                            "field": "regionCode",
+                            "error": "Invalid region code is empty"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502476342",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502478005",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502483928",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502483930",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502483931",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502483932",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502510723",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502537222",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502545508",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502553774",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502583906",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502633523",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502636563",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502641280",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "categoryCode",
+                            "error": "Invalid category code: null"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502648791",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502668353",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502678735",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502680884",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502680885",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502680949",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502680950",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502680951",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502688379",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502693020",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502694091",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502694139",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502694166",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502699417",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502704298",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502712611",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502719063",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502720304",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "operationCode",
+                            "error": "Invalid HFM code: 6934"
+                        },
+                        {
+                            "field": "regionCode",
+                            "error": "Invalid region code is empty"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502722603",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502741834",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502741845",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502742799",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502743628",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502755831",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502755833",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502765231",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502765246",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502773512",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502773517",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502773521",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502777278",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502777279",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502784266",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502817317",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502830970",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502831478",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502831576",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502833801",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502835108",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "categoryCode",
+                            "error": "Invalid category code: null"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502841348",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859845",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859857",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859860",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859862",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859864",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859866",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859868",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859870",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859872",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859874",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859876",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859878",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859880",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859883",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859885",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859887",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859889",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859891",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859895",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859897",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859899",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859901",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859904",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859906",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859930",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502860101",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502860108",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502860212",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502860215",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502860223",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502860226",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502860233",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502860414",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502861279",
+                    "autoUploadPoStatus": "SAVED"
+                }
+            ],
+            "id": 278542947,
+            "requestExecutionDateTime": "2024-08-28T15:25:11.413Z",
+            "erpSource": "SAP",
+            "status": "Partial"
+        },
+        {
+            "processedPoNumber": 283,
+            "result": [
+                {
+                    "poCode": "4501200884",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501200885",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501276044",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501280959",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501282859",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501285554",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501289722",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501297199",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501346490",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501435058",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501491179",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501493871",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501508765",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501513192",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501514089",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501529483",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501530662",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501539749",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501541218",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501549681",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501563791",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501568935",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501569182",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501577098",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501577667",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501580012",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501588435",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501596038",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501596870",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501604708",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501607270",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501607447",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501608404",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501609115",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501609305",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501609306",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501611067",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501611093",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501611094",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501622484",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501629932",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501636132",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501638617",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501642822",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501648953",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501649940",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501652315",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501658801",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501663402",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501665520",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501675318",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501675460",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501675466",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501681505",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501684807",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501686087",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501692163",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501693518",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501693869",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501707412",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501709336",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501712161",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501714140",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501719016",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501719232",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501719233",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501719234",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501725005",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501730050",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501733966",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501737505",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501759306",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501788716",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501788717",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501794023",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501794029",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501797301",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501798107",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501802721",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501808613",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501808642",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501813770",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501813776",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501820730",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501824282",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501828917",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501829042",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501832136",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501835299",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501835313",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501837672",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501839714",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501842260",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501846260",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501846261",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501846262",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501848645",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501852538",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501852539",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501852553",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501852554",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501872573",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501872655",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501907700",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501913216",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501925329",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501925331",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501946811",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501948459",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501965840",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4501994032",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502017549",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502027824",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502057196",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502058459",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502058470",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502060185",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502061444",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502079862",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502079878",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502079879",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502083958",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502102455",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502111334",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502113283",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502113292",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502117089",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502117090",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502121498",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502121499",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502121502",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502121503",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502129101",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502133273",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502134475",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502138834",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "regionCode",
+                            "error": "Invalid region code is empty"
+                        },
+                        {
+                            "field": "operationCode",
+                            "error": "Invalid HFM code: 6934"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502138835",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "operationCode",
+                            "error": "Invalid HFM code: 6934"
+                        },
+                        {
+                            "field": "regionCode",
+                            "error": "Invalid region code is empty"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502138966",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "operationCode",
+                            "error": "Invalid HFM code: 6023"
+                        },
+                        {
+                            "field": "regionCode",
+                            "error": "Invalid region code is empty"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502138977",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "regionCode",
+                            "error": "Invalid region code is empty"
+                        },
+                        {
+                            "field": "operationCode",
+                            "error": "Invalid HFM code: 6023"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502148311",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502166827",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502178805",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "regionCode",
+                            "error": "Invalid region code is empty"
+                        },
+                        {
+                            "field": "operationCode",
+                            "error": "Invalid HFM code: 6934"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502188055",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502188788",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502189396",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502190958",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502197195",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502208554",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502220467",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502229175",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502239922",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502244394",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502244395",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502244402",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502244404",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502244411",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502244414",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502244424",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502244646",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502252241",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502252433",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502282436",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502286966",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502345190",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "operationCode",
+                            "error": "Invalid HFM code: 6356"
+                        },
+                        {
+                            "field": "regionCode",
+                            "error": "Invalid region code is empty"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502345601",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502355138",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502403316",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502403317",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502403320",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502411502",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502418870",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502418881",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502419030",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502419145",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502419152",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502419229",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502419311",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502419411",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502428794",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502428795",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502428801",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502430780",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502432844",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502432869",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502432871",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502439928",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502440084",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502440130",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502442377",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502447909",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502459750",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502459751",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502459754",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502459759",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502469548",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "regionCode",
+                            "error": "Invalid region code is empty"
+                        },
+                        {
+                            "field": "operationCode",
+                            "error": "Invalid HFM code: 6934"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502476342",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502478005",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502483928",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502483930",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502483931",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502483932",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502510723",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502537222",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502545508",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502553774",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502583906",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502633523",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502636563",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502641280",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "categoryCode",
+                            "error": "Invalid category code: null"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502648791",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502668353",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502678735",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502680884",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502680885",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502680949",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502680950",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502680951",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502688379",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502693020",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502694091",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502694139",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502694166",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502699417",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502704298",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502712611",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502719063",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502720304",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "regionCode",
+                            "error": "Invalid region code is empty"
+                        },
+                        {
+                            "field": "operationCode",
+                            "error": "Invalid HFM code: 6934"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502722603",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502741834",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502741845",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502742799",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502743628",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502755831",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502755833",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502765231",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502765246",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502773512",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502773517",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502773521",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502777278",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502777279",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502784266",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502817317",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502830970",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502831478",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502831576",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502833801",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502835108",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": "categoryCode",
+                            "error": "Invalid category code: null"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502841348",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859845",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859857",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859860",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859862",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859864",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859866",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859868",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859870",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859872",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859874",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859876",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859878",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859880",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859883",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859885",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859887",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859889",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859891",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859895",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859897",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859899",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859901",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859904",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859906",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502859930",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502860101",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502860108",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502860212",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502860215",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502860223",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502860226",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502860233",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502860414",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "4502861279",
+                    "autoUploadPoStatus": "SAVED"
+                }
+            ],
+            "id": 278543245,
+            "requestExecutionDateTime": "2024-08-28T15:27:02.120Z",
+            "erpSource": "SAP",
+            "status": "Partial"
+        },
+        {
+            "processedPoNumber": 1,
+            "result": [
+                {
+                    "poCode": "4502861279",
+                    "autoUploadPoStatus": "SAVED"
+                }
+            ],
+            "id": 278543266,
+            "requestExecutionDateTime": "2024-08-28T16:00:02.107Z",
+            "erpSource": "SAP",
+            "status": "Executed successfully"
+        },
+        {
+            "processedPoNumber": 1,
+            "result": [
+                {
+                    "poCode": "4502861279",
+                    "autoUploadPoStatus": "SAVED"
+                }
+            ],
+            "id": 278543268,
+            "requestExecutionDateTime": "2024-08-28T18:00:01.953Z",
+            "erpSource": "SAP",
+            "status": "Executed successfully"
+        },
+        {
+            "processedPoNumber": 0,
+            "result": [],
+            "id": 278543273,
+            "requestExecutionDateTime": "2024-08-29T08:00:05.533Z",
+            "erpSource": "SAP",
+            "status": "System Error"
+        },
+        {
+            "processedPoNumber": 0,
+            "result": [],
+            "id": 278543274,
+            "requestExecutionDateTime": "2024-08-29T09:04:02.410Z",
+            "erpSource": "SAP",
+            "status": "System Error"
+        },
+        {
+            "processedPoNumber": 0,
+            "result": [],
+            "id": 278543293,
+            "requestExecutionDateTime": "2024-08-29T11:00:12.820Z",
+            "erpSource": "SAP",
+            "status": "System Error"
+        },
+        {
+            "processedPoNumber": 0,
+            "result": [],
+            "id": 278543294,
+            "requestExecutionDateTime": "2024-08-29T13:00:05.840Z",
+            "erpSource": "SAP",
+            "status": "System Error"
+        },
+        {
+            "processedPoNumber": 0,
+            "result": [],
+            "id": 278543295,
+            "requestExecutionDateTime": "2024-08-29T15:00:01.170Z",
+            "erpSource": "SAP",
+            "status": "System Error"
+        }
+    ]
+}

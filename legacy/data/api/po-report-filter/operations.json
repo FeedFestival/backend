@@ -1,0 +1,182 @@
+[
+    {
+        "id": 43759,
+        "code": "CA01",
+        "description": "Canada (TNG Canada)"
+    },
+    {
+        "id": 43790,
+        "code": "BDF",
+        "description": "Dufry Brasif AV"
+    },
+    {
+        "id": 278101766,
+        "code": "HBDF",
+        "description": "HG BOS Duty Free JV"
+    },
+    {
+        "id": 43727,
+        "code": "DSJV",
+        "description": "Dufry Seattle JV"
+    },
+    {
+        "id": 43828,
+        "code": "DDF",
+        "description": "WDFG Partners Duty Free LLC (Detroit)"
+    },
+    {
+        "id": 51608,
+        "code": "HGSLC",
+        "description": "HG SLC Retailers JV"
+    },
+    {
+        "id": 51717,
+        "code": "KR01",
+        "description": "Dufry Thomas Julie Korea"
+    },
+    {
+        "id": 43559,
+        "code": "WTB",
+        "description": "Dufry Basel-Mulhouse AG"
+    },
+    {
+        "id": 43596,
+        "code": "BLG",
+        "description": "Dufry Belgrade"
+    },
+    {
+        "id": 43605,
+        "code": "TXS2",
+        "description": "Dufry Inflight Air Arabia"
+    },
+    {
+        "id": 43845,
+        "code": "IOS",
+        "description": "IOSC"
+    },
+    {
+        "id": 43573,
+        "code": "TR02",
+        "description": "TNG Turkey (Urart)"
+    },
+    {
+        "id": 43622,
+        "code": "DPE",
+        "description": "Dufry Newark Inc."
+    },
+    {
+        "id": 43562,
+        "code": "DTRSAP",
+        "description": "International Operations & Services (CH) AG"
+    },
+    {
+        "id": 43545,
+        "code": "HDF",
+        "description": "Hellenic Duty Free Shops"
+    },
+    {
+        "id": 43602,
+        "code": "DMA",
+        "description": "DUFRY HWG SHOPPING SDN. BHD."
+    },
+    {
+        "id": 731644,
+        "code": "SOF",
+        "description": "Dufry Sofia EOOD"
+    },
+    {
+        "id": 43868,
+        "code": "AU01",
+        "description": "The Nuance Group (Australia) Pty Ltd"
+    },
+    {
+        "id": 43540,
+        "code": "DUF",
+        "description": "Dufrital SpA"
+    },
+    {
+        "id": 51606,
+        "code": "DT50",
+        "description": "Dufry International AG"
+    },
+    {
+        "id": 43703,
+        "code": "ABC",
+        "description": "ABC Netherlands Inc. (Dufry Puerto Rico WS)"
+    },
+    {
+        "id": 43568,
+        "code": "UK70",
+        "description": "WDFG UK Holdings Ltd"
+    },
+    {
+        "id": 43614,
+        "code": "CAM",
+        "description": "Dufry Cambodia Ltd"
+    },
+    {
+        "id": 43760,
+        "code": "CA10",
+        "description": "WDFG Vancouver LP"
+    },
+    {
+        "id": 43737,
+        "code": "US02",
+        "description": "Las Vegas (TNG LV)"
+    },
+    {
+        "id": 43560,
+        "code": "CH02",
+        "description": "The Nuance Group AG (CH)"
+    },
+    {
+        "id": 43551,
+        "code": "ES90",
+        "description": "SDCA Canarias SL"
+    },
+    {
+        "id": 43554,
+        "code": "TXF",
+        "description": "Dufry France SA"
+    },
+    {
+        "id": 43617,
+        "code": "IOSHK",
+        "description": "International Operations & Services (HK) Ltd"
+    },
+    {
+        "id": 43623,
+        "code": "CHB",
+        "description": "Chicago Duty Free"
+    },
+    {
+        "id": 43732,
+        "code": "DENDF",
+        "description": "Dufry-Denver, JV"
+    },
+    {
+        "id": 43609,
+        "code": "IN01",
+        "description": "TNG (India) Pvt. Ltd."
+    },
+    {
+        "id": 43566,
+        "code": "FI10",
+        "description": "WDFG Helsinki Oy"
+    },
+    {
+        "id": 51607,
+        "code": "GDC",
+        "description": "Dufry Beijing"
+    },
+    {
+        "id": 43549,
+        "code": "ES65",
+        "description": "WDFG España, SA"
+    },
+    {
+        "id": 43858,
+        "code": "FLA3",
+        "description": "Dufry Cruise Services UK"
+    }
+]

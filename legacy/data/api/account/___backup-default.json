@@ -1,0 +1,17 @@
+{
+    "id": 4,
+    "login": "user",
+    "firstName": "User",
+    "lastName": "User",
+    "email": "test.user_user@localhost",
+    "imageUrl": "",
+    "activated": true,
+    "langKey": "en",
+    "createdBy": "system",
+    "createdDate": null,
+    "lastModifiedBy": "admin",
+    "lastModifiedDate": "2024-11-20T15:05:19.997+00:00",
+    "authorities": ["ROLE_REPORTING", "ROLE_LOCK_WEEK", "ROLE_CONFIGURATION_MANAGER", "ROLE_PO_APPROVAL"],
+    "companies": [],
+    "regions": []
+}

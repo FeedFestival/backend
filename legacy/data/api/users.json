@@ -1,0 +1,524 @@
+[
+    {
+        "id": 13440,
+        "login": "madhurima",
+        "firstName": null,
+        "lastName": null,
+        "email": "madhurima.puri@dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2021-02-03T11:31:27.153+00:00",
+        "lastModifiedBy": "anonymousUser",
+        "lastModifiedDate": "2021-02-03T11:32:56.713+00:00",
+        "authorities": [
+            "ROLE_PO_PLANNER",
+            "ROLE_USER"
+        ],
+        "companies": [],
+        "regions": [
+            43888,
+            43889,
+            43890,
+            43891,
+            57479,
+            43886,
+            43887
+        ]
+    },
+    {
+        "id": 14479,
+        "login": "cerjom",
+        "firstName": null,
+        "lastName": null,
+        "email": "cesar.jomotte@fr.dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2021-02-05T14:34:00.530+00:00",
+        "lastModifiedBy": "anonymousUser",
+        "lastModifiedDate": "2021-07-16T10:14:04.713+00:00",
+        "authorities": [
+            "ROLE_USER",
+            "ROLE_PO_UPLOAD"
+        ],
+        "companies": [
+            43554,
+            43555,
+            43556
+        ],
+        "regions": []
+    },
+    {
+        "id": 14485,
+        "login": "gilmas",
+        "firstName": "Gilles",
+        "lastName": "Massoni",
+        "email": "gilles.massoni@fr.dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2021-02-05T14:41:26.810+00:00",
+        "lastModifiedBy": "anonymousUser",
+        "lastModifiedDate": "2021-08-13T14:13:46.690+00:00",
+        "authorities": [
+            "ROLE_USER",
+            "ROLE_PO_UPLOAD"
+        ],
+        "companies": [
+            43554,
+            43555,
+            43556
+        ],
+        "regions": []
+    },
+    {
+        "id": 14610,
+        "login": "fedlap",
+        "firstName": null,
+        "lastName": null,
+        "email": "federico.lapucci@dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2021-02-08T17:11:06.930+00:00",
+        "lastModifiedBy": "fedlap",
+        "lastModifiedDate": "2021-04-23T08:07:45.833+00:00",
+        "authorities": [
+            "ROLE_USER",
+            "ROLE_PO_UPLOAD"
+        ],
+        "companies": [
+            43540,
+            43541,
+            43542,
+            43543
+        ],
+        "regions": []
+    },
+    {
+        "id": 14661,
+        "login": "giacan",
+        "firstName": "Giancarlo",
+        "lastName": "Cannata",
+        "email": "giancarlo.cannata@it.dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2021-02-09T07:07:11.907+00:00",
+        "lastModifiedBy": "giacan",
+        "lastModifiedDate": "2021-02-10T12:04:06.470+00:00",
+        "authorities": [
+            "ROLE_USER",
+            "ROLE_PO_UPLOAD"
+        ],
+        "companies": [
+            43540,
+            43541,
+            43542,
+            43543
+        ],
+        "regions": []
+    },
+    {
+        "id": 14804,
+        "login": "testroles",
+        "firstName": null,
+        "lastName": null,
+        "email": "andrei.carindatoiu@mindit.io",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2021-02-09T16:09:42.847+00:00",
+        "lastModifiedBy": "anonymousUser",
+        "lastModifiedDate": "2024-06-03T11:39:48.820+00:00",
+        "authorities": [
+            "ROLE_PO_PLANNER",
+            "ROLE_REPORTING",
+            "ROLE_LOCK_WEEK",
+            "ROLE_USER",
+            "ROLE_GUEST",
+            "ROLE_BUDGET_MANAGER",
+            "ROLE_ADMIN",
+            "ROLE_PO_UPLOAD",
+            "ROLE_CONFIGURATION_MANAGER",
+            "ROLE_PO_APPROVAL",
+            "ROLE_PO_APPROVAL_REGIONAL"
+        ],
+        "companies": [],
+        "regions": [
+            43888,
+            43889,
+            43890,
+            43891,
+            57479,
+            43886,
+            43887
+        ]
+    },
+    {
+        "id": 16733,
+        "login": "belsan",
+        "firstName": null,
+        "lastName": null,
+        "email": "belen.santamaria@dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2021-02-17T12:40:11.493+00:00",
+        "lastModifiedBy": "anonymousUser",
+        "lastModifiedDate": "2021-02-17T12:40:25.390+00:00",
+        "authorities": [
+            "ROLE_USER"
+        ],
+        "companies": [],
+        "regions": []
+    },
+    {
+        "id": 16746,
+        "login": "srodriguez",
+        "firstName": null,
+        "lastName": null,
+        "email": "sandra.rodriguez@dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2021-02-17T13:19:17.420+00:00",
+        "lastModifiedBy": "anonymousUser",
+        "lastModifiedDate": "2021-02-17T13:20:01.203+00:00",
+        "authorities": [
+            "ROLE_USER"
+        ],
+        "companies": [],
+        "regions": []
+    },
+    {
+        "id": 26281,
+        "login": "jasminep",
+        "firstName": null,
+        "lastName": null,
+        "email": "jasmine.patel@dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2021-03-19T13:04:09.843+00:00",
+        "lastModifiedBy": "admin",
+        "lastModifiedDate": "2021-03-22T10:40:36.560+00:00",
+        "authorities": [
+            "ROLE_PO_PLANNER",
+            "ROLE_USER"
+        ],
+        "companies": [],
+        "regions": [
+            43888,
+            43889,
+            43890,
+            43891,
+            57479,
+            43886,
+            43887
+        ]
+    },
+    {
+        "id": 26751,
+        "login": "heenashah",
+        "firstName": "Heena",
+        "lastName": "Shah",
+        "email": "heena.shah@dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2021-03-22T09:34:38.033+00:00",
+        "lastModifiedBy": "anonymousUser",
+        "lastModifiedDate": "2021-06-01T14:35:09.550+00:00",
+        "authorities": [
+            "ROLE_PO_PLANNER",
+            "ROLE_USER"
+        ],
+        "companies": [],
+        "regions": [
+            43888,
+            43889,
+            43890,
+            43891,
+            57479,
+            43886,
+            43887
+        ]
+    },
+    {
+        "id": 35319,
+        "login": "isarod",
+        "firstName": null,
+        "lastName": null,
+        "email": "isabel.rodriguez@dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2021-04-15T17:29:39.657+00:00",
+        "lastModifiedBy": "admin",
+        "lastModifiedDate": "2021-04-16T08:09:56.343+00:00",
+        "authorities": [
+            "ROLE_PO_PLANNER",
+            "ROLE_USER"
+        ],
+        "companies": [],
+        "regions": [
+            43888,
+            43889,
+            43890,
+            43891,
+            57479,
+            43886,
+            43887
+        ]
+    },
+    {
+        "id": 35320,
+        "login": "alfheb",
+        "firstName": null,
+        "lastName": null,
+        "email": "alfonso.heber@dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2021-04-15T17:30:54.010+00:00",
+        "lastModifiedBy": "anonymousUser",
+        "lastModifiedDate": "2022-04-06T11:37:25.260+00:00",
+        "authorities": [
+            "ROLE_PO_PLANNER",
+            "ROLE_USER"
+        ],
+        "companies": [],
+        "regions": [
+            43888,
+            43889,
+            43890,
+            43891,
+            57479,
+            43886,
+            43887
+        ]
+    },
+    {
+        "id": 37572,
+        "login": "berrin.firat@dufry.com",
+        "firstName": "Berrin",
+        "lastName": "Firat",
+        "email": "berrin.firat@dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2021-04-21T06:03:26.927+00:00",
+        "lastModifiedBy": "berrin.firat@dufry.com",
+        "lastModifiedDate": "2022-05-06T09:15:00.057+00:00",
+        "authorities": [
+            "ROLE_PO_PLANNER",
+            "ROLE_USER"
+        ],
+        "companies": [],
+        "regions": [
+            43888,
+            43889,
+            43890,
+            43891,
+            57479,
+            43886,
+            43887
+        ]
+    },
+    {
+        "id": 51418,
+        "login": "mokeeffe",
+        "firstName": null,
+        "lastName": null,
+        "email": "michelle.okeeffe@dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2021-05-19T07:15:51.483+00:00",
+        "lastModifiedBy": "anonymousUser",
+        "lastModifiedDate": "2021-10-07T12:20:38.387+00:00",
+        "authorities": [
+            "ROLE_USER"
+        ],
+        "companies": [],
+        "regions": []
+    },
+    {
+        "id": 61210,
+        "login": "stest2",
+        "firstName": null,
+        "lastName": null,
+        "email": "silviu.balaci@mindit.io",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2020-08-06T11:27:02.503+00:00",
+        "lastModifiedBy": "admin",
+        "lastModifiedDate": "2020-08-06T11:27:37.857+00:00",
+        "authorities": [
+            "ROLE_PO_PLANNER"
+        ],
+        "companies": [],
+        "regions": []
+    },
+    {
+        "id": 61242,
+        "login": "helene",
+        "firstName": "Helénè",
+        "lastName": "Marquis",
+        "email": "helene.marquis@dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "admin",
+        "createdDate": "2020-08-06T13:04:06.103+00:00",
+        "lastModifiedBy": "admin",
+        "lastModifiedDate": "2020-08-06T13:04:47.967+00:00",
+        "authorities": [
+            "ROLE_ADMIN"
+        ],
+        "companies": [],
+        "regions": []
+    },
+    {
+        "id": 94602,
+        "login": "diego",
+        "firstName": null,
+        "lastName": null,
+        "email": "diego.ferla@dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2020-08-06T15:47:10.427+00:00",
+        "lastModifiedBy": "anonymousUser",
+        "lastModifiedDate": "2023-07-13T09:44:46.493+00:00",
+        "authorities": [
+            "ROLE_USER",
+            "ROLE_ADMIN"
+        ],
+        "companies": [],
+        "regions": [
+            43888,
+            43889,
+            43890,
+            43891,
+            57479,
+            43886,
+            43887
+        ]
+    },
+    {
+        "id": 94712,
+        "login": "michelle",
+        "firstName": null,
+        "lastName": null,
+        "email": "michelle.rolnik@dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2020-08-06T16:31:41.537+00:00",
+        "lastModifiedBy": "admin",
+        "lastModifiedDate": "2020-08-06T16:34:00.030+00:00",
+        "authorities": [
+            "ROLE_PO_PLANNER",
+            "ROLE_REPORTING",
+            "ROLE_BUDGET_MANAGER",
+            "ROLE_CONFIGURATION_MANAGER",
+            "ROLE_PO_APPROVAL"
+        ],
+        "companies": [],
+        "regions": [
+            43888,
+            43889,
+            43890,
+            43891,
+            57479,
+            43886,
+            43887
+        ]
+    },
+    {
+        "id": 94844,
+        "login": "andreeabelc",
+        "firstName": null,
+        "lastName": null,
+        "email": "andreea.cupsan@dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2020-08-07T09:06:17.737+00:00",
+        "lastModifiedBy": "admin",
+        "lastModifiedDate": "2020-08-07T09:06:39.827+00:00",
+        "authorities": [
+            "ROLE_PO_PLANNER",
+            "ROLE_REPORTING",
+            "ROLE_LOCK_WEEK",
+            "ROLE_BUDGET_MANAGER",
+            "ROLE_CONFIGURATION_MANAGER",
+            "ROLE_PO_APPROVAL"
+        ],
+        "companies": [],
+        "regions": [
+            43888,
+            43889,
+            43890,
+            43891,
+            57479,
+            43886,
+            43887
+        ]
+    },
+    {
+        "id": 94897,
+        "login": "iserrano",
+        "firstName": null,
+        "lastName": null,
+        "email": "inigo.serrano@dufry.com",
+        "imageUrl": null,
+        "activated": true,
+        "langKey": "en",
+        "createdBy": "anonymousUser",
+        "createdDate": "2020-08-10T08:50:38.547+00:00",
+        "lastModifiedBy": "srini",
+        "lastModifiedDate": "2023-06-22T09:00:22.287+00:00",
+        "authorities": [
+            "ROLE_PO_PLANNER",
+            "ROLE_REPORTING",
+            "ROLE_LOCK_WEEK",
+            "ROLE_USER",
+            "ROLE_BUDGET_MANAGER",
+            "ROLE_CONFIGURATION_MANAGER",
+            "ROLE_PO_APPROVAL"
+        ],
+        "companies": [],
+        "regions": [
+            43888,
+            43889,
+            43890,
+            43891,
+            57479,
+            43886,
+            43887
+        ]
+    }
+]

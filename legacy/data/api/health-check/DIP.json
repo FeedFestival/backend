@@ -1,0 +1,42 @@
+[
+    {
+        "status": {
+            "id": 1,
+            "code": "UP"
+        },
+        "systemCode": "DIP",
+        "requestedDate": "2024-10-04"
+    },
+    {
+        "status": {
+            "id": 1,
+            "code": "UP"
+        },
+        "systemCode": "DIP",
+        "requestedDate": "2024-10-04"
+    },
+    {
+        "status": {
+            "id": 1,
+            "code": "UP"
+        },
+        "systemCode": "DIP",
+        "requestedDate": "2024-10-04"
+    },
+    {
+        "status": {
+            "id": 1,
+            "code": "UP"
+        },
+        "systemCode": "DIP",
+        "requestedDate": "2024-10-04"
+    },
+    {
+        "status": {
+            "id": 1,
+            "code": "UP"
+        },
+        "systemCode": "DIP",
+        "requestedDate": "2024-10-04"
+    }
+]

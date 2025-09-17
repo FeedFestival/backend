@@ -1,0 +1,206 @@
+{
+    "releaseActionsRequested" : [ {
+      "erpSource" : "SAP",
+      "weekdayExecutions" : {
+        "sunday" : null,
+        "saturday" : null,
+        "tuesday" : null,
+        "wednesday" : null,
+        "thursday" : null,
+        "friday" : null,
+        "monday" : {
+          "releaseRequests" : [ {
+            "id" : 277427377,
+            "erpSource" : "SAP",
+            "requestedDate" : "2024-06-10T07:09:35.607+00:00",
+            "requestedBy" : "t-saravanan",
+            "numberReleased" : 2,
+            "numberConfirmed" : 0,
+            "status" : "Executed with errors"
+          }, {
+            "id" : 277427437,
+            "erpSource" : "SAP",
+            "requestedDate" : "2024-06-10T10:10:01.397+00:00",
+            "requestedBy" : "andreeabelc",
+            "numberReleased" : 1,
+            "numberConfirmed" : 1,
+            "status" : "Executed successfully"
+          }, {
+            "id" : 277427538,
+            "erpSource" : "SAP",
+            "requestedDate" : "2024-06-10T21:58:03.387+00:00",
+            "requestedBy" : "system",
+            "numberReleased" : 12,
+            "numberConfirmed" : 0,
+            "status" : "Executed with errors"
+          }, {
+            "id" : 277427539,
+            "erpSource" : "SAP",
+            "requestedDate" : "2024-06-10T21:59:00.077+00:00",
+            "requestedBy" : "system",
+            "numberReleased" : 12,
+            "numberConfirmed" : 0,
+            "status" : "Executed with errors"
+          } ],
+          "totalReleased" : 27,
+          "totalConfirmed" : 1
+        }
+      }
+    }, {
+      "erpSource" : "GAMMA",
+      "weekdayExecutions" : {
+        "sunday" : null,
+        "saturday" : null,
+        "tuesday" : null,
+        "wednesday" : null,
+        "thursday" : null,
+        "friday" : null,
+        "monday" : null
+      }
+    } ],
+    "detailedReleaseRequestsInfo" : [ {
+      "id" : 277427377,
+      "erpSource" : "SAP",
+      "requestedDate" : "2024-06-10T07:09:35.607Z",
+      "requestedBy" : "t-saravanan",
+      "numberReleased" : 2,
+      "numberConfirmed" : 0,
+      "status" : "Executed with errors",
+      "releasedPOsStatus" : [ {
+        "poCode" : "10000104",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000105",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      } ]
+    }, {
+      "id" : 277427437,
+      "erpSource" : "SAP",
+      "requestedDate" : "2024-06-10T10:10:01.397Z",
+      "requestedBy" : "andreeabelc",
+      "numberReleased" : 1,
+      "numberConfirmed" : 1,
+      "status" : "Executed successfully",
+      "releasedPOsStatus" : [ {
+        "poCode" : "4502610067",
+        "status" : "SUCCESS",
+        "error" : ""
+      } ]
+    }, {
+      "id" : 277427538,
+      "erpSource" : "SAP",
+      "requestedDate" : "2024-06-10T21:58:03.387Z",
+      "requestedBy" : "system",
+      "numberReleased" : 12,
+      "numberConfirmed" : 0,
+      "status" : "Executed with errors",
+      "releasedPOsStatus" : [ {
+        "poCode" : "10000102",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000114",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000126",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000138",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000164",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000176",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000190",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000201",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000212",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "13000225",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000250",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000262",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      } ]
+    }, {
+      "id" : 277427539,
+      "erpSource" : "SAP",
+      "requestedDate" : "2024-06-10T21:59:00.077Z",
+      "requestedBy" : "system",
+      "numberReleased" : 12,
+      "numberConfirmed" : 0,
+      "status" : "Executed with errors",
+      "releasedPOsStatus" : [ {
+        "poCode" : "10000103",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000115",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000127",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000139",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000165",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000211",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000218",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000222",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "13000232",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "13000236",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000261",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      }, {
+        "poCode" : "10000273",
+        "status" : "ERROR",
+        "error" : "The PO not exist or not found."
+      } ]
+    } ]
+  }

@@ -1,0 +1,347 @@
+[
+    {
+        "kpiTypeDTO": {
+            "kpiName": "Weekly Target Value",
+            "kpiType": "Currency",
+            "value": "CHF",
+            "globalLabel": "Global PO",
+            "localLabel": "Local PO",
+            "forecastCwLabel": null,
+            "approvedForecastCwLabel": null,
+            "forecastPwLabel": null
+        },
+        "totalValue": 10000000.0,
+        "localValue": 5000000.0,
+        "globalValue": 5000000.0,
+        "forecastCwValue": null,
+        "approvedForecastCwValue": null,
+        "forecastPwValue": null,
+        "vendorsList": null,
+        "operationsList": null,
+        "otherPoList": null,
+        "globalOrdersPercentage": null,
+        "localOrdersPercentage": null,
+        "totalOrdersPercentage": null
+    },
+    {
+        "kpiTypeDTO": {
+            "kpiName": "Total Requested",
+            "kpiType": "Currency",
+            "value": "CHF",
+            "globalLabel": "Global",
+            "localLabel": "Local",
+            "forecastCwLabel": null,
+            "approvedForecastCwLabel": null,
+            "forecastPwLabel": null
+        },
+        "totalValue": 12547811.93,
+        "localValue": 16608.35,
+        "globalValue": 12531203.58,
+        "forecastCwValue": null,
+        "approvedForecastCwValue": null,
+        "forecastPwValue": null,
+        "vendorsList": [
+            {
+                "code": "2201108",
+                "description": "History & Heraldry Ltd",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": "2208845",
+                "description": "Luxottica Italia Srl",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": "2000899",
+                "description": "TY UK Ltd.",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": "2212955",
+                "description": "EDITORA GLOBO S/A - 0007-55",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": "2200258",
+                "description": "EZI S.P.A.",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": "2208703",
+                "description": "G&J Distillers Ltd",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": "2202993",
+                "description": "Ravensburger Limited",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": "2000092",
+                "description": "Swarovski International Distribut",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            }
+        ],
+        "operationsList": [
+            {
+                "code": null,
+                "description": "Dufry Brasif AV",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": null,
+                "description": "International Operations & Services (CH) AG",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": null,
+                "description": "WDFG UK Holdings Ltd",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            }
+        ],
+        "otherPoList": null,
+        "globalOrdersPercentage": null,
+        "localOrdersPercentage": null,
+        "totalOrdersPercentage": null
+    },
+    {
+        "kpiTypeDTO": {
+            "kpiName": "Total Approved",
+            "kpiType": "Currency",
+            "value": "CHF",
+            "globalLabel": "Global",
+            "localLabel": "Local",
+            "forecastCwLabel": null,
+            "approvedForecastCwLabel": null,
+            "forecastPwLabel": null
+        },
+        "totalValue": 22622.63,
+        "localValue": 16608.35,
+        "globalValue": 6014.28,
+        "forecastCwValue": null,
+        "approvedForecastCwValue": null,
+        "forecastPwValue": null,
+        "vendorsList": [
+            {
+                "code": "2201108",
+                "description": "History & Heraldry Ltd",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": "2208845",
+                "description": "Luxottica Italia Srl",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": "2000899",
+                "description": "TY UK Ltd.",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": "2212955",
+                "description": "EDITORA GLOBO S/A - 0007-55",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": "2208703",
+                "description": "G&J Distillers Ltd",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": "2202993",
+                "description": "Ravensburger Limited",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            }
+        ],
+        "operationsList": [
+            {
+                "code": null,
+                "description": "Dufry Brasif AV",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": null,
+                "description": "International Operations & Services (CH) AG",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": null,
+                "description": "WDFG UK Holdings Ltd",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            }
+        ],
+        "otherPoList": null,
+        "globalOrdersPercentage": 25,
+        "localOrdersPercentage": 100,
+        "totalOrdersPercentage": 67
+    },
+    {
+        "kpiTypeDTO": {
+            "kpiName": "Forecast",
+            "kpiType": "Currency",
+            "value": "CHF",
+            "globalLabel": null,
+            "localLabel": null,
+            "forecastCwLabel": "Current Week Requested",
+            "approvedForecastCwLabel": "Current Week Approved",
+            "forecastPwLabel": "Last Week Forecast"
+        },
+        "totalValue": null,
+        "localValue": null,
+        "globalValue": null,
+        "forecastCwValue": 0,
+        "approvedForecastCwValue": 0,
+        "forecastPwValue": 0,
+        "vendorsList": null,
+        "operationsList": null,
+        "otherPoList": null,
+        "globalOrdersPercentage": null,
+        "localOrdersPercentage": null,
+        "totalOrdersPercentage": null
+    },
+    {
+        "kpiTypeDTO": {
+            "kpiName": "Total Released",
+            "kpiType": "Currency",
+            "value": "CHF",
+            "globalLabel": "Global",
+            "localLabel": "Local",
+            "forecastCwLabel": null,
+            "approvedForecastCwLabel": null,
+            "forecastPwLabel": null
+        },
+        "totalValue": 16608.35,
+        "localValue": 16608.35,
+        "globalValue": 0,
+        "forecastCwValue": null,
+        "approvedForecastCwValue": null,
+        "forecastPwValue": null,
+        "vendorsList": [
+            {
+                "code": "2201108",
+                "description": "History & Heraldry Ltd",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": "2000899",
+                "description": "TY UK Ltd.",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": "2212955",
+                "description": "EDITORA GLOBO S/A - 0007-55",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": "2208703",
+                "description": "G&J Distillers Ltd",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": "2202993",
+                "description": "Ravensburger Limited",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            }
+        ],
+        "operationsList": [
+            {
+                "code": null,
+                "description": "Dufry Brasif AV",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            },
+            {
+                "code": null,
+                "description": "WDFG UK Holdings Ltd",
+                "osmAmount": null,
+                "ppdAmount": null,
+                "forecastAmount": null
+            }
+        ],
+        "otherPoList": null,
+        "globalOrdersPercentage": 0,
+        "localOrdersPercentage": 100,
+        "totalOrdersPercentage": 83
+    },
+    {
+        "kpiTypeDTO": {
+            "kpiName": "Requested Other Orders",
+            "kpiType": "Currency",
+            "value": "CHF",
+            "globalLabel": "HUD + FMG",
+            "localLabel": "CON",
+            "forecastCwLabel": null,
+            "approvedForecastCwLabel": null,
+            "forecastPwLabel": null
+        },
+        "totalValue": 26968.45,
+        "localValue": 0,
+        "globalValue": 26968.45,
+        "forecastCwValue": null,
+        "approvedForecastCwValue": null,
+        "forecastPwValue": null,
+        "vendorsList": null,
+        "operationsList": null,
+        "otherPoList": [
+            {
+                "poType": null,
+                "osmAmount": null,
+                "ppdAmount": null
+            }
+        ],
+        "globalOrdersPercentage": null,
+        "localOrdersPercentage": null,
+        "totalOrdersPercentage": null
+    }
+]

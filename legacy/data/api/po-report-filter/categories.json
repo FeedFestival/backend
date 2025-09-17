@@ -1,0 +1,57 @@
+[
+    {
+        "id": 43530,
+        "code": "91",
+        "description": "Literature & Publications"
+    },
+    {
+        "id": 43524,
+        "code": "90",
+        "description": "Other Goods"
+    },
+    {
+        "id": 43521,
+        "code": "40",
+        "description": "Perfumes & Cosmetics"
+    },
+    {
+        "id": 43536,
+        "code": "20",
+        "description": "Alcoholic Beverages"
+    },
+    {
+        "id": 43539,
+        "code": "50",
+        "description": "Watches, Jewelry, Accessories"
+    },
+    {
+        "id": 43533,
+        "code": "80",
+        "description": "Electronics"
+    },
+    {
+        "id": 43534,
+        "code": "70",
+        "description": "Textiles, Leather, Luggage"
+    },
+    {
+        "id": 43528,
+        "code": "60",
+        "description": "Toys"
+    },
+    {
+        "id": 43531,
+        "code": "92",
+        "description": "Souvenirs (local goods)"
+    },
+    {
+        "id": 43523,
+        "code": "30",
+        "description": "Food & Confectionery"
+    },
+    {
+        "id": 43535,
+        "code": "10",
+        "description": "Tobacco"
+    }
+]

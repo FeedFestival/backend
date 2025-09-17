@@ -1,0 +1,18 @@
+[
+    {
+        "systemId": 5,
+        "erpName": "SAP"
+    },
+    {
+        "systemId": 8,
+        "erpName": "GAMMA"
+    },
+    {
+        "systemId": 12,
+        "erpName": "NAVISION"
+    },
+    {
+        "systemId": 13,
+        "erpName": "ORACLE"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "id": 43891,
+        "code": "UK",
+        "description": "UK"
+    },
+    {
+        "id": 43888,
+        "code": "ASIA",
+        "description": "ASIA"
+    },
+    {
+        "id": 43886,
+        "code": "EMEA",
+        "description": "EMEA"
+    },
+    {
+        "id": 43889,
+        "code": "CEI & CRUISES",
+        "description": "CEI & CRUISES"
+    },
+    {
+        "id": 43887,
+        "code": "AMERICA",
+        "description": "AMERICA"
+    }
+]

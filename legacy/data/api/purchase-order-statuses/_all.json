@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Submitted"
+    },
+    {
+        "id": 2,
+        "name": "Auto Approved"
+    },
+    {
+        "id": 3,
+        "name": "Auto Rejected"
+    },
+    {
+        "id": 4,
+        "name": "User Approved"
+    },
+    {
+        "id": 5,
+        "name": "User Rejected"
+    },
+    {
+        "id": 6,
+        "name": "Exported"
+    },
+    {
+        "id": 7,
+        "name": "Locked"
+    },
+    {
+        "id": 8,
+        "name": "Released"
+    },
+    {
+        "id": 9,
+        "name": "Missed Release"
+    },
+    {
+        "id": 10,
+        "name": "Processed"
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "id": 173,
+    "orderWeek": "202528",
+    "localSubmissionStartDate": "2025-07-07T00:00:00.000+00:00",
+    "localSubmissionEndDate": "2025-07-10T23:59:59.000+00:00",
+    "globalSubmissionStartDate": "2025-07-07T00:00:00.000+00:00",
+    "globalSubmissionEndDate": "2025-07-13T23:59:59.000+00:00",
+    "approvalStartDate": "2025-07-11T00:00:00.000+00:00",
+    "approvalEndDate": "2025-07-13T23:59:59.000+00:00",
+    "isLocked": false,
+    "communicationSent": false,
+    "startWeek": "2025-07-07T02:00:00.000+00:00",
+    "endWeek": "2025-07-11T02:00:00.000+00:00"
+}

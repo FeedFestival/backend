@@ -1,0 +1,250 @@
+{
+    "jvm": {
+        "CodeCache": {
+            "committed": 3.1195136e7,
+            "max": 5.0331648e7,
+            "used": 2.4927232e7
+        },
+        "G1 Old Gen": {
+            "committed": 1.09051904e8,
+            "max": 8.510242816e9,
+            "used": 7.5044352e7
+        },
+        "G1 Survivor Space": {
+            "committed": 1.2582912e7,
+            "max": -1.0,
+            "used": 1.13628e7
+        },
+        "Compressed Class Space": {
+            "committed": 1.540096e7,
+            "max": 1.073741824e9,
+            "used": 1.4959656e7
+        },
+        "Metaspace": {
+            "committed": 1.05054208e8,
+            "max": -1.0,
+            "used": 1.04153264e8
+        },
+        "G1 Eden Space": {
+            "committed": 1.30023424e8,
+            "max": -1.0,
+            "used": 2.5165824e7
+        }
+    },
+    "databases": {
+        "min": {
+            "value": 10.0
+        },
+        "idle": {
+            "value": 10.0
+        },
+        "max": {
+            "value": 10.0
+        },
+        "usage": {
+            "max": 64.0,
+            "totalTime": 123.0,
+            "mean": 61.5,
+            "count": 2
+        },
+        "pending": {
+            "value": 0.0
+        },
+        "active": {
+            "value": 0.0
+        },
+        "acquire": {
+            "max": 59.6396,
+            "totalTime": 59.6476,
+            "mean": 29.8238,
+            "count": 2
+        },
+        "creation": {
+            "max": 0.0,
+            "totalTime": 0.0,
+            "mean": 0.0,
+            "count": 0
+        },
+        "connections": {
+            "value": 10.0
+        }
+    },
+    "http.server.requests": {
+        "all": {
+            "count": 1
+        },
+        "percode": {
+            "200": {
+                "max": 75.4384,
+                "mean": 75.4384,
+                "count": 1
+            }
+        }
+    },
+    "cache": {
+        "com.dufry.hub.domain.PurchaseOrderStatus": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.hub.domain.User": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "usersByEmail": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.hub.domain.PoWindow": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.hub.domain.LocalOrdersThresholds": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.hub.domain.Currency": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.hub.domain.User.authorities": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.hub.domain.VendorClusterMapping": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.hub.domain.LocalOrdersAutoApproveLock": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.hub.domain.Vendor": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.hub.domain.Category": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.hub.domain.PurchaseOrder": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.hub.domain.Authority": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "usersByLogin": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.hub.domain.ClusterCode": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.hub.domain.Region": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.hub.domain.TargetSpendValue": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.hub.domain.Operation": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.hub.domain.PoType": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        }
+    },
+    "garbageCollector": {
+        "jvm.gc.max.data.size": 8.510242816e9,
+        "jvm.gc.pause": {
+            "max": 7.0,
+            "totalTime": 7.0,
+            "mean": 7.0,
+            "count": 1
+        },
+        "jvm.gc.memory.promoted": 2647552.0,
+        "jvm.gc.memory.allocated": 9.2274688e7,
+        "classesLoaded": 22316.0,
+        "jvm.gc.live.data.size": 0.0,
+        "jvm.gc.overhead": 2.582134203120075e-4,
+        "classesUnloaded": 4.0
+    },
+    "services": {
+        "/api/management": {
+            "GET": {
+                "max": 75.4384,
+                "mean": 75.4384,
+                "count": 1
+            }
+        }
+    },
+    "processMetrics": {
+        "system.cpu.usage": 0.0,
+        "system.cpu.count": 16.0,
+        "process.start.time": 1.731076434526e12,
+        "process.cpu.usage": 0.013913525104006383,
+        "process.uptime": 44681.0
+    }
+}

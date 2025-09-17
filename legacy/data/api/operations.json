@@ -1,0 +1,3692 @@
+[
+    {
+        "id": 43540,
+        "code": "DUF",
+        "hfmCode": "1001",
+        "description": "Dufrital SpA",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43541,
+        "code": "DFI",
+        "hfmCode": "1003",
+        "description": "Dufry Duty Free Italia Srl.",
+        "erpSystemId": null,
+        "subSystemId": 3,
+        "regionId": 43886
+    },
+    {
+        "id": 43542,
+        "code": "NIE",
+        "hfmCode": "1007",
+        "description": "Network Italia Edicole",
+        "erpSystemId": null,
+        "subSystemId": 3,
+        "regionId": 43886
+    },
+    {
+        "id": 43543,
+        "code": "IT70",
+        "hfmCode": "1008",
+        "description": "A. Italia Srl",
+        "erpSystemId": null,
+        "subSystemId": 3,
+        "regionId": 43886
+    },
+    {
+        "id": 43544,
+        "code": "MT01",
+        "hfmCode": "1051",
+        "description": "The Nuance Group (Malta)",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43545,
+        "code": "HDF",
+        "hfmCode": "1202",
+        "description": "Hellenic Duty Free Shops",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43546,
+        "code": "HDS",
+        "hfmCode": "1203",
+        "description": "Hellenic Distributions",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43547,
+        "code": "BG03",
+        "hfmCode": "1389",
+        "description": "Nuance BG",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43548,
+        "code": "CAN",
+        "hfmCode": "1401",
+        "description": "Dufry Islas Canarias, S.L.",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": null
+    },
+    {
+        "id": 43549,
+        "code": "ES65",
+        "hfmCode": "1404",
+        "description": "WDFG España, SA",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43886
+    },
+    {
+        "id": 43550,
+        "code": "ES60",
+        "hfmCode": "1404_278",
+        "description": "World Duty Free Group SAU",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43551,
+        "code": "ES90",
+        "hfmCode": "1405",
+        "description": "SDCA Canarias SL",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43886
+    },
+    {
+        "id": 43552,
+        "code": "DFR",
+        "hfmCode": "1406",
+        "description": "Dufry RED, S.L.",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43553,
+        "code": "PT01",
+        "hfmCode": "1451",
+        "description": "Lojas Francas de Portugal",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43554,
+        "code": "TXF",
+        "hfmCode": "1501",
+        "description": "Dufry France SA",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43555,
+        "code": "SOV",
+        "hfmCode": "1504",
+        "description": "Sovenex SAS",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43556,
+        "code": "FR02",
+        "hfmCode": "1505",
+        "description": "Dufry Toulouse SAS",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43557,
+        "code": "FR10",
+        "hfmCode": "1506",
+        "description": "WDFG France SNC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43891
+    },
+    {
+        "id": 43558,
+        "code": "DCE",
+        "hfmCode": "1601",
+        "description": "Dufry CE s.r.o.",
+        "erpSystemId": null,
+        "subSystemId": 31,
+        "regionId": 43886
+    },
+    {
+        "id": 43559,
+        "code": "WTB",
+        "hfmCode": "1801",
+        "description": "Dufry Basel-Mulhouse AG",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43560,
+        "code": "CH02",
+        "hfmCode": "1803",
+        "description": "The Nuance Group AG (CH)",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43561,
+        "code": "AT01",
+        "hfmCode": "1857",
+        "description": "The Nuance Group Austria",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43562,
+        "code": "DTRSAP",
+        "hfmCode": "1889",
+        "description": "International Operations & Services (CH) AG",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43563,
+        "code": "DE01",
+        "hfmCode": "2002",
+        "description": "The Nuance Group  (DE)",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43564,
+        "code": "DE40",
+        "hfmCode": "2003",
+        "description": "WDFG Germany GmbH",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43886
+    },
+    {
+        "id": 43565,
+        "code": "SE01",
+        "hfmCode": "2301",
+        "description": "The Nuance Group (Sweden) AB",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43566,
+        "code": "FI10",
+        "hfmCode": "2310",
+        "description": "WDFG Helsinki Oy",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43567,
+        "code": "GB01",
+        "hfmCode": "2501",
+        "description": "The Nuance Group (UK) Ltd.",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43891
+    },
+    {
+        "id": 43568,
+        "code": "UK70",
+        "hfmCode": "2502",
+        "description": "WDFG UK Holdings Ltd",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43891
+    },
+    {
+        "id": 43569,
+        "code": "201",
+        "hfmCode": "2503",
+        "description": "WDFG Jersey Ltd",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43891
+    },
+    {
+        "id": 43570,
+        "code": "FL70",
+        "hfmCode": "2504",
+        "description": "WDFG Ferries Limited",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43891
+    },
+    {
+        "id": 43571,
+        "code": "IE02",
+        "hfmCode": "2550",
+        "description": "The Nuance Group (Ireland)",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43891
+    },
+    {
+        "id": 43572,
+        "code": "TR01",
+        "hfmCode": "2901",
+        "description": "TNG Turkey (Magaza)",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43573,
+        "code": "TR02",
+        "hfmCode": "2903",
+        "description": "TNG Turkey (Urart)",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43574,
+        "code": "TR04",
+        "hfmCode": "2988",
+        "description": "TNG Turkey (Mutko)",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43575,
+        "code": "TR03",
+        "hfmCode": "2989",
+        "description": "TNG Turkey (Opus)",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43576,
+        "code": "ABI",
+        "hfmCode": "3201",
+        "description": "Dufry Côte d'Ivoire SA",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43577,
+        "code": "CV10",
+        "hfmCode": "3251",
+        "description": "A. Cabo Verde SA",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43886
+    },
+    {
+        "id": 43578,
+        "code": "DAA",
+        "hfmCode": "3302",
+        "description": "Dufry Aeroport d''Alger Sarl",
+        "erpSystemId": null,
+        "subSystemId": 25,
+        "regionId": 43886
+    },
+    {
+        "id": 43579,
+        "code": "GHA",
+        "hfmCode": "3501",
+        "description": "Dufry & G.T.D.C. Ltd.",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43580,
+        "code": "DFN",
+        "hfmCode": "3601",
+        "description": "Dufry Duty Free Nigeria Ltd",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43581,
+        "code": "MAR",
+        "hfmCode": "3701",
+        "description": "Dufry Maroc SARL",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43582,
+        "code": "SSH1",
+        "hfmCode": "3801",
+        "description": "Dufry Egypt LCC Private Free Zone",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43583,
+        "code": "SSH2",
+        "hfmCode": "3802",
+        "description": "Dufry Egypt LCC Duty Free",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43584,
+        "code": "KEN",
+        "hfmCode": "3903",
+        "description": "Dufry Kenya LTD",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43585,
+        "code": "DMZ",
+        "hfmCode": "3906",
+        "description": "Dufry Mozambique, Lda.",
+        "erpSystemId": null,
+        "subSystemId": 123,
+        "regionId": 43886
+    },
+    {
+        "id": 43586,
+        "code": "DMDG",
+        "hfmCode": "3908",
+        "description": "Dufry Madagascar SA",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43587,
+        "code": "WTE",
+        "hfmCode": "4001",
+        "description": "Dufry East OOO",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43588,
+        "code": "RSS",
+        "hfmCode": "4002",
+        "description": "RegStaer Ltd (Sheremetyevo)",
+        "erpSystemId": null,
+        "subSystemId": 133,
+        "regionId": 43886
+    },
+    {
+        "id": 43589,
+        "code": "DNLL",
+        "hfmCode": "4003",
+        "description": "Dufry Nord LLC",
+        "erpSystemId": null,
+        "subSystemId": 51,
+        "regionId": 43886
+    },
+    {
+        "id": 43590,
+        "code": "RSP",
+        "hfmCode": "4004",
+        "description": "LLC REGSTAER-SP (Pulkovo)",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43591,
+        "code": "RU02",
+        "hfmCode": "4005",
+        "description": "Lenrianta",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43592,
+        "code": "RU03",
+        "hfmCode": "4006",
+        "description": "Nuance Basel",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43593,
+        "code": "RSV",
+        "hfmCode": "4007",
+        "description": "RegStaer M Ltd (Vnukovo)",
+        "erpSystemId": null,
+        "subSystemId": 133,
+        "regionId": 43886
+    },
+    {
+        "id": 43594,
+        "code": "DMS",
+        "hfmCode": "4009",
+        "description": "Dufry Moscow Sheremetyevo",
+        "erpSystemId": null,
+        "subSystemId": 49,
+        "regionId": 43886
+    },
+    {
+        "id": 43595,
+        "code": "DCA",
+        "hfmCode": "4101",
+        "description": "Dufry Central Asia",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43596,
+        "code": "BLG",
+        "hfmCode": "4202",
+        "description": "Dufry Belgrade",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43597,
+        "code": "DUA",
+        "hfmCode": "4301",
+        "description": "DUFRY UKRAINE LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43598,
+        "code": "DAF",
+        "hfmCode": "4501",
+        "description": "ADF Shops CJSC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43599,
+        "code": "HBPC",
+        "hfmCode": "5007",
+        "description": "Hudson Bright Power Commercial Co., Ltd",
+        "erpSystemId": null,
+        "subSystemId": 65,
+        "regionId": 43888
+    },
+    {
+        "id": 43600,
+        "code": "DSH",
+        "hfmCode": "5008",
+        "description": "Dufry Shanghai",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43888
+    },
+    {
+        "id": 43601,
+        "code": "DCD",
+        "hfmCode": "5009",
+        "description": "Dufry ChengDu",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43888
+    },
+    {
+        "id": 43602,
+        "code": "DMA",
+        "hfmCode": "5102",
+        "description": "DUFRY HWG SHOPPING SDN. BHD.",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43888
+    },
+    {
+        "id": 43603,
+        "code": "DTJ",
+        "hfmCode": "5390",
+        "description": "Dufry Thomas Julie Korea",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43888
+    },
+    {
+        "id": 43604,
+        "code": "TXS",
+        "hfmCode": "5501",
+        "description": "Dufry Emirates - Branch Sharjah",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43886
+    },
+    {
+        "id": 43605,
+        "code": "TXS2",
+        "hfmCode": "5504",
+        "description": "Dufry Inflight Air Arabia",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43886
+    },
+    {
+        "id": 43606,
+        "code": "TXS4",
+        "hfmCode": "5504",
+        "description": "International Operations & Services (AE) FZE",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43886
+    },
+    {
+        "id": 43607,
+        "code": "JO20",
+        "hfmCode": "5510",
+        "description": "JADFS",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43886
+    },
+    {
+        "id": 43608,
+        "code": "KW10",
+        "hfmCode": "5520",
+        "description": "A. Kuwait",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43886
+    },
+    {
+        "id": 43609,
+        "code": "IN01",
+        "hfmCode": "5603",
+        "description": "TNG (India) Pvt. Ltd.",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43610,
+        "code": "IN03",
+        "hfmCode": "5604",
+        "description": "Nuance Fashion&Luxury Ltd",
+        "erpSystemId": null,
+        "subSystemId": 5,
+        "regionId": 43886
+    },
+    {
+        "id": 43611,
+        "code": "IN20",
+        "hfmCode": "5607",
+        "description": "Airport Retail Pvt Limited",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43612,
+        "code": "DLP",
+        "hfmCode": "5610",
+        "description": "Dufry Lanka (Private) Ltd",
+        "erpSystemId": null,
+        "subSystemId": 47,
+        "regionId": null
+    },
+    {
+        "id": 43613,
+        "code": "LK10",
+        "hfmCode": "5611",
+        "description": "Dufry Shops Colombo Limited",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43886
+    },
+    {
+        "id": 43614,
+        "code": "CAM",
+        "hfmCode": "5701",
+        "description": "Dufry Cambodia Ltd",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43888
+    },
+    {
+        "id": 43615,
+        "code": "DBAL",
+        "hfmCode": "5803",
+        "description": "Dufry Bali Indonesia",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43888
+    },
+    {
+        "id": 43616,
+        "code": "SG01",
+        "hfmCode": "5804",
+        "description": "The Nuance Group (Singapore) Pte. Ltd",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43888
+    },
+    {
+        "id": 43617,
+        "code": "IOSHK",
+        "hfmCode": "5901",
+        "description": "International Operations & Services (HK) Ltd",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43888
+    },
+    {
+        "id": 43618,
+        "code": "HK01",
+        "hfmCode": "5904",
+        "description": "Nuance-Watson (HK) Ltd",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43888
+    },
+    {
+        "id": 43619,
+        "code": "CN01",
+        "hfmCode": "5905",
+        "description": "Nuance Watson (Zhuhai)Ltd",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43620,
+        "code": "MO01",
+        "hfmCode": "5906",
+        "description": "Nuance-Watson (Macau) Ltd",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43888
+    },
+    {
+        "id": 43621,
+        "code": "HOU",
+        "hfmCode": "6001",
+        "description": "Dufry Houston DF & Retail Part.",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43622,
+        "code": "DPE",
+        "hfmCode": "6002",
+        "description": "Dufry Newark Inc.",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43623,
+        "code": "CHB",
+        "hfmCode": "6005",
+        "description": "Chicago Duty Free",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43624,
+        "code": "HNS",
+        "hfmCode": "6010",
+        "description": "Hudson News Company",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43625,
+        "code": "HNS2",
+        "hfmCode": "6010_NAV",
+        "description": "Hudson News Company (SANDS Las Vegas)",
+        "erpSystemId": null,
+        "subSystemId": 67,
+        "regionId": 43890
+    },
+    {
+        "id": 43626,
+        "code": "AMS",
+        "hfmCode": "6011",
+        "description": "Airport Management Services, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43627,
+        "code": "AMS2",
+        "hfmCode": "6011_NAV",
+        "description": "Airport Management Services DF",
+        "erpSystemId": null,
+        "subSystemId": 18,
+        "regionId": 43887
+    },
+    {
+        "id": 43628,
+        "code": "AMN",
+        "hfmCode": "6012",
+        "description": "AMS-Martinez Niebla JV",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43629,
+        "code": "AMB",
+        "hfmCode": "6013",
+        "description": "AMS-Myrtle Beach, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43630,
+        "code": "AMF",
+        "hfmCode": "6014",
+        "description": "AMS of South Florida, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43631,
+        "code": "AAJ",
+        "hfmCode": "6015",
+        "description": "AMS-AEI JFK T2, JV",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43632,
+        "code": "AAA",
+        "hfmCode": "6016",
+        "description": "AMS-AJA Jackson, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43633,
+        "code": "ACK",
+        "hfmCode": "6017",
+        "description": "AMS-CK Dulles, JV",
+        "erpSystemId": null,
+        "subSystemId": 100,
+        "regionId": null
+    },
+    {
+        "id": 43634,
+        "code": "ACN",
+        "hfmCode": "6018",
+        "description": "AMS-CV Newark, JV",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43635,
+        "code": "ACP",
+        "hfmCode": "6019",
+        "description": "AMS-Cys Phoenix, JV",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43636,
+        "code": "ANR",
+        "hfmCode": "6021",
+        "description": "AMS-NIA Richmond, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43637,
+        "code": "AON",
+        "hfmCode": "6022",
+        "description": "AMS-Olympic Nashville, JV",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43638,
+        "code": "ASJ1",
+        "hfmCode": "6023_0",
+        "description": "AMS-SJC DF",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43639,
+        "code": "ASJ",
+        "hfmCode": "6023_1",
+        "description": "AMS-SJC, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43640,
+        "code": "ATJ",
+        "hfmCode": "6024",
+        "description": "AMS-TE, JV",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43641,
+        "code": "AWM",
+        "hfmCode": "6025",
+        "description": "AMS-Watson Mobile, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43642,
+        "code": "ABN",
+        "hfmCode": "6026",
+        "description": "AMS-BW Newark, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43643,
+        "code": "BBO",
+        "hfmCode": "6027",
+        "description": "Barbara''s Bookstore O''Hare, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43644,
+        "code": "DAV",
+        "hfmCode": "6028",
+        "description": "Denver Air Ventures",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43645,
+        "code": "HCP",
+        "hfmCode": "6029",
+        "description": "Hudson Cleveland Partners, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43646,
+        "code": "HNH",
+        "hfmCode": "6030",
+        "description": "Hudson News O''Hare, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43647,
+        "code": "HRD",
+        "hfmCode": "6031",
+        "description": "Hudson Retail-Dallas JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43648,
+        "code": "HAC",
+        "hfmCode": "6032",
+        "description": "Hudson-Accommodatons, JV",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": null
+    },
+    {
+        "id": 43649,
+        "code": "HSJ",
+        "hfmCode": "6033",
+        "description": "Hudson Sanford JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43650,
+        "code": "HRN",
+        "hfmCode": "6034",
+        "description": "Hudson Retail-NEU News JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43651,
+        "code": "HBP",
+        "hfmCode": "6035",
+        "description": "Hudson-Burch, Portland, JV",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43652,
+        "code": "HEC",
+        "hfmCode": "6036",
+        "description": "Hudson-Euro Café, Charleston, JV",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43653,
+        "code": "HEB",
+        "hfmCode": "6037",
+        "description": "Hudson-Euro Café, Cincinnati, JV",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43654,
+        "code": "HGA",
+        "hfmCode": "6038",
+        "description": "Hudson-Garza Albuquerque",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43655,
+        "code": "HHO",
+        "hfmCode": "6039",
+        "description": "Hudson-Hobby, JV",
+        "erpSystemId": null,
+        "subSystemId": 100,
+        "regionId": null
+    },
+    {
+        "id": 43656,
+        "code": "HHU",
+        "hfmCode": "6040",
+        "description": "Hudson-Houston, JV",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43657,
+        "code": "HHP",
+        "hfmCode": "6041",
+        "description": "Hudson-Hopper Philadelphia, JV",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43658,
+        "code": "HJM",
+        "hfmCode": "6042",
+        "description": "Hudson-JRE Midway, JV",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43659,
+        "code": "HKJ",
+        "hfmCode": "6043",
+        "description": "Hudson-Keelee JFK 7, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43660,
+        "code": "HNN",
+        "hfmCode": "6044",
+        "description": "Hudson-NEU News-National, JV",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43661,
+        "code": "HNL",
+        "hfmCode": "6045",
+        "description": "Hudson-NEU-Logan, JV (HNL)",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43662,
+        "code": "HNO",
+        "hfmCode": "6046",
+        "description": "Hudson-NEU-Logan, JV (HNO)",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43663,
+        "code": "HNE",
+        "hfmCode": "6047",
+        "description": "Hudson-NEU-Newark C, JV",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": null
+    },
+    {
+        "id": 43664,
+        "code": "HNR",
+        "hfmCode": "6048",
+        "description": "Hudson-NIA Roanoke, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43665,
+        "code": "HNC",
+        "hfmCode": "6049",
+        "description": "Hudson-NIA Rochester, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43666,
+        "code": "HNI",
+        "hfmCode": "6050",
+        "description": "Hudson-NIA-Norfolk, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43667,
+        "code": "HNA",
+        "hfmCode": "6051",
+        "description": "Hudson-Northwind Anchorage, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43668,
+        "code": "IAV",
+        "hfmCode": "6052",
+        "description": "Indianapolis Air Ventures",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43669,
+        "code": "JAV",
+        "hfmCode": "6053",
+        "description": "JFK Air Ventures",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43670,
+        "code": "MAV",
+        "hfmCode": "6054",
+        "description": "Memphis Air Ventures",
+        "erpSystemId": null,
+        "subSystemId": 100,
+        "regionId": null
+    },
+    {
+        "id": 43671,
+        "code": "NAV",
+        "hfmCode": "6055",
+        "description": "National Air Ventures",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43672,
+        "code": "OAV",
+        "hfmCode": "6056",
+        "description": "New Orleans Air Ventures",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43673,
+        "code": "NOA",
+        "hfmCode": "6057",
+        "description": "NOAV/MCKENNA",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43674,
+        "code": "RDU",
+        "hfmCode": "6058",
+        "description": "RDU Air Ventures",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43675,
+        "code": "SAV",
+        "hfmCode": "6059",
+        "description": "Seattle Air Ventures",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43676,
+        "code": "SWP",
+        "hfmCode": "6060",
+        "description": "Smith-Watson Partners",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": null
+    },
+    {
+        "id": 43677,
+        "code": "WCV",
+        "hfmCode": "6061",
+        "description": "World Concourse Ventures",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43678,
+        "code": "ASF",
+        "hfmCode": "6062",
+        "description": "AMS of south Florida, LLC",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43679,
+        "code": "ACV",
+        "hfmCode": "6064_1",
+        "description": "AMS Canada, Vancouver Int. Airport",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43680,
+        "code": "HGNO",
+        "hfmCode": "6071",
+        "description": "HG New Orleans JV",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43681,
+        "code": "HGLR",
+        "hfmCode": "6072",
+        "description": "HG Logan Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43682,
+        "code": "HOA",
+        "hfmCode": "6073",
+        "description": "Hudson Orlando AS-3, JV",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43683,
+        "code": "HKO",
+        "hfmCode": "6074",
+        "description": "Hudson-Keys Orlando, JV",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43684,
+        "code": "AJS",
+        "hfmCode": "6075",
+        "description": "AMS JV SoCal",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43685,
+        "code": "ATM",
+        "hfmCode": "6076",
+        "description": "AMS-TEI Miami, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43686,
+        "code": "ASG",
+        "hfmCode": "6077",
+        "description": "AMS of South Florida SGH JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43687,
+        "code": "HAS",
+        "hfmCode": "6078",
+        "description": "Hudson Newburns AS2",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43688,
+        "code": "HDP7",
+        "hfmCode": "6080",
+        "description": "HG DFW Retailers P7 JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43689,
+        "code": "HJW",
+        "hfmCode": "6081",
+        "description": "Hudson John Wayne NG-AV JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43690,
+        "code": "HPH",
+        "hfmCode": "6082",
+        "description": "Hudson-Stellar PHL, JV",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43691,
+        "code": "HDN",
+        "hfmCode": "6083",
+        "description": "Hudson Newark C",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43692,
+        "code": "HDM",
+        "hfmCode": "6084",
+        "description": "Hudson Magic Johnson Enterprises",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43693,
+        "code": "LXM",
+        "hfmCode": "6085",
+        "description": "LAX Magic 2",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43694,
+        "code": "LAM",
+        "hfmCode": "6086",
+        "description": "LAX Magic 3-4",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43695,
+        "code": "JSL2",
+        "hfmCode": "6087_0",
+        "description": "Jimmy-Stewart Newburgh DF",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43696,
+        "code": "JSL",
+        "hfmCode": "6087_1",
+        "description": "Jimmy-Stewart Newburgh",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43697,
+        "code": "HLV",
+        "hfmCode": "6088",
+        "description": "AMS Hudson Las Vegas, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43698,
+        "code": "DAS",
+        "hfmCode": "6089",
+        "description": "Dufry Americas Services, Inc.",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43699,
+        "code": "ADF",
+        "hfmCode": "6101",
+        "description": "Alliance Duty Free Inc. (Dufry Puerto Rico DF)",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43700,
+        "code": "LJB",
+        "hfmCode": "6104",
+        "description": "LJB Cosmetics",
+        "erpSystemId": null,
+        "subSystemId": 75,
+        "regionId": 43887
+    },
+    {
+        "id": 43701,
+        "code": "DFA",
+        "hfmCode": "6105",
+        "description": "DFI Aruba",
+        "erpSystemId": null,
+        "subSystemId": 34,
+        "regionId": 43887
+    },
+    {
+        "id": 43702,
+        "code": "DFB",
+        "hfmCode": "6106",
+        "description": "DFI Bonaire",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43889
+    },
+    {
+        "id": 43703,
+        "code": "ABC",
+        "hfmCode": "6189",
+        "description": "ABC Netherlands Inc. (Dufry Puerto Rico WS)",
+        "erpSystemId": null,
+        "subSystemId": 14,
+        "regionId": 43887
+    },
+    {
+        "id": 43704,
+        "code": "DFX",
+        "hfmCode": "6201",
+        "description": "Dufry Mexico SA de CV",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43887
+    },
+    {
+        "id": 43705,
+        "code": "SDX",
+        "hfmCode": "6202",
+        "description": "Dufry Yucatan SA de CV",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43887
+    },
+    {
+        "id": 43706,
+        "code": "EFM",
+        "hfmCode": "6203",
+        "description": "Dufry Frontera SA de CV",
+        "erpSystemId": null,
+        "subSystemId": 59,
+        "regionId": 43887
+    },
+    {
+        "id": 43707,
+        "code": "MX10",
+        "hfmCode": "6205",
+        "description": "A. México SA CV",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": null
+    },
+    {
+        "id": 43708,
+        "code": "HGC2",
+        "hfmCode": "6301_0",
+        "description": "Hudson Group Canada DF",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43709,
+        "code": "HGC1",
+        "hfmCode": "6301_1",
+        "description": "Hudson Group Canada DP",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43710,
+        "code": "HJK",
+        "hfmCode": "6302",
+        "description": "Hudson-NIA JFK1 JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43711,
+        "code": "CHI",
+        "hfmCode": "6303",
+        "description": "Hudson O''Hare T5, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43712,
+        "code": "HBW",
+        "hfmCode": "6304",
+        "description": "Hudson-BW Logan C JV",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43713,
+        "code": "US09",
+        "hfmCode": "6305",
+        "description": "Dufry North America LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43714,
+        "code": "DFW",
+        "hfmCode": "6306",
+        "description": "HG REGALI DFW, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43715,
+        "code": "HGD",
+        "hfmCode": "6307",
+        "description": "HG Denver, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43716,
+        "code": "HSD",
+        "hfmCode": "6308",
+        "description": "HG-CV-Epicure-Martinez San Diego, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43717,
+        "code": "NOAV",
+        "hfmCode": "6309",
+        "description": "New Orleans Air Ventures II",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43718,
+        "code": "HGE",
+        "hfmCode": "6311",
+        "description": "HG-Ebony News Midway JV",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43719,
+        "code": "DRF",
+        "hfmCode": "6312",
+        "description": "HG-Multiplex-Regali Dallas",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43720,
+        "code": "HGM",
+        "hfmCode": "6313",
+        "description": "HG Multiplex DFW",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43721,
+        "code": "HGSL",
+        "hfmCode": "6314",
+        "description": "HG ST. LOUIS JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43722,
+        "code": "HBJ",
+        "hfmCode": "6315",
+        "description": "HUDSON BIRMINGHAM JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43723,
+        "code": "GSP",
+        "hfmCode": "6316",
+        "description": "Hudson-BW GSP JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43724,
+        "code": "HGT",
+        "hfmCode": "6318",
+        "description": "HG-Magic-Concourse TBIT",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43725,
+        "code": "HGN",
+        "hfmCode": "6319",
+        "description": "HG - National JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43726,
+        "code": "HGO",
+        "hfmCode": "6320",
+        "description": "HG-Orlando AS-1, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43727,
+        "code": "DSJV",
+        "hfmCode": "6321",
+        "description": "Dufry Seattle JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43728,
+        "code": "JAVII",
+        "hfmCode": "6322",
+        "description": "JFK Air Ventures II",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43729,
+        "code": "HGBUR",
+        "hfmCode": "6323",
+        "description": "HG Burlington, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43730,
+        "code": "JFK",
+        "hfmCode": "6324",
+        "description": "HG - KCGI - TEI JFK T8 JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43731,
+        "code": "HGCH",
+        "hfmCode": "6325",
+        "description": "HG-BW Charleston, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43732,
+        "code": "DENDF",
+        "hfmCode": "6326",
+        "description": "Dufry-Denver, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43733,
+        "code": "HGL",
+        "hfmCode": "6327",
+        "description": "HG-LAX T6, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43734,
+        "code": "BURB",
+        "hfmCode": "6329",
+        "description": "HG Burbank, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43735,
+        "code": "HGTA",
+        "hfmCode": "6330",
+        "description": "HG Tampa JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43736,
+        "code": "US01",
+        "hfmCode": "6332",
+        "description": "Denver (NGT USA)",
+        "erpSystemId": null,
+        "subSystemId": 5,
+        "regionId": null
+    },
+    {
+        "id": 43737,
+        "code": "US02",
+        "hfmCode": "6334",
+        "description": "Las Vegas (TNG LV)",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43738,
+        "code": "US03",
+        "hfmCode": "6336",
+        "description": "Houston (TNG Houston) 03",
+        "erpSystemId": null,
+        "subSystemId": 5,
+        "regionId": null
+    },
+    {
+        "id": 43739,
+        "code": "US07",
+        "hfmCode": "6338",
+        "description": "Houston (TNG Houston) 07",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43740,
+        "code": "US04",
+        "hfmCode": "6339",
+        "description": "Ft. Lauderdale (Broward)",
+        "erpSystemId": null,
+        "subSystemId": 5,
+        "regionId": null
+    },
+    {
+        "id": 43741,
+        "code": "US05",
+        "hfmCode": "6340",
+        "description": "Nuance Group (Chicago)LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43742,
+        "code": "US06",
+        "hfmCode": "6341",
+        "description": "Nuance Group (Orlando) LLC",
+        "erpSystemId": null,
+        "subSystemId": 5,
+        "regionId": null
+    },
+    {
+        "id": 43743,
+        "code": "DMSP",
+        "hfmCode": "6347",
+        "description": "Dufry MSP Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43744,
+        "code": "STL",
+        "hfmCode": "6348",
+        "description": "HG St Louis JV II",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43745,
+        "code": "HGMA",
+        "hfmCode": "6349",
+        "description": "HG Manchester, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43746,
+        "code": "HGP",
+        "hfmCode": "6350",
+        "description": "HG Phoenix Retailers, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43747,
+        "code": "HTUR",
+        "hfmCode": "6351",
+        "description": "HG Tulsa Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43748,
+        "code": "HDR",
+        "hfmCode": "6352",
+        "description": "HG DFW Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43749,
+        "code": "HGTR",
+        "hfmCode": "6353",
+        "description": "HG Tucson Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43750,
+        "code": "HGRR",
+        "hfmCode": "6354",
+        "description": "HG Grand Rapid Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43751,
+        "code": "HGMW",
+        "hfmCode": "6355",
+        "description": "HG Midway JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43752,
+        "code": "RDUIIDF",
+        "hfmCode": "6356_0",
+        "description": "RDU Air ventures II JV DF",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43753,
+        "code": "RDUII",
+        "hfmCode": "6356_1",
+        "description": "RDU Air ventures II JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43754,
+        "code": "HLR",
+        "hfmCode": "6357",
+        "description": "HG LAX T3 Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43755,
+        "code": "DPR",
+        "hfmCode": "6358",
+        "description": "Dufry Phoenix Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43756,
+        "code": "HSFR",
+        "hfmCode": "6359",
+        "description": "HG SFO Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43757,
+        "code": "HPR",
+        "hfmCode": "6360",
+        "description": "HG PHL Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43758,
+        "code": "HOR",
+        "hfmCode": "6361",
+        "description": "HG ONT Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43759,
+        "code": "CA01",
+        "hfmCode": "6364",
+        "description": "Canada (TNG Canada)",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43760,
+        "code": "CA10",
+        "hfmCode": "6365",
+        "description": "WDFG Vancouver LP",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43761,
+        "code": "DRB",
+        "hfmCode": "6366",
+        "description": "Dufry Retailers Terminal B JV",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": 43887
+    },
+    {
+        "id": 43762,
+        "code": "AS3",
+        "hfmCode": "6371",
+        "description": "AMS AS3 JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43763,
+        "code": "LRK",
+        "hfmCode": "6372",
+        "description": "HG Little Rock JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43764,
+        "code": "HPHX",
+        "hfmCode": "6374",
+        "description": "HG PHX T3 Retailers 2017 JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43765,
+        "code": "HGLGA",
+        "hfmCode": "6376",
+        "description": "HG LGA Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43767,
+        "code": "HGSPC",
+        "hfmCode": "6378",
+        "description": "St. Pete–Clearwater FL, HG JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43768,
+        "code": "HGIND",
+        "hfmCode": "6379",
+        "description": "HG IND Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43769,
+        "code": "ABR",
+        "hfmCode": "6380",
+        "description": "Areas Brookstone Atlanta JV, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43770,
+        "code": "BRC",
+        "hfmCode": "6381",
+        "description": "Brookstone Charlotte, LLC",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43771,
+        "code": "BRD",
+        "hfmCode": "6382",
+        "description": "Brookstone Den T-B, LLC",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43772,
+        "code": "BDFW",
+        "hfmCode": "6383",
+        "description": "Brookstone DFW, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43773,
+        "code": "BRHT",
+        "hfmCode": "6384",
+        "description": "Brookstone Houston T-B, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43774,
+        "code": "BRIAD",
+        "hfmCode": "6385",
+        "description": "Brookstone IAD, T-B, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43775,
+        "code": "BRIAH",
+        "hfmCode": "6386",
+        "description": "Brookstone IAH T-A, LLC",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43776,
+        "code": "BRHE",
+        "hfmCode": "6387",
+        "description": "Brookstone IAH T-E, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43777,
+        "code": "BRLX",
+        "hfmCode": "6388",
+        "description": "Brookstone LAX T-6, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43778,
+        "code": "BROH",
+        "hfmCode": "6389",
+        "description": "Brookstone O Hare II, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43779,
+        "code": "BROHT",
+        "hfmCode": "6391",
+        "description": "Brookstone O Hare T-5, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43780,
+        "code": "BRSD",
+        "hfmCode": "6392",
+        "description": "Brookstone Stores DTW, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43781,
+        "code": "CRRS",
+        "hfmCode": "6393",
+        "description": "Carry on SLC T-2, LLC",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43782,
+        "code": "NCMB",
+        "hfmCode": "6394",
+        "description": "NCM Brookstone Stores Georgia II, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43783,
+        "code": "NCMBR",
+        "hfmCode": "6395",
+        "description": "NCM Brookstone Stores Georgia, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43784,
+        "code": "BRSFO",
+        "hfmCode": "6397",
+        "description": "Brookstone SFO T-2, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43785,
+        "code": "HAR",
+        "hfmCode": "6399",
+        "description": "Hudson ACY Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43786,
+        "code": "PLI",
+        "hfmCode": "6401",
+        "description": "Puerto Libre Int. SA",
+        "erpSystemId": null,
+        "subSystemId": 113,
+        "regionId": 43887
+    },
+    {
+        "id": 43787,
+        "code": "CEI7",
+        "hfmCode": "6411",
+        "description": "CEI - Honduras",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43789,
+        "code": "DHR",
+        "hfmCode": "6412",
+        "description": "Dufry Roatan DP",
+        "erpSystemId": null,
+        "subSystemId": 44,
+        "regionId": null
+    },
+    {
+        "id": 43790,
+        "code": "BDF",
+        "hfmCode": "6501",
+        "description": "Dufry Brasif AV",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43887
+    },
+    {
+        "id": 43791,
+        "code": "BDP",
+        "hfmCode": "6501_DP",
+        "description": "Dufry Brasif AV (Duty Paid)",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43887
+    },
+    {
+        "id": 43792,
+        "code": "IPE",
+        "hfmCode": "6503",
+        "description": "Iperco Com. Exterior Ltda",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43793,
+        "code": "BR10",
+        "hfmCode": "6507",
+        "description": "A. Duty Free Comercio e Importación de Productos L",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43887
+    },
+    {
+        "id": 43794,
+        "code": "WBO",
+        "hfmCode": "6801",
+        "description": "Weitnauer Bolivia SA",
+        "erpSystemId": null,
+        "subSystemId": 134,
+        "regionId": 43887
+    },
+    {
+        "id": 43795,
+        "code": "US40",
+        "hfmCode": "6902",
+        "description": "A. Atlanta JV",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43796,
+        "code": "US70",
+        "hfmCode": "6903",
+        "description": "WDF US Inc.",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43797,
+        "code": "US12",
+        "hfmCode": "6905",
+        "description": "WDFG Java Star JV",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43798,
+        "code": "US13",
+        "hfmCode": "6906",
+        "description": "WDFG Howell-Mickens Terminal A Retail I JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43799,
+        "code": "US15",
+        "hfmCode": "6908",
+        "description": "WDFG DFW AF LLC",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43800,
+        "code": "US16",
+        "hfmCode": "6909",
+        "description": "WDFG Howell-Mickens JV",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43801,
+        "code": "US17",
+        "hfmCode": "6910",
+        "description": "WDFG Love Field Partners II LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43802,
+        "code": "WUS01",
+        "hfmCode": "6911",
+        "description": "WDFG Howell-Mickens Terminal A Retail II LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43803,
+        "code": "WUS02",
+        "hfmCode": "6912",
+        "description": "WDFG Love Field Partners III LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43804,
+        "code": "WUS04",
+        "hfmCode": "6914",
+        "description": "Detroit-Detroit & Partners LLC.",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43805,
+        "code": "WUS03",
+        "hfmCode": "6915",
+        "description": "WDFG SPI DEN Retail LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43806,
+        "code": "US19",
+        "hfmCode": "6916",
+        "description": "WDFG Diversified JV",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43807,
+        "code": "US20",
+        "hfmCode": "6917",
+        "description": "WDFG Houston 8 Terminal E LLC",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43887
+    },
+    {
+        "id": 43808,
+        "code": "US21",
+        "hfmCode": "6918",
+        "description": "Houston8 WDFG JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43809,
+        "code": "US22",
+        "hfmCode": "6920",
+        "description": "WDFG Adevco Joint Venture",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43810,
+        "code": "US23",
+        "hfmCode": "6921",
+        "description": "WDFG Bush Lubbock Airport Joint Venture",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43811,
+        "code": "US24",
+        "hfmCode": "6922",
+        "description": "WDFG Tinsley Joint Venture",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43812,
+        "code": "US25",
+        "hfmCode": "6923",
+        "description": "Miami Airport Retail Partners Joint Venture",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43813,
+        "code": "US26",
+        "hfmCode": "6924",
+        "description": "WDFG ELN MSP Terminal 2 Retail LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43814,
+        "code": "US27",
+        "hfmCode": "6925",
+        "description": "Phoenix WDFG Joint Venture",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43815,
+        "code": "US28",
+        "hfmCode": "6926",
+        "description": "WDFG Chelsea JV Venture #1",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": 43890
+    },
+    {
+        "id": 43816,
+        "code": "US29",
+        "hfmCode": "6927",
+        "description": "WDFG Houston 8 San Antonio Joint Venture",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43817,
+        "code": "US30",
+        "hfmCode": "6928",
+        "description": "Airside E JV",
+        "erpSystemId": null,
+        "subSystemId": 1,
+        "regionId": null
+    },
+    {
+        "id": 43818,
+        "code": "US33",
+        "hfmCode": "6930",
+        "description": "WDFG TAC ATL Retail, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43819,
+        "code": "US34",
+        "hfmCode": "6931",
+        "description": "WDFG LTL ATL JV, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43820,
+        "code": "US35",
+        "hfmCode": "6932",
+        "description": "WDFG Shellis Atlanta JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43821,
+        "code": "US36",
+        "hfmCode": "6933",
+        "description": "WDFG CA, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43822,
+        "code": "US37B",
+        "hfmCode": "6934_0",
+        "description": "Houston-Branch McGowen Houston LLC. (DF)",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43823,
+        "code": "US37",
+        "hfmCode": "6934_1",
+        "description": "Houston-Branch McGowen Houston LLC.",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43824,
+        "code": "US38",
+        "hfmCode": "6935",
+        "description": "WDFG-Houston 8 2014, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43825,
+        "code": "239",
+        "hfmCode": "6936",
+        "description": "WDFG-Aranza/Howell D2-13, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43826,
+        "code": "240",
+        "hfmCode": "6937",
+        "description": "WDFG-Aranza/Howell D2-14, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43827,
+        "code": "242",
+        "hfmCode": "6939",
+        "description": "WDFG-Skyview Concessions, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43828,
+        "code": "DDF",
+        "hfmCode": "6940",
+        "description": "WDFG Partners Duty Free LLC (Detroit)",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43829,
+        "code": "TTPA",
+        "hfmCode": "6941",
+        "description": "WDFG-Transglobal TPA JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43830,
+        "code": "PTR",
+        "hfmCode": "6942",
+        "description": "WDFG Portland Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43831,
+        "code": "US50",
+        "hfmCode": "6990",
+        "description": "WDFG US Inc.",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43832,
+        "code": "WUS00",
+        "hfmCode": "6991",
+        "description": "WDFG North America LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 43833,
+        "code": "WAR",
+        "hfmCode": "7001",
+        "description": "Dufry Aruba NW",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43834,
+        "code": "AN10",
+        "hfmCode": "7002",
+        "description": "A. Curaçao NV",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43887
+    },
+    {
+        "id": 43835,
+        "code": "DGT",
+        "hfmCode": "7101",
+        "description": "Dufry Grand Turk",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43836,
+        "code": "TRI",
+        "hfmCode": "7201",
+        "description": "Dufry Trinidad Ltd.",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43837,
+        "code": "DJAM",
+        "hfmCode": "7303",
+        "description": "Dufry Jamaica Limited",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43887
+    },
+    {
+        "id": 43838,
+        "code": "DCO",
+        "hfmCode": "7421",
+        "description": "Dufry - DFASS Colombia S.A.S",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43887
+    },
+    {
+        "id": 43839,
+        "code": "CL10",
+        "hfmCode": "7441",
+        "description": "A. Chile Ltd",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43887
+    },
+    {
+        "id": 43840,
+        "code": "ITB",
+        "hfmCode": "7454",
+        "description": "Interbaires S.A.",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43887
+    },
+    {
+        "id": 43841,
+        "code": "DFE",
+        "hfmCode": "7461",
+        "description": "Duty Free Ecuador S.A.",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43887
+    },
+    {
+        "id": 43842,
+        "code": "BLA",
+        "hfmCode": "7471",
+        "description": "Blaicor S.A.",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43887
+    },
+    {
+        "id": 43843,
+        "code": "NVT",
+        "hfmCode": "7472",
+        "description": "Navinten S.A.",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43887
+    },
+    {
+        "id": 43844,
+        "code": "PE10",
+        "hfmCode": "7481",
+        "description": "A. Peru",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43887
+    },
+    {
+        "id": 43845,
+        "code": "IOS",
+        "hfmCode": "7491",
+        "description": "IOSC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43846,
+        "code": "INTUN",
+        "hfmCode": "7502",
+        "description": "Inversiones TUNC SA",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43847,
+        "code": "INPAN",
+        "hfmCode": "7504",
+        "description": "Inversiones Panamo SA",
+        "erpSystemId": null,
+        "subSystemId": 70,
+        "regionId": 43887
+    },
+    {
+        "id": 43848,
+        "code": "DPP",
+        "hfmCode": "7505",
+        "description": "Dufry Puerto Plata Corp.",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43849,
+        "code": "DFCBAR",
+        "hfmCode": "7601",
+        "description": "Duty Free Caribbean Limited (Barbados)",
+        "erpSystemId": null,
+        "subSystemId": 121,
+        "regionId": 43889
+    },
+    {
+        "id": 43850,
+        "code": "DFCGRE",
+        "hfmCode": "7602",
+        "description": "DFC (Grenada) Ltd",
+        "erpSystemId": null,
+        "subSystemId": 126,
+        "regionId": 43889
+    },
+    {
+        "id": 43851,
+        "code": "DFC2",
+        "hfmCode": "7604",
+        "description": "City Associated Enterprises Ltd. (Freeport)",
+        "erpSystemId": null,
+        "subSystemId": 38,
+        "regionId": 43887
+    },
+    {
+        "id": 43852,
+        "code": "DFCS",
+        "hfmCode": "7619",
+        "description": "DFC Services",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43853,
+        "code": "CEIJAM",
+        "hfmCode": "7621",
+        "description": "DFC (Jamaica) Ltd",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43854,
+        "code": "CEITC",
+        "hfmCode": "7623",
+        "description": "DFC (Turks & Caicos) Ltd.",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43855,
+        "code": "CEISTT",
+        "hfmCode": "7626",
+        "description": "CEI (St. Thomas)",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43856,
+        "code": "CEIBS",
+        "hfmCode": "7627",
+        "description": "Colombian Emeralds Bahamas Ltd",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43857,
+        "code": "DFCL",
+        "hfmCode": "7628_1",
+        "description": "CEI Duty Free Caribbean Bahamas Limited",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43858,
+        "code": "FLA3",
+        "hfmCode": "7701",
+        "description": "Dufry Cruise Services UK",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43889
+    },
+    {
+        "id": 43860,
+        "code": "FLA",
+        "hfmCode": "7701_0",
+        "description": "Dufry Cruise Services, Inc.",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43889
+    },
+    {
+        "id": 43861,
+        "code": "FLA2",
+        "hfmCode": "7701_1",
+        "description": "Dufry Cruise Services- Asia",
+        "erpSystemId": null,
+        "subSystemId": 61,
+        "regionId": 43889
+    },
+    {
+        "id": 43862,
+        "code": "DSK",
+        "hfmCode": "7703",
+        "description": "Dufry St Kitts Limited",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43889
+    },
+    {
+        "id": 43863,
+        "code": "DSTM",
+        "hfmCode": "7704",
+        "description": "Dufry St. Maarten N.V",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 43864,
+        "code": "DFC1",
+        "hfmCode": "7805",
+        "description": "Cave Shepherd (St. Lucia) Ltd",
+        "erpSystemId": null,
+        "subSystemId": 36,
+        "regionId": 43889
+    },
+    {
+        "id": 43865,
+        "code": "CEIANT",
+        "hfmCode": "7811",
+        "description": "CEI Antigua",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43866,
+        "code": "CEIARB",
+        "hfmCode": "7815",
+        "description": "CEI NV (Aruba)",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43867,
+        "code": "CEISMN",
+        "hfmCode": "7820",
+        "description": "Deltamar NV (CEI St. Maarten)",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43868,
+        "code": "AU01",
+        "hfmCode": "8001",
+        "description": "The Nuance Group (Australia) Pty Ltd",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43888
+    },
+    {
+        "id": 43869,
+        "code": "CEI3",
+        "hfmCode": "CEI3",
+        "description": "CEI - Yucatan",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43870,
+        "code": "CEI5",
+        "hfmCode": "CEI5",
+        "description": "CEI - Grand Turk LTD",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43871,
+        "code": "CEI8",
+        "hfmCode": "CEI8",
+        "description": "CEI - Santo Domingo",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43872,
+        "code": "CEI9",
+        "hfmCode": "CEI9",
+        "description": "CEI Roatan",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43887
+    },
+    {
+        "id": 43873,
+        "code": "CEIBAR",
+        "hfmCode": "CEIBAR",
+        "description": "CEI (Barbados) Ltd",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43874,
+        "code": "CEICUR",
+        "hfmCode": "CEICUR",
+        "description": "CEI - Curacao",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43875,
+        "code": "CEIDFX",
+        "hfmCode": "CEIDFX",
+        "description": "CEI Mexico",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43887
+    },
+    {
+        "id": 43876,
+        "code": "CEIDSK",
+        "hfmCode": "CEIDSK",
+        "description": "CEI - St Kitts",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43877,
+        "code": "CEIGRE",
+        "hfmCode": "CEIGRE",
+        "description": "CEI (Grenada) Ltd",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43878,
+        "code": "CEISTL",
+        "hfmCode": "CEISTL",
+        "description": "CEI (St. Lucia) Ltd",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": 43889
+    },
+    {
+        "id": 43879,
+        "code": "CH08",
+        "hfmCode": "CH08",
+        "description": "TNG AG (CH-RSD)",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 43880,
+        "code": "DFCANT",
+        "hfmCode": "DFCANT",
+        "description": "DFC Antigua",
+        "erpSystemId": null,
+        "subSystemId": 39,
+        "regionId": 43889
+    },
+    {
+        "id": 43881,
+        "code": "GB09",
+        "hfmCode": "GB09",
+        "description": "TNG (UK) Ltd - RSD",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 43883,
+        "code": "AERO",
+        "hfmCode": "4010",
+        "description": "AERO Region JSC",
+        "erpSystemId": null,
+        "subSystemId": 133,
+        "regionId": 43886
+    },
+    {
+        "id": 43884,
+        "code": "IEM",
+        "hfmCode": "Pending",
+        "description": "Island Emeralds",
+        "erpSystemId": null,
+        "subSystemId": 133,
+        "regionId": 43886
+    },
+    {
+        "id": 43885,
+        "code": "ASJ1",
+        "hfmCode": "6023_0",
+        "description": "AMS-SJC DF",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 51605,
+        "code": "ASMC",
+        "hfmCode": "6064",
+        "description": "Airport Management Services, LLC – Calgary",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": null
+    },
+    {
+        "id": 51606,
+        "code": "DT50",
+        "hfmCode": "1890",
+        "description": "Dufry International AG",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": 43886
+    },
+    {
+        "id": 51607,
+        "code": "GDC",
+        "hfmCode": "5902",
+        "description": "Global & Beijing International Co. Ltd.",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43888
+    },
+    {
+        "id": 51608,
+        "code": "HGSLC",
+        "hfmCode": "6377",
+        "description": "HG SLC Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 51717,
+        "code": "KR01",
+        "hfmCode": "KR01",
+        "description": "Dufry Thomas Julie Korea",
+        "erpSystemId": null,
+        "subSystemId": null,
+        "regionId": 43888
+    },
+    {
+        "id": 360749,
+        "code": "HGC",
+        "hfmCode": "6301",
+        "description": "Hudson Group Canada, Inc",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43890
+    },
+    {
+        "id": 366274,
+        "code": "US37B",
+        "hfmCode": "6934_0",
+        "description": "Houston-Branch McGowen Houston LLC. (DF)",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 661386,
+        "code": "JAZ",
+        "hfmCode": "5521",
+        "description": "Jazeera Airways K.S.C.P",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": null
+    },
+    {
+        "id": 661420,
+        "code": "MCRJ",
+        "hfmCode": "6368",
+        "description": "Music City Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 661421,
+        "code": "SMP",
+        "hfmCode": "6369",
+        "description": "Smokey Mountain Provisions, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 661425,
+        "code": "HLGA",
+        "hfmCode": "6376",
+        "description": "HG LGA RETAILERS JV DF",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 661427,
+        "code": "HGSLCDP",
+        "hfmCode": "6377_1",
+        "description": "HG SLC Retailers JV DP",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 661437,
+        "code": "DHO",
+        "hfmCode": "6411",
+        "description": "Dufry Honduras",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 661455,
+        "code": "DCS",
+        "hfmCode": "7442",
+        "description": "Dufry Chile Spa",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": null
+    },
+    {
+        "id": 661458,
+        "code": "DFCN",
+        "hfmCode": "7628",
+        "description": "Duty Free Caribbean Bahamas Limited",
+        "erpSystemId": null,
+        "subSystemId": 135,
+        "regionId": null
+    },
+    {
+        "id": 661459,
+        "code": "CEI2",
+        "hfmCode": "7701",
+        "description": "CEI - Flagship",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": null
+    },
+    {
+        "id": 731644,
+        "code": "SOF",
+        "hfmCode": "1302",
+        "description": "Dufry Sofia EOOD",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 772034,
+        "code": "MSPR",
+        "hfmCode": "9006",
+        "description": "MSP Retail Partnership JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 775545,
+        "code": "HGLXR",
+        "hfmCode": "6396",
+        "description": "HG LAX MSC Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 780330,
+        "code": "SDI",
+        "hfmCode": "5805",
+        "description": "PT Sarinah Dufry International",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 34384354,
+        "code": "HCR",
+        "hfmCode": "9003",
+        "description": "Hudson City Retailers",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 277410852,
+        "code": "ABP",
+        "hfmCode": "6398",
+        "description": "Apex Brookstone PHI, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 277410853,
+        "code": "HBDF",
+        "hfmCode": "9011",
+        "description": "HG BOS Duty Free JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 277410854,
+        "code": "HCC",
+        "hfmCode": "9008",
+        "description": "HG COS Concessionaires JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 277410855,
+        "code": "HET",
+        "hfmCode": "9002",
+        "description": "HG EWR Terminal 1, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 277410856,
+        "code": "HSR",
+        "hfmCode": "9009",
+        "description": "HG Sanford Retailers JV DF",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 277410857,
+        "code": "IN02",
+        "hfmCode": "5608",
+        "description": "Dufry India Retail Private Limited",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 277410858,
+        "code": "LRL",
+        "hfmCode": "LRL",
+        "description": "Luxury Retail Limited",
+        "erpSystemId": null,
+        "subSystemId": 11,
+        "regionId": null
+    },
+    {
+        "id": 277410859,
+        "code": "OTR",
+        "hfmCode": "9005",
+        "description": "HG ORD Tech Retail JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 277410860,
+        "code": "SSH3",
+        "hfmCode": "3804",
+        "description": "Dufry Egypt",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 277962367,
+        "code": "HCC",
+        "hfmCode": "9008",
+        "description": "HG COS Concessionaires JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 277962368,
+        "code": "HSR",
+        "hfmCode": "9009",
+        "description": "HG Sanford Retailers JV DF",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278040112,
+        "code": "OTR",
+        "hfmCode": "9005",
+        "description": "HG ORD Tech Retail JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278043202,
+        "code": "HET",
+        "hfmCode": "9002",
+        "description": "HG EWR Terminal 1, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278061785,
+        "code": "HLC",
+        "hfmCode": "9007",
+        "description": "HG LAX T3 Concessionaires, JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278064069,
+        "code": "IN02",
+        "hfmCode": "5608",
+        "description": "Dufry India Retail Private Limited",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 278067322,
+        "code": "ABP",
+        "hfmCode": "6398",
+        "description": "Apex Brookstone PHI, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278070782,
+        "code": "SSH3",
+        "hfmCode": "3804",
+        "description": "Dufry Egypt",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43886
+    },
+    {
+        "id": 278101766,
+        "code": "HBDF",
+        "hfmCode": "9011",
+        "description": "HG BOS Duty Free JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43887
+    },
+    {
+        "id": 278118180,
+        "code": "DCB",
+        "hfmCode": "5004",
+        "description": "Dufry (Shanghai) Chongqing Branch",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": 43888
+    },
+    {
+        "id": 278222435,
+        "code": "HDIC",
+        "hfmCode": "9013",
+        "description": "HG DCA and IAD Conc JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278291240,
+        "code": "JFKR",
+        "hfmCode": "9001",
+        "description": "Hudson JFK T5 Retailers JV",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278301008,
+        "code": "RMD",
+        "hfmCode": "4008",
+        "description": "Regstaer-V (Domodedovo)",
+        "erpSystemId": null,
+        "subSystemId": 133,
+        "regionId": null
+    },
+    {
+        "id": 278323674,
+        "code": "SSL",
+        "hfmCode": "9010",
+        "description": "SCL Salt Lake",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278323675,
+        "code": "ST02",
+        "hfmCode": "9239",
+        "description": "Stellar RSH EWR, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278325448,
+        "code": "ST16",
+        "hfmCode": "9246",
+        "description": "Stellar HLL MSY Venture,",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278327427,
+        "code": "MRP",
+        "hfmCode": "9179",
+        "description": "MCO Retail Partners, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278327428,
+        "code": "ST07",
+        "hfmCode": "9206",
+        "description": "Stellar Retail Group PHX,",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278327429,
+        "code": "ST10",
+        "hfmCode": "9123",
+        "description": "Stellar Partner Inc.",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278328861,
+        "code": "ST17",
+        "hfmCode": "9208",
+        "description": "Stellar RSH DFW, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278328862,
+        "code": "ST18",
+        "hfmCode": "9248",
+        "description": "Stellar AIM VMW SFO, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278329525,
+        "code": "SPT",
+        "hfmCode": "9168",
+        "description": "Stellar Partners Tampa, L",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278329526,
+        "code": "ST01",
+        "hfmCode": "9258",
+        "description": "Stellar DML MCO News Part",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278329527,
+        "code": "ST03",
+        "hfmCode": "9253",
+        "description": "Stellar CGS LGA, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278329528,
+        "code": "ST04",
+        "hfmCode": "9207",
+        "description": "Stellar MGV BWI, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278329529,
+        "code": "ST05",
+        "hfmCode": "9205",
+        "description": "Stellar PHL, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278329530,
+        "code": "ST06",
+        "hfmCode": "9212",
+        "description": "Stellar LAM PHX, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278329531,
+        "code": "ST08",
+        "hfmCode": "9257",
+        "description": "Stellar LAM PHX II, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278329532,
+        "code": "ST09",
+        "hfmCode": "9252",
+        "description": "Stellar DCA SLA Nashville",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278329533,
+        "code": "ST11",
+        "hfmCode": "9241",
+        "description": "Stellar PCG PEA IAH, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278329534,
+        "code": "ST12",
+        "hfmCode": "9242",
+        "description": "Stellar AIR LAX I, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278329535,
+        "code": "ST13",
+        "hfmCode": "9175",
+        "description": "Stellar LAM SAN, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278329536,
+        "code": "ST14",
+        "hfmCode": "9203",
+        "description": "Stellar DOC1 DCGG DEN,LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278329537,
+        "code": "ST15",
+        "hfmCode": "9247",
+        "description": "Stellar Bambuza SEA, LLC",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278385689,
+        "code": "HMC",
+        "hfmCode": "9018",
+        "description": "HG MIDWAY CONCESSIONAIRES",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278386609,
+        "code": "HFC",
+        "hfmCode": "9017",
+        "description": "HG Fresno Concessionaires",
+        "erpSystemId": null,
+        "subSystemId": 110,
+        "regionId": null
+    },
+    {
+        "id": 278409657,
+        "code": "GOR",
+        "hfmCode": "7473",
+        "description": "Gorfeld SA",
+        "erpSystemId": null,
+        "subSystemId": 4,
+        "regionId": 43887
+    },
+    {
+        "id": 278417650,
+        "code": "RRL",
+        "hfmCode": "4013",
+        "description": "Regstaer-R LLC",
+        "erpSystemId": null,
+        "subSystemId": 133,
+        "regionId": null
+    }
+]

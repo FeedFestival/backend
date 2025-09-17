@@ -1,0 +1,709 @@
+{
+    "jvm": {
+        "CodeHeap 'profiled nmethods'": {
+            "committed": 6.7305472e7,
+            "max": 1.22912768e8,
+            "used": 6.2802048e7
+        },
+        "Eden Space": {
+            "committed": 1.14688e8,
+            "max": 1.87957248e8,
+            "used": 1.165828e7
+        },
+        "Survivor Space": {
+            "committed": 1.4286848e7,
+            "max": 2.3461888e7,
+            "used": 2098968.0
+        },
+        "CodeHeap 'non-profiled nmethods'": {
+            "committed": 5.013504e7,
+            "max": 1.22916864e8,
+            "used": 4.99552e7
+        },
+        "Compressed Class Space": {
+            "committed": 2.9753344e7,
+            "max": 1.073741824e9,
+            "used": 2.7271456e7
+        },
+        "Metaspace": {
+            "committed": 2.2183936e8,
+            "max": -1.0,
+            "used": 2.174712e8
+        },
+        "CodeHeap 'non-nmethods'": {
+            "committed": 2555904.0,
+            "max": 5828608.0,
+            "used": 1661056.0
+        },
+        "Tenured Gen": {
+            "committed": 2.86388224e8,
+            "max": 4.69762048e8,
+            "used": 2.00069056e8
+        }
+    },
+    "databases": {
+        "min": {
+            "value": 10.0
+        },
+        "idle": {
+            "value": 9.0
+        },
+        "max": {
+            "value": 10.0
+        },
+        "usage": {
+            "max": 0.0,
+            "totalTime": 4.8960458e7,
+            "mean": 649.6272639218756,
+            "count": 75367
+        },
+        "pending": {
+            "value": 0.0
+        },
+        "active": {
+            "value": 1.0
+        },
+        "acquire": {
+            "max": 0.0,
+            "totalTime": 174769.896606,
+            "mean": 2.3188872811538053,
+            "count": 75368
+        },
+        "creation": {
+            "max": 0.0,
+            "totalTime": 1060044.0,
+            "mean": 86.80347199475925,
+            "count": 12212
+        },
+        "connections": {
+            "value": 10.0
+        }
+    },
+    "http.server.requests": {
+        "all": {
+            "count": 45640
+        },
+        "percode": {
+            "200": {
+                "max": 0.0,
+                "mean": 34.96404094928667,
+                "count": 45491
+            },
+            "101": {
+                "max": 0.0,
+                "mean": 56.924791647058825,
+                "count": 34
+            },
+            "400": {
+                "max": 0.0,
+                "mean": 416.87525366666665,
+                "count": 3
+            },
+            "401": {
+                "max": 0.0,
+                "mean": 81.2175440909091,
+                "count": 55
+            },
+            "302": {
+                "max": 0.0,
+                "mean": 383.9865974375,
+                "count": 48
+            },
+            "204": {
+                "max": 0.0,
+                "mean": 21.315504625,
+                "count": 8
+            },
+            "403": {
+                "max": 0.0,
+                "mean": 70.228722,
+                "count": 1
+            }
+        }
+    },
+    "cache": {
+        "com.dufry.confee.domain.location.Country": {
+            "cache.gets.miss": 300.0,
+            "cache.puts": 376.0,
+            "cache.gets.hit": 5268.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "usersByEmail": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.contract.metadata.ReconciliationPeriod": {
+            "cache.gets.miss": 111.0,
+            "cache.puts": 668.0,
+            "cache.gets.hit": 365.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.contract.details.Sku": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.location.Country.divisions": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.location.Division": {
+            "cache.gets.miss": 24.0,
+            "cache.puts": 52.0,
+            "cache.gets.hit": 498.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.Authority": {
+            "cache.gets.miss": 6.0,
+            "cache.puts": 5933.0,
+            "cache.gets.hit": 9678.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.contract.TimeFrequency": {
+            "cache.gets.miss": 236.0,
+            "cache.puts": 1030.0,
+            "cache.gets.hit": 515.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.contract.metadata.ConcessionModel": {
+            "cache.gets.miss": 5.0,
+            "cache.puts": 977.0,
+            "cache.gets.hit": 621.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.location.Company": {
+            "cache.gets.miss": 109.0,
+            "cache.puts": 698.0,
+            "cache.gets.hit": 470.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.User": {
+            "cache.gets.miss": 2403.0,
+            "cache.puts": 4006.0,
+            "cache.gets.hit": 1693.0,
+            "cache.removals": 47.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.location.Landlord": {
+            "cache.gets.miss": 107.0,
+            "cache.puts": 666.0,
+            "cache.gets.hit": 404.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.contract.metadata.Currency": {
+            "cache.gets.miss": 10.0,
+            "cache.puts": 1128.0,
+            "cache.gets.hit": 619.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "usersByLogin": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.contract.details.Brand": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.contract.SalesCategory": {
+            "cache.gets.miss": 137.0,
+            "cache.puts": 363.0,
+            "cache.gets.hit": 196.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.category.Category": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.contract.details.Manufacturer": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.User.authorities": {
+            "cache.gets.miss": 86.0,
+            "cache.puts": 2576.0,
+            "cache.gets.hit": 2529.0,
+            "cache.removals": 47.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.contract.details.mag.MagRelief": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.contract.metadata.Contract": {
+            "cache.gets.miss": 1587.0,
+            "cache.puts": 1645.0,
+            "cache.gets.hit": 972.0,
+            "cache.removals": 2.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.location.Shop": {
+            "cache.gets.miss": 7.0,
+            "cache.puts": 7.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        },
+        "com.dufry.confee.domain.contract.details.TaxStatus": {
+            "cache.gets.miss": 0.0,
+            "cache.puts": 0.0,
+            "cache.gets.hit": 0.0,
+            "cache.removals": 0.0,
+            "cache.evictions": 0.0
+        }
+    },
+    "garbageCollector": {
+        "jvm.gc.max.data.size": 4.69762048e8,
+        "jvm.gc.pause": {
+            "max": 0.0,
+            "totalTime": 11.0,
+            "mean": 11.0,
+            "count": 1
+        },
+        "jvm.gc.memory.promoted": 4.429868e7,
+        "jvm.gc.memory.allocated": 2.11572621944e11,
+        "classesLoaded": 39191.0,
+        "jvm.gc.live.data.size": 1.7183064e8,
+        "jvm.gc.overhead": 5.6666666666666664e-5,
+        "classesUnloaded": 894.0
+    },
+    "services": {
+        "/api/contract/exists": {
+            "GET": {
+                "max": 979.962203,
+                "mean": 489.9811015,
+                "count": 2
+            }
+        },
+        "/api/contract/{contractUUID}/dates": {
+            "GET": {
+                "max": 1229.359034,
+                "mean": 409.7863446666667,
+                "count": 3
+            },
+            "PUT": {
+                "max": 2181.220128,
+                "mean": 545.305032,
+                "count": 4
+            }
+        },
+        "/api/contract/notice-period/units": {
+            "GET": {
+                "max": 453.024228,
+                "mean": 151.008076,
+                "count": 3
+            }
+        },
+        "/management/threaddump": {
+            "GET": {
+                "max": 14423.345024,
+                "mean": 1442.3345024,
+                "count": 10
+            }
+        },
+        "/websocket/**": {
+            "GET": {
+                "max": 1935.442916,
+                "mean": 49.03806223529412,
+                "count": 68
+            }
+        },
+        "/api/account": {
+            "GET": {
+                "max": 9059.277095,
+                "mean": 118.92383614583333,
+                "count": 96
+            }
+        },
+        "/api/location/subregion/region/active": {
+            "GET": {
+                "max": 1609.643328,
+                "mean": 201.205416,
+                "count": 8
+            }
+        },
+        "/management/info": {
+            "GET": {
+                "max": 6251.760355,
+                "mean": 127.58694602040816,
+                "count": 49
+            }
+        },
+        "/api/contract/browse-contracts": {
+            "POST": {
+                "max": 2753.407885,
+                "mean": 917.8026283333334,
+                "count": 3
+            }
+        },
+        "/swagger-ui*/**": {
+            "GET": {
+                "max": 3697.129662,
+                "mean": 264.0806901428571,
+                "count": 14
+            }
+        },
+        "/management/health": {
+            "GET": {
+                "max": 1340426.081563,
+                "mean": 36.38112261326132,
+                "count": 36844
+            }
+        },
+        "/api/change-request-iteration/timeline/{approvalId}": {
+            "GET": {
+                "max": 114.663896,
+                "mean": 114.663896,
+                "count": 1
+            }
+        },
+        "/management/loggers/{name}": {
+            "POST": {
+                "max": 170.524037,
+                "mean": 21.315504625,
+                "count": 8
+            }
+        },
+        "/api/change-request/search": {
+            "POST": {
+                "max": 1399.311006,
+                "mean": 349.8277515,
+                "count": 4
+            }
+        },
+        "/api/contract/{contractUUID}/change-request-type": {
+            "GET": {
+                "max": 1548.913077,
+                "mean": 193.614134625,
+                "count": 8
+            }
+        },
+        "/management/loggers": {
+            "GET": {
+                "max": 1700.132921,
+                "mean": 77.27876913636364,
+                "count": 22
+            }
+        },
+        "/api/location/countries/subregions/active": {
+            "GET": {
+                "max": 356.463369,
+                "mean": 89.11584225,
+                "count": 4
+            }
+        },
+        "/management/configprops": {
+            "GET": {
+                "max": 4673.726117,
+                "mean": 1168.43152925,
+                "count": 4
+            }
+        },
+        "/**": {
+            "GET": {
+                "max": 136827.234767,
+                "mean": 16.60927831597475,
+                "count": 8238
+            }
+        },
+        "/api/contract/{contractUUID}/available-fields": {
+            "GET": {
+                "max": 545.16325,
+                "mean": 272.581625,
+                "count": 2
+            }
+        },
+        "/api/users": {
+            "GET": {
+                "max": 395.992081,
+                "mean": 197.9960405,
+                "count": 2
+            }
+        },
+        "/api/contract/{contractUUID}/ifrs": {
+            "GET": {
+                "max": 137.089617,
+                "mean": 137.089617,
+                "count": 1
+            }
+        },
+        "/api/contract/renewal/discretion/all/active": {
+            "GET": {
+                "max": 255.150266,
+                "mean": 85.05008866666667,
+                "count": 3
+            }
+        },
+        "/management/audits": {
+            "GET": {
+                "max": 2472.318001,
+                "mean": 131.5877407368421,
+                "count": 19
+            }
+        },
+        "/api/concession-model/all/active": {
+            "GET": {
+                "max": 413.912771,
+                "mean": 206.9563855,
+                "count": 2
+            }
+        },
+        "/api/notification/todo-categories": {
+            "GET": {
+                "max": 6760.489326,
+                "mean": 165.5486748292683,
+                "count": 41
+            }
+        },
+        "/api/contract": {
+            "POST": {
+                "max": 3752.180944,
+                "mean": 1876.090472,
+                "count": 2
+            }
+        },
+        "/api/contract/{uuid}/view/common-info": {
+            "GET": {
+                "max": 1274.60324,
+                "mean": 212.4338733333333,
+                "count": 6
+            }
+        },
+        "REDIRECTION": {
+            "GET": {
+                "max": 18431.356677,
+                "mean": 383.9865974375,
+                "count": 48
+            }
+        },
+        "/api/location/regions/active": {
+            "GET": {
+                "max": 6077.410963,
+                "mean": 468.7031844615385,
+                "count": 13
+            }
+        },
+        "/api/currency/{appDomainID}/all/active": {
+            "GET": {
+                "max": 758.127024,
+                "mean": 379.063512,
+                "count": 2
+            }
+        },
+        "/v3/api-docs/swagger-config": {
+            "GET": {
+                "max": 27.719715,
+                "mean": 13.8598575,
+                "count": 2
+            }
+        },
+        "/v3/api-docs": {
+            "GET": {
+                "max": 18346.359345,
+                "mean": 9173.1796725,
+                "count": 2
+            }
+        },
+        "/api/notification/all/active": {
+            "GET": {
+                "max": 6336.97574,
+                "mean": 155.15594046341462,
+                "count": 41
+            }
+        },
+        "/api/location/companies/countries/active": {
+            "GET": {
+                "max": 416.880403,
+                "mean": 104.22010075,
+                "count": 4
+            }
+        },
+        "/api/change-request/modification-type/all": {
+            "GET": {
+                "max": 443.194947,
+                "mean": 221.5974735,
+                "count": 2
+            }
+        },
+        "/api/contract/renewal/units": {
+            "GET": {
+                "max": 450.506506,
+                "mean": 150.16883533333333,
+                "count": 3
+            }
+        },
+        "/management/jhimetrics": {
+            "GET": {
+                "max": 778.2469,
+                "mean": 77.82469,
+                "count": 10
+            }
+        },
+        "/swagger-ui*/*swagger-initializer.js": {
+            "GET": {
+                "max": 512.473059,
+                "mean": 256.2365295,
+                "count": 2
+            }
+        },
+        "/api/contract/{contractUUID}/available-sections": {
+            "GET": {
+                "max": 1011.394341,
+                "mean": 337.13144700000004,
+                "count": 3
+            }
+        },
+        "/management/env": {
+            "GET": {
+                "max": 501.473534,
+                "mean": 125.3683835,
+                "count": 4
+            }
+        },
+        "/api/change-request/{uuid}/info": {
+            "GET": {
+                "max": 429.918835,
+                "mean": 429.918835,
+                "count": 1
+            }
+        },
+        "/api/contract/{uuid}/dates/notice-period": {
+            "GET": {
+                "max": 933.558099,
+                "mean": 311.186033,
+                "count": 3
+            }
+        },
+        "/api/contract/{contractUUID}/available-subsections": {
+            "GET": {
+                "max": 1398.797233,
+                "mean": 349.69930825,
+                "count": 4
+            }
+        },
+        "/api/change-request/change-status/active-without-new": {
+            "GET": {
+                "max": 377.877172,
+                "mean": 188.938586,
+                "count": 2
+            }
+        },
+        "/api/sales-category/all/active": {
+            "GET": {
+                "max": 366.818453,
+                "mean": 183.4092265,
+                "count": 2
+            }
+        },
+        "/api/location/landlords/companies/active": {
+            "GET": {
+                "max": 387.169541,
+                "mean": 96.79238525,
+                "count": 4
+            }
+        },
+        "/api/company-calculation-day/all": {
+            "GET": {
+                "max": 445.102913,
+                "mean": 445.102913,
+                "count": 1
+            }
+        },
+        "/api/change-request/{uuid}/summary": {
+            "GET": {
+                "max": 1421.586856,
+                "mean": 1421.586856,
+                "count": 1
+            }
+        },
+        "/api/contract/{contractUuid}/has-ifrs": {
+            "GET": {
+                "max": 121.332977,
+                "mean": 121.332977,
+                "count": 1
+            }
+        },
+        "/api/logout": {
+            "POST": {
+                "max": 24.190942,
+                "mean": 24.190942,
+                "count": 1
+            }
+        },
+        "/api/contract-status/active": {
+            "GET": {
+                "max": 161.870536,
+                "mean": 80.935268,
+                "count": 2
+            }
+        },
+        "UNKNOWN": {
+            "POST": {
+                "max": 70.228722,
+                "mean": 70.228722,
+                "count": 1
+            },
+            "GET": {
+                "max": 1990.359139,
+                "mean": 995.1795695,
+                "count": 2
+            }
+        },
+        "/api/contract/{uuid}/dates/renewal": {
+            "GET": {
+                "max": 905.645453,
+                "mean": 301.8818176666667,
+                "count": 3
+            }
+        },
+        "/api/ad-location-group/all": {
+            "GET": {
+                "max": 848.045809,
+                "mean": 424.0229045,
+                "count": 2
+            }
+        }
+    },
+    "processMetrics": {
+        "system.load.average.1m": 0.21875,
+        "system.cpu.usage": 0.2178619756427605,
+        "system.cpu.count": 1.0,
+        "process.start.time": 1.727550679294e12,
+        "process.files.open": 42.0,
+        "process.cpu.usage": 0.05277401894451962,
+        "process.uptime": 2.210380881e9,
+        "process.files.max": 131072.0
+    }
+}

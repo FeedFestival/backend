@@ -1,0 +1,37 @@
+[
+    {
+        "id": 43886,
+        "code": "EMEA",
+        "description": "EMEA"
+    },
+    {
+        "id": 43887,
+        "code": "AMERICA",
+        "description": "AMERICA"
+    },
+    {
+        "id": 43888,
+        "code": "ASIA",
+        "description": "ASIA"
+    },
+    {
+        "id": 43889,
+        "code": "CEI & CRUISES",
+        "description": "CEI & CRUISES"
+    },
+    {
+        "id": 43890,
+        "code": "NORTH AMERICA DP",
+        "description": "NORTH AMERICA DP"
+    },
+    {
+        "id": 43891,
+        "code": "UK",
+        "description": "UK"
+    },
+    {
+        "id": 57479,
+        "code": "APAC",
+        "description": "APAC"
+    }
+]

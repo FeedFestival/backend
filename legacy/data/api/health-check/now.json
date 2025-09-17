@@ -1,0 +1,16 @@
+[
+    {
+        "status": {
+            "id": 1,
+            "code": "UP"
+        },
+        "systemCode": "DIP"
+    },
+    {
+        "status": {
+            "id": 1,
+            "code": "UP"
+        },
+        "systemCode": "SAP"
+    }
+]

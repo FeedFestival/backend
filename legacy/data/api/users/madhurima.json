@@ -1,0 +1,63 @@
+{
+    "id": 13440,
+    "login": "madhurima",
+    "firstName": null,
+    "lastName": null,
+    "email": "madhurima.puri@dufry.com",
+    "imageUrl": null,
+    "activated": true,
+    "langKey": "en",
+    "createdBy": "anonymousUser",
+    "createdDate": "2021-02-03T11:31:27.153+00:00",
+    "lastModifiedBy": "anonymousUser",
+    "lastModifiedDate": "2024-05-24T10:30:19.193+00:00",
+    "authorities": [
+        "ROLE_PO_PLANNER",
+        "ROLE_USER"
+    ],
+    "companies": [],
+    "regions": [
+        43888,
+        43889,
+        43890,
+        43891,
+        57479,
+        43886,
+        43887
+    ],
+    "companyRegionAccess": [
+        {
+            "accessType": "region",
+            "accesses": [
+                {
+                    "label": "APAC",
+                    "value": "APAC"
+                },
+                {
+                    "label": "CEI & CRUISES",
+                    "value": "CEI & CRUISES"
+                },
+                {
+                    "label": "NORTH AMERICA DP",
+                    "value": "NORTH AMERICA DP"
+                },
+                {
+                    "label": "UK",
+                    "value": "UK"
+                },
+                {
+                    "label": "EMEA",
+                    "value": "EMEA"
+                },
+                {
+                    "label": "AMERICA",
+                    "value": "AMERICA"
+                },
+                {
+                    "label": "ASIA",
+                    "value": "ASIA"
+                }
+            ]
+        }
+    ]
+}

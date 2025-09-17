@@ -1,0 +1,97 @@
+[
+    {
+        "id": 43521,
+        "code": "40",
+        "description": "Perfumes & Cosmetics"
+    },
+    {
+        "id": 43522,
+        "code": "99",
+        "description": "External Service Providers"
+    },
+    {
+        "id": 43523,
+        "code": "30",
+        "description": "Food & Confectionery"
+    },
+    {
+        "id": 43524,
+        "code": "90",
+        "description": "Other Goods"
+    },
+    {
+        "id": 43525,
+        "code": "97",
+        "description": "DUMMY"
+    },
+    {
+        "id": 43526,
+        "code": "98",
+        "description": "Petrol"
+    },
+    {
+        "id": 43527,
+        "code": "UNK",
+        "description": "UNKNOWN"
+    },
+    {
+        "id": 43528,
+        "code": "60",
+        "description": "Toys"
+    },
+    {
+        "id": 43529,
+        "code": "NA",
+        "description": "NOT APPLICABLE"
+    },
+    {
+        "id": 43530,
+        "code": "91",
+        "description": "Literature & Publications"
+    },
+    {
+        "id": 43531,
+        "code": "92",
+        "description": "Souvenirs (local goods)"
+    },
+    {
+        "id": 43532,
+        "code": "0",
+        "description": "UNKNOWN"
+    },
+    {
+        "id": 43533,
+        "code": "80",
+        "description": "Electronics"
+    },
+    {
+        "id": 43534,
+        "code": "70",
+        "description": "Textiles, Leather, Luggage"
+    },
+    {
+        "id": 43535,
+        "code": "10",
+        "description": "Tobacco"
+    },
+    {
+        "id": 43536,
+        "code": "20",
+        "description": "Alcoholic Beverages"
+    },
+    {
+        "id": 43537,
+        "code": "OLD_1",
+        "description": "DUMMY ICC"
+    },
+    {
+        "id": 43538,
+        "code": "-10",
+        "description": "Generic Category"
+    },
+    {
+        "id": 43539,
+        "code": "50",
+        "description": "Watches, Jewelry, Accessories"
+    }
+]

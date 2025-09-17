@@ -1,0 +1,13 @@
+// {
+//   "uploadFileErrors" : null,
+//   "excelErrorDTOs" : [ {
+//     "id" : 278588218,
+//     "error" : "The file uploaded is empty",
+//     "uploadFileId" : 278588217
+//   }, {
+//     "id" : 278588219,
+//     "error" : "Unknown error: The submission could not be parsed.",
+//     "uploadFileId" : 278588217
+//   } ],
+//   "validMappings" : null
+// }

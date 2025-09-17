@@ -1,0 +1,96 @@
+{
+    "uploadFileErrors": [
+        {
+            "id": 278591398,
+            "row": 16,
+            "column": "orderWeek",
+            "errorDescription": "Invalid week number!",
+            "sheet": "Hoja1",
+            "errorCode": "Invalid week number!",
+            "poCode": "4562620543",
+            "uploadFileId": 278591397
+        },
+        {
+            "id": 278591399,
+            "row": 2,
+            "column": "categoryCode",
+            "errorDescription": "Invalid category code",
+            "sheet": "Hoja1",
+            "errorCode": "Invalid category code",
+            "poCode": "4562671679",
+            "uploadFileId": 278591397
+        },
+        {
+            "id": 278591400,
+            "row": 9,
+            "column": "regionCode",
+            "errorDescription": "Invalid region code.",
+            "sheet": "Hoja1",
+            "errorCode": "Invalid region code.",
+            "poCode": "4562671112",
+            "uploadFileId": 278591397
+        },
+        {
+            "id": 278591401,
+            "row": 9,
+            "column": "operationCode",
+            "errorDescription": "Invalid hfm company code",
+            "sheet": "Hoja1",
+            "errorCode": "Invalid hfm company code",
+            "poCode": "4562671112",
+            "uploadFileId": 278591397
+        },
+        {
+            "id": 278591402,
+            "row": 10,
+            "column": "categoryCode",
+            "errorDescription": "Invalid category code",
+            "sheet": "Hoja1",
+            "errorCode": "Invalid category code",
+            "poCode": "4562671113",
+            "uploadFileId": 278591397
+        },
+        {
+            "id": 278591403,
+            "row": 11,
+            "column": "scope",
+            "errorDescription": "Invalid scope (allowed values are Local/Global)",
+            "sheet": "Hoja1",
+            "errorCode": "Invalid scope (allowed values are Local/Global)",
+            "poCode": "4562670030",
+            "uploadFileId": 278591397
+        },
+        {
+            "id": 278591404,
+            "row": 12,
+            "column": "vendorCode",
+            "errorDescription": "Invalid vendor code",
+            "sheet": "Hoja1",
+            "errorCode": "Invalid vendor code",
+            "poCode": "4562670028",
+            "uploadFileId": 278591397
+        },
+        {
+            "id": 278591405,
+            "row": 14,
+            "column": "value",
+            "errorDescription": "Invalid amount value",
+            "sheet": "Hoja1",
+            "errorCode": "Invalid amount value",
+            "poCode": "4562271540",
+            "uploadFileId": 278591397
+        },
+        {
+            "id": 278591406,
+            "row": 15,
+            "column": "currency",
+            "errorDescription": "Invalid currency code",
+            "sheet": "Hoja1",
+            "errorCode": "Invalid currency code",
+            "poCode": "4562670343",
+            "uploadFileId": 278591397
+        }
+    ],
+    "excelErrorDTOs": null,
+    "validMappings": 7
+}

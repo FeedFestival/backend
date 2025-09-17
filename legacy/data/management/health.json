@@ -1,0 +1,44 @@
+{
+    "status": "UP",
+    "components": {
+        "clientConfigServer": {
+            "status": "UNKNOWN",
+            "details": {
+                "error": "no property sources located"
+            }
+        },
+        "db": {
+            "status": "UP",
+            "details": {
+                "database": "Microsoft SQL Server",
+                "validationQuery": "isValid()"
+            }
+        },
+        "discoveryComposite": {
+            "description": "Discovery Client not initialized",
+            "status": "UNKNOWN",
+            "components": {
+                "discoveryClient": {
+                    "description": "Discovery Client not initialized",
+                    "status": "UNKNOWN"
+                }
+            }
+        },
+        "diskSpace": {
+            "status": "UP",
+            "details": {
+                "total": 274283311104,
+                "free": 109089595392,
+                "threshold": 10485760,
+                "path": "C:\\Users\\t-daisim\\Documents\\Projects\\dufry-hub\\PO-MANAGEMENT\\api\\.",
+                "exists": true
+            }
+        },
+        "ping": {
+            "status": "UP"
+        },
+        "refreshScope": {
+            "status": "UP"
+        }
+    }
+}

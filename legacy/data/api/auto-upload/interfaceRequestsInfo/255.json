@@ -1,0 +1,356 @@
+{
+    "autoUploadSchedule": [
+        {
+            "erpSource": "SAP",
+            "weekdayExecutions": {
+                "sunday": [
+                    {
+                        "status": "System Error",
+                        "creationDate": "2024-10-29T12:06:47.010Z",
+                        "numberOfPOs": 0
+                    }
+                ],
+                "saturday": [
+                    {
+                        "status": "No POs in ERP Source",
+                        "creationDate": "2024-10-26T07:00:00.810Z",
+                        "numberOfPOs": 0
+                    }
+                ],
+                "tuesday": [
+                    {
+                        "status": "System Error",
+                        "creationDate": "2024-10-29T12:06:47.010Z",
+                        "numberOfPOs": 0
+                    },
+                    {
+                        "status": "Executed successfully",
+                        "creationDate": "2024-10-29T12:20:45.397Z",
+                        "numberOfPOs": 2
+                    },
+                    {
+                        "status": "Partial",
+                        "creationDate": "2024-10-29T13:29:05.390Z",
+                        "numberOfPOs": 2
+                    },
+                    {
+                        "status": "Pending",
+                        "creationDate": "2024-10-29T18:00:02.200Z",
+                        "numberOfPOs": 1
+                    },
+                    {
+                        "status": "Business Error",
+                        "creationDate": "2024-10-29T18:00:02.807Z",
+                        "numberOfPOs": 1
+                    }
+                ],
+                "wednesday": [
+                    {
+                        "status": "Business Error",
+                        "creationDate": "2024-10-30T18:00:15.373Z",
+                        "numberOfPOs": 1
+                    }
+                ],
+                "thursday": [
+                    {
+                        "status": "Business Error",
+                        "creationDate": "2024-10-31T11:00:20.663Z",
+                        "numberOfPOs": 1
+                    }
+                ],
+                "friday": [],
+                "monday": [
+                    {
+                        "status": "Pending",
+                        "creationDate": "2024-10-28T07:00:00.883Z",
+                        "numberOfPOs": 0
+                    }
+                ]
+            }
+        },
+        {
+            "erpSource": "GAMMA",
+            "weekdayExecutions": {
+                "sunday": [],
+                "saturday": [],
+                "tuesday": [
+                    {
+                        "status": "Executed successfully",
+                        "creationDate": "2024-10-29T16:19:02.013Z",
+                        "numberOfPOs": 4
+                    }
+                ],
+                "wednesday": [],
+                "thursday": [],
+                "friday": [],
+                "monday": [
+                    {
+                        "status": "Executed successfully",
+                        "creationDate": "2024-10-28T13:15:23.650Z",
+                        "numberOfPOs": 10
+                    },
+                    {
+                        "status": "Business Error",
+                        "creationDate": "2024-10-28T13:53:06.683Z",
+                        "numberOfPOs": 1
+                    }
+                ]
+            }
+        }
+    ],
+    "detailedRequestInfo": [
+        {
+            "processedPoNumber": 10,
+            "result": [
+                {
+                    "poCode": "  CDA504-3004591",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "CDA504-3004592",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "CDA504-3004593",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "CDA504-3004594",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "CDA504-3004595",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "CDA504-3004596",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "CDA504-3004597",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "CDA504-3004598",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "CDA504-3004599",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "CDA504-3004510",
+                    "autoUploadPoStatus": "SAVED"
+                }
+            ],
+            "id": 278604533,
+            "requestExecutionDateTime": "2024-10-28T13:15:23.650Z",
+            "erpSource": "GAMMA",
+            "status": "Executed successfully"
+        },
+        {
+            "processedPoNumber": 0,
+            "result": [
+                {
+                    "poCode": "SYSTEM",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": null,
+                            "error": "The call to receive POs failed !"
+                        }
+                    ]
+                }
+            ],
+            "id": 278604549,
+            "requestExecutionDateTime": "2024-10-28T13:25:54.307Z",
+            "erpSource": "SAP",
+            "status": "System Error"
+        },
+        {
+            "processedPoNumber": 4,
+            "result": [
+                {
+                    "poCode": "BPT800-3000201",
+                    "autoUploadPoStatus": "Business Error",
+                    "uploadErrors": [
+                        {
+                            "field": "orderWeek",
+                            "error": "Invalid week: 202421"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "BPT800-3000202",
+                    "autoUploadPoStatus": "Business Error",
+                    "uploadErrors": [
+                        {
+                            "field": "orderWeek",
+                            "error": "Invalid week: 202421"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "BPT800-3000221",
+                    "autoUploadPoStatus": "Business Error",
+                    "uploadErrors": [
+                        {
+                            "field": "orderWeek",
+                            "error": "Invalid week: 202421"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "BPT800-3000231",
+                    "autoUploadPoStatus": "Business Error",
+                    "uploadErrors": [
+                        {
+                            "field": "orderWeek",
+                            "error": "Invalid week: 202421"
+                        }
+                    ]
+                }
+            ],
+            "id": 278604560,
+            "requestExecutionDateTime": "2024-10-28T13:48:04.653Z",
+            "erpSource": "GAMMA",
+            "status": "Business Error"
+        },
+        {
+            "processedPoNumber": 3,
+            "result": [
+                {
+                    "poCode": "BPT800-3000601",
+                    "autoUploadPoStatus": "SAVED"
+                },
+                {
+                    "poCode": "BPT800-3000602",
+                    "autoUploadPoStatus": "Business Error",
+                    "uploadErrors": [
+                        {
+                            "field": "vendorCode",
+                            "error": "Invalid vendor code: 9454554"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "BPT800-3000602",
+                    "autoUploadPoStatus": "Business Error",
+                    "uploadErrors": [
+                        {
+                            "field": "vendorCode",
+                            "error": "Invalid vendor code: 9454554"
+                        }
+                    ]
+                }
+            ],
+            "id": 278604595,
+            "requestExecutionDateTime": "2024-10-28T14:06:59.857Z",
+            "erpSource": "GAMMA",
+            "status": "Partial"
+        },
+        {
+            "processedPoNumber": 0,
+            "result": [
+                {
+                    "poCode": "SYSTEM",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": null,
+                            "error": "The call to receive OPs failed !"
+                        }
+                    ]
+                }
+            ],
+            "id": 278605394,
+            "requestExecutionDateTime": "2024-10-29T12:08:22.303Z",
+            "erpSource": "SAP",
+            "status": "Pending"
+        },
+        {
+            "processedPoNumber": 0,
+            "result": [
+                {
+                    "poCode": "SYSTEM",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": null,
+                            "error": "The call to receive OPs failed !"
+                        }
+                    ]
+                }
+            ],
+            "id": 278605395,
+            "requestExecutionDateTime": "2024-10-29T12:08:36.567Z",
+            "erpSource": "SAP",
+            "status": "New"
+        },
+        {
+            "processedPoNumber": 0,
+            "result": [
+                {
+                    "poCode": "SYSTEM",
+                    "autoUploadPoStatus": "FAILED",
+                    "uploadErrors": [
+                        {
+                            "field": null,
+                            "error": "The call to receive OPs failed !"
+                        }
+                    ]
+                }
+            ],
+            "id": 278605396,
+            "requestExecutionDateTime": "2024-10-29T12:08:46.787Z",
+            "erpSource": "SAP",
+            "status": "Executed successfully"
+        },
+        {
+            "processedPoNumber": 2,
+            "result": [
+                {
+                    "poCode": "4502862702",
+                    "autoUploadPoStatus": "Business Error",
+                    "uploadErrors": [
+                        {
+                            "field": "categoryCode",
+                            "error": "Invalid category code: null"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502862709",
+                    "autoUploadPoStatus": "SAVED"
+                }
+            ],
+            "id": 278605487,
+            "requestExecutionDateTime": "2024-10-29T13:29:05.390Z",
+            "erpSource": "SAP",
+            "status": "Business Error"
+        },
+        {
+            "processedPoNumber": 2,
+            "result": [
+                {
+                    "poCode": "4502862702",
+                    "autoUploadPoStatus": "Business Error",
+                    "uploadErrors": [
+                        {
+                            "field": "categoryCode",
+                            "error": "Invalid category code: null"
+                        }
+                    ]
+                },
+                {
+                    "poCode": "4502862709",
+                    "autoUploadPoStatus": "SAVED"
+                }
+            ],
+            "id": 278605499,
+            "requestExecutionDateTime": "2024-10-29T13:36:53.110Z",
+            "erpSource": "SAP",
+            "status": "No POs in ERP Source"
+        }
+    ]
+}

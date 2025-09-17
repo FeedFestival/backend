@@ -1,0 +1,12 @@
+{
+    "contexts": {
+        "confee": {
+            "beans": {
+                "apiManagementInfo": {
+                    "type": "service",
+                    "scope": "singleton"
+                }
+            }
+        }
+    }
+}

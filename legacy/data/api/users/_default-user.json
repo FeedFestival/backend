@@ -1,0 +1,32 @@
+{
+    "id": 1,
+    "login": "default",
+    "firstName": "21211",
+    "lastName": "System21",
+    "email": "system@localhost1.com",
+    "imageUrl": "",
+    "activated": false,
+    "langKey": "en",
+    "createdBy": "system",
+    "createdDate": null,
+    "lastModifiedBy": "t-daisim",
+    "lastModifiedDate": "2024-10-09T09:23:55.507+00:00",
+    "authorities": ["ROLE_PO_PLANNER", "ROLE_REPORTING", "ROLE_USER", "ROLE_PO_UPLOAD"],
+    "companies": [],
+    "regions": [43890, 43887],
+    "companyRegionAccess": [
+        {
+            "accessType": "region",
+            "accesses": [
+                {
+                    "label": "NORTH AMERICA DP",
+                    "value": "NORTH AMERICA DP"
+                },
+                {
+                    "label": "AMERICA",
+                    "value": "AMERICA"
+                }
+            ]
+        }
+    ]
+}
