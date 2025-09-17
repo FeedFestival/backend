@@ -1,6 +1,29 @@
 {
+  "name": "my-server",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node --loader ts-node/esm run/server.ts",
+		"dev": "nodemon --watch ./ --exec \"node --loader ts-node/esm run/server.ts\""
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
   "devDependencies": {
+    "@types/cors": "^2.8.19",
+		"@types/express": "^5.0.3",
     "@types/node": "^18.19.123",
-    "ts-node": "^10.9.2"
-  }
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+		"cors": "^2.8.5",
+		"express": "^5.1.0",
+		"prettier": "^3.6.2",
+		"rimraf": "^6.0.1",
+		"rxjs": "^7.8.2"
+	}
 }
